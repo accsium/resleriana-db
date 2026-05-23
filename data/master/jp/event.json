@@ -4696,6 +4696,45 @@
     "album_background_image_path_hash": 0,
     "album_button_name": "",
     "album_name": "",
+    "background_image_path_hash": "7381404648594314988",
+    "banner_path_hash": "4251281466612710201",
+    "bgm_path_hash": "9168469247524395181",
+    "end_at": "2026-05-24T03:00:00.000Z",
+    "event_type": 1,
+    "has_first_time_story": true,
+    "home_logo_path_hash": 0,
+    "id": 169,
+    "is_disp_home_banner": true,
+    "is_remind": false,
+    "logo_path_hash": "152065036728231692",
+    "name": "なんでも屋シトリンの魔物リサーチ",
+    "patterns": [
+      {
+        "ids": [100117],
+        "is_direct_opened": false,
+        "type": 1
+      },
+      {
+        "ids": [312],
+        "is_direct_opened": false,
+        "type": 2
+      },
+      {
+        "ids": [127],
+        "is_direct_opened": false,
+        "type": 4
+      }
+    ],
+    "priority": 251,
+    "revival_start_at": null,
+    "reward_end_at": "2026-05-25T03:00:00.000Z",
+    "sort_name": "なんでもやしとりんのまものりさーち",
+    "start_at": "2026-05-08T03:00:00.000Z"
+  },
+  {
+    "album_background_image_path_hash": 0,
+    "album_button_name": "",
+    "album_name": "",
     "background_image_path_hash": 0,
     "banner_path_hash": 0,
     "bgm_path_hash": 0,

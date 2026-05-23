@@ -2490,5 +2490,33 @@
     "priority": 260,
     "start_at": "2026-05-01T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "9205394160849126707",
+    "base_image_path_hash": "1620884666667375460",
+    "elapsed_days": null,
+    "end_at": "2026-05-24T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 182,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "920529794874637689",
+    "name": "なんでも屋シトリンの魔物リサーチ 開催記念 LOGIN BONUS",
+    "priority": 261,
+    "start_at": "2026-05-08T03:00:00.000Z",
+    "type": 2
+  },
+  {
+    "background_image_path_hash": "4220150928854366117",
+    "base_image_path_hash": "7933125506272239970",
+    "elapsed_days": null,
+    "end_at": "2026-05-24T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 183,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "4686178710921280757",
+    "name": "イラストホーム 解放記念プレゼント LOGIN BONUS",
+    "priority": 1000,
+    "start_at": "2026-05-08T03:00:00.000Z",
+    "type": 2
   }
 ]

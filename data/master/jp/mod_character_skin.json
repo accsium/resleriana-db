@@ -1,0 +1,22 @@
+[
+  {
+    "character_skin_id": 34,
+    "condition_tags": [],
+    "id": 1
+  },
+  {
+    "character_skin_id": 35,
+    "condition_tags": [6],
+    "id": 2
+  },
+  {
+    "character_skin_id": 36,
+    "condition_tags": [],
+    "id": 3
+  },
+  {
+    "character_skin_id": 37,
+    "condition_tags": [8, 9],
+    "id": 4
+  }
+]

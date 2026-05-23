@@ -18143,6 +18143,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がシトリン【九偉人 No.4】の時、味方全員はスキル発動前に状態異常が付与されている敵へ与えるスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001281,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 301345,
+    "name": "魔彩ナル傾国ノ瞳・凶華"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -32827,6 +32841,26 @@
   },
   {
     "ability_category_type": null,
+    "description": "「冥き追憶」は「スキルダメージ+50%」と「挑発状態の敵から受けるダメージ-25%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500051,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500200,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 1980245,
+    "name": "気まぐれな小悪魔"
+  },
+  {
+    "ability_category_type": null,
     "description": "味方全員の物攻+{0}%",
     "effects": [
       {
@@ -42682,6 +42716,94 @@
     ],
     "id": 1990546,
     "name": "向き合うって決めたんだ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>自身に回避が付与された時、自身のバーストゲージを{0}%増加<br>自身への攻撃から1ダメージ以上受けなかった時、自身のバーストゲージを{1}%増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001710,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001454,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001459,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001474,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001511,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990547,
+    "name": "九偉人の力-Ⅳ-"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「ゾディアクス」または「ルキドゥス・シデラ」発動後、ディフェンダーの味方全員に以下の追加効果を1回行動終了するまで付与<br>追加効果：「スキル発動後、敵全体に挑発を2回行動終了するまで超高確率で付与」<br><br>スキル発動前に状態異常が付与されている対象を攻撃後、味方全員に「スキルダメージ+{0}%」と「ブレイクダメージ+{1}%」を付与(全て上限300%)<br><br>「冥き追憶」タグを持つキャラ数に応じ、「冥き追憶」の味方全員のスキル威力+8～40%とバトル中に受けるバーストゲージ増加量+8～40%(1～5人で多いほど増加)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001711,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001712,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001713,
+        "limit_count": null,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001714,
+        "limit_count": null,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 91002263,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 91002266,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990548,
+    "name": "愚弄する冥暗"
   },
   {
     "ability_category_type": null,
@@ -63825,6 +63947,106 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターであり敵の攻撃を回避した時、味方全員に「スキルダメージ+{0}％」を1回行動終了するまで付与(上限3個)<br>「九偉人」の時、与える強化効果量+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000381,
+        "limit_count": null,
+        "value": 300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000382,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 4991328,
+    "name": "想力「温泉でほっこり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターであり敵の攻撃を回避した時、味方全員に「スキルダメージ+{0}％」を1回行動終了するまで付与(上限3個)<br>「九偉人」の時、与える強化効果量+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000381,
+        "limit_count": null,
+        "value": 1100
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000382,
+        "limit_count": null,
+        "value": 1400
+      }
+    ],
+    "id": 4991329,
+    "name": "想力「温泉でほっこり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターであり敵の攻撃を回避した時、味方全員に「スキルダメージ+{0}％」を1回行動終了するまで付与(上限3個)<br>「九偉人」の時、与える強化効果量+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000381,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000382,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 4991330,
+    "name": "想力「温泉でほっこり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターであり敵の攻撃を回避した時、味方全員に「スキルダメージ+{0}％」を1回行動終了するまで付与(上限3個)<br>「九偉人」の時、与える強化効果量+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000381,
+        "limit_count": null,
+        "value": 2800
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000382,
+        "limit_count": null,
+        "value": 3100
+      }
+    ],
+    "id": 4991331,
+    "name": "想力「温泉でほっこり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターであり敵の攻撃を回避した時、味方全員に「スキルダメージ+{0}％」を1回行動終了するまで付与(上限3個)<br>「九偉人」の時、与える強化効果量+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000381,
+        "limit_count": null,
+        "value": 3600
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000382,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 4991332,
+    "name": "想力「温泉でほっこり」"
+  },
+  {
+    "ability_category_type": null,
     "description": "突属性のスキルダメージ{0}%アップ",
     "effects": [
       {
@@ -76425,6 +76647,76 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000405,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000957,
+    "name": "ダメージバフ強化【風A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000405,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000958,
+    "name": "ダメージバフ強化【風A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000405,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000959,
+    "name": "ダメージバフ強化【風A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000405,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000960,
+    "name": "ダメージバフ強化【風A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000405,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000961,
+    "name": "ダメージバフ強化【風A】(5)"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が打属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
     "effects": [
       {
@@ -85817,6 +86109,32 @@
       }
     ],
     "id": 26160005,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "氷、風、打、突属性以外の属性耐性DOWN無効",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000719,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000722,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000717,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26160006,
     "name": ""
   },
   {
@@ -112606,6 +112924,40 @@
     ],
     "id": 600000809,
     "name": "ハイディ【Buddy's Returning】またはカロリン【Courageous Sister】を編成時、被ダメージ減少"
+  },
+  {
+    "ability_category_type": null,
+    "description": "シトリン【九偉人 No.4】の与える強化効果量+150%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000908,
+        "limit_count": null,
+        "value": 15000
+      }
+    ],
+    "id": 600000810,
+    "name": "シトリン【九偉人 No.4】の強化効果量UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "シトリン【九偉人 No.4】またはハイディ【Buddy's Returning】を編成時、被ダメージ-25％(上限25％)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000909,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000906,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 600000811,
+    "name": "シトリン【九偉人 No.4】またはハイディ【Buddy's Returning】を編成時、被ダメージ減少"
   },
   {
     "ability_category_type": null,

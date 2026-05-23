@@ -5248,5 +5248,47 @@
     },
     "status_buffs": [],
     "value": 300
+  },
+  {
+    "emblem_id": 127,
+    "equipment_tool_buffs": [],
+    "id": 391,
+    "image_path_hash": "8748721218389145949",
+    "rarity": 1,
+    "requirement": {
+      "condition_id": 3034,
+      "count": 1,
+      "name": "シトリンの魔物リサーチ　ボスチャレンジをスコアランクCでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 100
+  },
+  {
+    "emblem_id": 127,
+    "equipment_tool_buffs": [],
+    "id": 392,
+    "image_path_hash": "7125211139485623873",
+    "rarity": 2,
+    "requirement": {
+      "condition_id": 3035,
+      "count": 1,
+      "name": "シトリンの魔物リサーチ　ボスチャレンジをスコアランクAでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 200
+  },
+  {
+    "emblem_id": 127,
+    "equipment_tool_buffs": [],
+    "id": 393,
+    "image_path_hash": "4525170567861913119",
+    "rarity": 3,
+    "requirement": {
+      "condition_id": 3036,
+      "count": 1,
+      "name": "シトリンの魔物リサーチ　ボスチャレンジをスコアランクSSでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 300
   }
 ]

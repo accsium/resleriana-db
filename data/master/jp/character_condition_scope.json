@@ -902,5 +902,13 @@
     "id": 122,
     "max_character_number": null,
     "min_character_number": 4
+  },
+  {
+    "attack_attributes": [],
+    "character_ids": [],
+    "character_tag_ids": [38, 13, 10],
+    "id": 123,
+    "max_character_number": null,
+    "min_character_number": null
   }
 ]

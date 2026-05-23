@@ -909,6 +909,15 @@
     "stimulator_rarity_id": 3
   },
   {
+    "ability_ids": [7000957, 7000958, 7000959, 7000960, 7000961],
+    "category_id": 2,
+    "disable_duplicate_assign": true,
+    "id": 118,
+    "name": "ダメージバフ強化【風A】",
+    "quality_group_ids": [406, 407, 408, 409, 410],
+    "stimulator_rarity_id": 3
+  },
+  {
     "ability_ids": [7000967, 7000968, 7000969, 7000970, 7000971],
     "category_id": 2,
     "disable_duplicate_assign": true,

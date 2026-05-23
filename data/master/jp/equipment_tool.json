@@ -50334,5 +50334,42 @@
       }
     ],
     "still_path_hash": "7047960963736359466"
+  },
+  {
+    "ability_ids": [301345],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 100
+    },
+    "attack_attributes": [8],
+    "description": "自身がシトリン【九偉人 No.4】の時、味方全員はスキル発動前に状態異常が付与されている敵へ与えるスキル威力+{0}%",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1263,
+    "large_still_path_hash": "8787296267701140789",
+    "name": "魔彩ナル傾国ノ瞳・凶華",
+    "quality_group_id": 39,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 100
+    },
+    "roles": [4],
+    "slot_type": 1,
+    "small_still_path_hash": "8889499576206838038",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 150
+      }
+    ],
+    "still_path_hash": "5979002909449473272"
   }
 ]

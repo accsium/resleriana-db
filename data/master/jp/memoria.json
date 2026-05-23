@@ -17475,6 +17475,75 @@
     "still_path_hash": "7894262393434062606"
   },
   {
+    "ability_ids": [4991328, 4991329, 4991330, 4991331, 4991332],
+    "attack_attributes": [8],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "温泉で温まるハイディとパトリツィア。ハイディは、気持ちよさそうに身体を伸ばす。\n「ハイディさん、なんだかお疲れみたいですね」\n「久々に相棒の無茶に付き合ったからねー。ま、なんだかんだ、それが一番楽しいんだけどさ」\nパトリツィアも微笑み、頷きを返すのだった。",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 6294,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 12,
+        "position_y": 451,
+        "width": 1000
+      },
+      {
+        "position_x": 108,
+        "position_y": 889,
+        "width": 800
+      }
+    ],
+    "id": 30230,
+    "illustrator_id": 93,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "6989669308488156050",
+    "memoria_small_still_cut_position": 2,
+    "name": "温泉でほっこり",
+    "narrow_still_path_hash": "8601074356852098551",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 3,
+    "small_still_path_hash": "2929096777394517867",
+    "start_at": "2026-05-08T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31098,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31010,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "4190067379322760358"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

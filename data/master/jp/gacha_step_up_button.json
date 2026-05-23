@@ -18331,6 +18331,131 @@
     "medal_quantity": 5
   },
   {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23872,
+    "gacha_rate_set_name": "【STEP1】冥き追憶 ささやく小悪魔 シトリン LEGEND FES[有償限定]",
+    "id": 874,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23873,
+    "gacha_rate_set_name": "【STEP2】冥き追憶 ささやく小悪魔 シトリン LEGEND FES[有償限定]",
+    "id": 875,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23874,
+    "gacha_rate_set_name": "【STEP3】冥き追憶 ささやく小悪魔 シトリン LEGEND FES[有償限定]",
+    "id": 876,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23875,
+    "gacha_rate_set_name": "【STEP4】冥き追憶 ささやく小悪魔 シトリン LEGEND FES[有償限定]",
+    "id": 877,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23876,
+    "gacha_rate_set_name": "【STEP5】冥き追憶 ささやく小悪魔 シトリン LEGEND FES[有償限定]",
+    "id": 878,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
     "additional_medal": 0,
     "additional_pieces": [],
     "cost": {

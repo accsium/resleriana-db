@@ -1,82 +1,128 @@
 [
   {
+    "display_end_at": null,
     "id": 1,
     "image_path_hash": "6504417424804190409",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム01",
     "priority": 1,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 2,
     "image_path_hash": "4741221064781268949",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム02",
     "priority": 2,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 3,
     "image_path_hash": "2153076932439648139",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム03",
     "priority": 3,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 4,
     "image_path_hash": "2016397789490436244",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム04",
     "priority": 4,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 5,
     "image_path_hash": "5176562844563536074",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム05",
     "priority": 5,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 6,
     "image_path_hash": "6655966363947001816",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム06",
     "priority": 6,
     "start_at": "2024-05-10T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 7,
     "image_path_hash": "86445338457255568",
     "key_quest_id": 101025033,
+    "key_tasks": [],
     "name": "フレーム07",
     "priority": 7,
     "start_at": "2025-03-06T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 8,
     "image_path_hash": "5794839912732137962",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム08",
     "priority": 8,
     "start_at": "2026-04-24T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 9,
     "image_path_hash": "884428817956059576",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム09",
     "priority": 9,
     "start_at": "2026-04-24T03:00:00.000Z"
   },
   {
+    "display_end_at": null,
     "id": 10,
     "image_path_hash": "7488913407195144017",
     "key_quest_id": null,
+    "key_tasks": [],
     "name": "フレーム10",
     "priority": 10,
     "start_at": "2026-04-24T03:00:00.000Z"
+  },
+  {
+    "display_end_at": "2026-05-15T03:00:00.000Z",
+    "id": 11,
+    "image_path_hash": "4305582466288254735",
+    "key_quest_id": null,
+    "key_tasks": [
+      {
+        "condition_id": 3027,
+        "count": 1,
+        "name": "冥き追憶 ささやく小悪魔 シトリン LEGEND FESを70回引こう\n※有償限定も含む"
+      }
+    ],
+    "name": "フレーム12",
+    "priority": 12,
+    "start_at": "2026-05-08T03:00:00.000Z"
+  },
+  {
+    "display_end_at": null,
+    "id": 102,
+    "image_path_hash": "3658769861163765301",
+    "key_quest_id": null,
+    "key_tasks": [],
+    "name": "フレーム11",
+    "priority": 11,
+    "start_at": "2026-05-07T03:00:00.000Z"
   }
 ]

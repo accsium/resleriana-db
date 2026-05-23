@@ -7486,5 +7486,44 @@
         "text": "これからのハイディちゃんは、逃げない！\n媚びない！　投げ出さない！　多分！"
       }
     ]
+  },
+  {
+    "character_id": 46202,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 195,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "ここに来ると、美味しいお茶とお菓子に\nありつける気がするなぁ"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "異邦人って面白いね！　元の世界の話とか\n他にも色々聞いてみたいなあ"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "やっぱり面白いことがあると、毎日が輝く\nよねぇ。今日は何が起こるかな"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "これでも商人としては結構やり手なんだ。\n情報収集はお手の物だよ♪"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "アルビーナはちゃんと反応してくれるから\nからかいがいがあるんだよな～"
+      }
+    ]
   }
 ]

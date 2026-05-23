@@ -2241,6 +2241,16 @@
   },
   {
     "card_type": 4,
+    "id": 238501,
+    "rarity": 3
+  },
+  {
+    "card_type": 17,
+    "id": 238502,
+    "rarity": 3
+  },
+  {
+    "card_type": 4,
     "id": 300101,
     "rarity": 3
   },

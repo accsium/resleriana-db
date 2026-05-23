@@ -3,27 +3,24 @@
     "character_conditions": [
       {
         "allowed_character_ids": [35001, 35003, 35002],
+        "allowed_character_skin_ids": [35],
         "height_difference_threshold": 10,
         "reject_character_ids": [29801],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
-        "allowed_character_ids": [33401],
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 10,
-        "reject_character_ids": [35001],
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       }
     ],
-    "costs": [
-      {
-        "id": 1,
-        "quantity": 300,
-        "resource_params": null,
-        "type": 1
-      }
-    ],
+    "costs": [],
     "id": 18,
     "key_quest_id": 101001007,
     "key_tasks": [],
@@ -37,36 +34,46 @@
     "character_conditions": [
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 10,
         "reject_character_ids": [40101],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [40101],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [40101],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [40101],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [40101],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       }
@@ -92,36 +99,46 @@
     "character_conditions": [
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": [2]
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 10,
         "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [9],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": [1]
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       }
@@ -147,36 +164,46 @@
     "character_conditions": [
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [27001, 33801],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [27001],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [27001],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [27001],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
         "height_difference_threshold": 50,
         "reject_character_ids": [27001],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       }
@@ -202,36 +229,46 @@
     "character_conditions": [
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [34],
         "height_difference_threshold": 50,
         "reject_character_ids": [29203, 33403],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [34],
         "height_difference_threshold": 50,
         "reject_character_ids": [29203, 33403],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [34],
         "height_difference_threshold": 50,
         "reject_character_ids": [29203, 33403],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [34],
         "height_difference_threshold": 50,
         "reject_character_ids": [29203, 33403],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       },
       {
         "allowed_character_ids": [],
+        "allowed_character_skin_ids": [34],
         "height_difference_threshold": 50,
         "reject_character_ids": [29203, 33403],
+        "reject_character_skin_ids": [],
         "reject_condition_tag_ids": [12],
         "reject_gender_ids": []
       }

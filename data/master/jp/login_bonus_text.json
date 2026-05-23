@@ -5430,6 +5430,36 @@
     "text": "特別な贈り物だってさ！　大事に使おうね～"
   },
   {
+    "character_id": 46202,
+    "id": 46202001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "えへへ！　何かもらったよ！"
+  },
+  {
+    "character_id": 46202,
+    "id": 46202002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "これ、有効活用したほうがいいよね～！"
+  },
+  {
+    "character_id": 46202,
+    "id": 46202003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "特別な贈り物だってさ！　大事に使おうね～"
+  },
+  {
     "character_id": 46401,
     "id": 46401001,
     "is_regular": true,
