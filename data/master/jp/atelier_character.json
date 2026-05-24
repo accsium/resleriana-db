@@ -7525,5 +7525,44 @@
         "text": "アルビーナはちゃんと反応してくれるから\nからかいがいがあるんだよな～"
       }
     ]
+  },
+  {
+    "character_id": 33404,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 196,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "アトリエって落ち着くよねぇ。いや、\n片付きすぎててなんか落ち着かないかも"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "ここの本、勉強になるなぁ……あ、\n読んだ後どこに戻せばいいんだっけ"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "えーっと、あれはどこにしまったかな……\nうぅ、プラフタに叱られちゃうよ……"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "子どもの頃のプラフタに会って……昔から\nプラフタはプラフタなんだなぁって思ったな"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "公認錬金術士になるため、この世界でも\nできることはたくさんあるはず！"
+      }
+    ]
   }
 ]

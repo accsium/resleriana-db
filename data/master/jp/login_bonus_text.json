@@ -1750,6 +1750,36 @@
     "text": "今だけの贈りもの、受け取っちゃおう！"
   },
   {
+    "character_id": 33404,
+    "id": 33404001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "えへへ。いいもの貰っちゃった！"
+  },
+  {
+    "character_id": 33404,
+    "id": 33404002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "なくさないように決まった場所に\nしまわないと……"
+  },
+  {
+    "character_id": 33404,
+    "id": 33404003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "特別な贈り物を貰ったみたい！\n大事に使うね！"
+  },
+  {
     "character_id": 33501,
     "id": 33501001,
     "is_regular": true,

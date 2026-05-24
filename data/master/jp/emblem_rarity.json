@@ -5290,5 +5290,89 @@
     },
     "status_buffs": [],
     "value": 300
+  },
+  {
+    "emblem_id": 128,
+    "equipment_tool_buffs": [],
+    "id": 394,
+    "image_path_hash": "1172155218212355644",
+    "rarity": 1,
+    "requirement": {
+      "condition_id": 3054,
+      "count": 5,
+      "name": "獣人の国ベスティラ　ミッションバトルのミッションを5個クリアしよう"
+    },
+    "status_buffs": [],
+    "value": 100
+  },
+  {
+    "emblem_id": 128,
+    "equipment_tool_buffs": [],
+    "id": 395,
+    "image_path_hash": "850110136475803938",
+    "rarity": 2,
+    "requirement": {
+      "condition_id": 3054,
+      "count": 10,
+      "name": "獣人の国ベスティラ　ミッションバトルのミッションを10個クリアしよう"
+    },
+    "status_buffs": [],
+    "value": 200
+  },
+  {
+    "emblem_id": 128,
+    "equipment_tool_buffs": [],
+    "id": 396,
+    "image_path_hash": "6332419286880829824",
+    "rarity": 3,
+    "requirement": {
+      "condition_id": 3054,
+      "count": 15,
+      "name": "獣人の国ベスティラ　ミッションバトルのミッションを15個クリアしよう"
+    },
+    "status_buffs": [],
+    "value": 300
+  },
+  {
+    "emblem_id": 129,
+    "equipment_tool_buffs": [],
+    "id": 397,
+    "image_path_hash": "3651110521938352848",
+    "rarity": 1,
+    "requirement": {
+      "condition_id": 3058,
+      "count": 1,
+      "name": "ピルッツァ　前編ボスチャレンジをスコアランクCでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 100
+  },
+  {
+    "emblem_id": 129,
+    "equipment_tool_buffs": [],
+    "id": 398,
+    "image_path_hash": "2964283294601971150",
+    "rarity": 2,
+    "requirement": {
+      "condition_id": 3059,
+      "count": 1,
+      "name": "ピルッツァ　前編ボスチャレンジをスコアランクAでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 200
+  },
+  {
+    "emblem_id": 129,
+    "equipment_tool_buffs": [],
+    "id": 399,
+    "image_path_hash": "8434758949510849940",
+    "rarity": 3,
+    "requirement": {
+      "condition_id": 3060,
+      "count": 1,
+      "name": "ピルッツァ　前編ボスチャレンジをスコアランクSSでクリアしよう"
+    },
+    "status_buffs": [],
+    "value": 300
   }
 ]

@@ -963,5 +963,10 @@
     "character_id": 46202,
     "condition_tags": [],
     "id": 193
+  },
+  {
+    "character_id": 33404,
+    "condition_tags": [8, 6],
+    "id": 194
   }
 ]

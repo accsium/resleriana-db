@@ -5841,6 +5841,105 @@
     "voice_actor_id": 27
   },
   {
+    "ability_ids": [1990549, 1990550],
+    "acquisition_movie_path_hash": "4651518754867792212",
+    "acquisition_text": "あたし、やっぱり思うんだ。錬金術は\n夢を叶えるお手伝いが出来る力だって！",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【Memory of Dreams】",
+    "attack_attributes": [8],
+    "base_character_id": 334,
+    "battle_tool_trait_ids": [11, 44],
+    "board_ability1_ids": [1990450, 1990425, 1990400],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003808, 14003808, 14003808, 14003809, 14003810, 14003811, 14003812],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 933404,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "天真爛漫な錬金術士。\nみんなを幸せにする錬金術士を目指し、亡き祖母の背中を追って日々奮闘している。\n明るくほわっとした性格だが、真面目な努力家。\n細かいことが苦手だったり、自分一人で問題を抱えがちな一面も。",
+    "equipment_tool_trait_ids": [111],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 334042,
+    "extra_skill_ids": [],
+    "fullname": "ソフィー・ノイエンミュラー",
+    "growboard_id": 334041,
+    "id": 33404,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 59,
+      "defense": 77,
+      "hp": 236,
+      "magic": 64,
+      "mental": 71,
+      "speed": 275
+    },
+    "is_alchemist": true,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980246,
+          "combat_power_coefficient": 3500,
+          "condition_ids": [55]
+        }
+      ],
+      "description": "「約束と協力」は「物攻・魔攻・物防・魔防+30%」",
+      "name": "おばあちゃんから学んだこと"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "5119749004295650809",
+    "motion_type": 2,
+    "name": "ソフィー",
+    "neo_growboard_id": 334043,
+    "normal1_skill_ids": [11003798, 11003799, 11003800, 11003801, 11003802],
+    "normal2_skill_ids": [12003803, 12003804, 12003805, 12003806, 12003807],
+    "original_title_id": 23,
+    "overlay_name": "Sophie Neuenmuller",
+    "personality": 1,
+    "profile_voice_text": "あたしに錬金術の道を示したのは、\nおばあちゃんとプラフタだよ",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 5
+    },
+    "result_timeline_hash": "6072998401485971405",
+    "role": 3,
+    "series_id": 8,
+    "sort_name": "ソフィー",
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "733407879256731115",
+        "large_still_path_hash": "5639627861660748094",
+        "narrow_still_path_hash": "2931746982917242601",
+        "rarity": null,
+        "still_path_hash": "2506183186670157961"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500728, 500726, 500724, 500722, 500720, 500718, 500716, 500714],
+    "support_color_id": 3,
+    "tag_ids": [4, 6, 9, 25],
+    "trait_color_id": 4,
+    "voice_actor_id": 27
+  },
+  {
     "ability_ids": [1990108, 1990109],
     "acquisition_movie_path_hash": "8531451473280686535",
     "acquisition_text": "錬金術士への道は、一日にして成らずです。\nさあ、私と共に参りましょう",

@@ -14346,6 +14346,79 @@
     "timeline_path_hash": "5965260985645636413"
   },
   {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "id": 1006,
+    "key_tasks": [],
+    "name": "立ち2",
+    "photo_background_id": null,
+    "priority": 10267,
+    "start_at": null,
+    "timeline_path_hash": "5187642666755126634"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "id": 1007,
+    "key_tasks": [],
+    "name": "るんるん",
+    "photo_background_id": null,
+    "priority": 10268,
+    "start_at": null,
+    "timeline_path_hash": "8200260564309793361"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "id": 1008,
+    "key_tasks": [
+      {
+        "condition_id": 3030,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "ガッツポーズ",
+    "photo_background_id": null,
+    "priority": 10269,
+    "start_at": null,
+    "timeline_path_hash": "521752698663739877"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "id": 1009,
+    "key_tasks": [
+      {
+        "condition_id": 3033,
+        "count": 3,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "怒る",
+    "photo_background_id": null,
+    "priority": 10270,
+    "start_at": null,
+    "timeline_path_hash": "258503542410291862"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "id": 1010,
+    "key_tasks": [
+      {
+        "condition_id": 3031,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "ユニークシーン",
+    "photo_background_id": null,
+    "priority": 10271,
+    "start_at": null,
+    "timeline_path_hash": "1177696178624143248"
+  },
+  {
     "character_id": 10101,
     "character_skin_id": null,
     "id": 1011,
@@ -16390,5 +16463,38 @@
     "priority": 10457,
     "start_at": null,
     "timeline_path_hash": "7881038286274614620"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99939,
+    "id": 1197,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "photo_background_id": null,
+    "priority": 1000005,
+    "start_at": null,
+    "timeline_path_hash": "4656061485428127347"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99940,
+    "id": 1211,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "photo_background_id": null,
+    "priority": 1000006,
+    "start_at": null,
+    "timeline_path_hash": "6448914883723374642"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99941,
+    "id": 1212,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "photo_background_id": null,
+    "priority": 1000007,
+    "start_at": null,
+    "timeline_path_hash": "6177722805754044388"
   }
 ]

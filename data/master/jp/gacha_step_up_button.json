@@ -18456,6 +18456,226 @@
     "medal_quantity": 5
   },
   {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [33404],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23902,
+    "gacha_rate_set_name": "【STEP1】アトリエシリーズ29th LEGEND FES[有償限定]",
+    "id": 879,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [33404],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23903,
+    "gacha_rate_set_name": "【STEP2】アトリエシリーズ29th LEGEND FES[有償限定]",
+    "id": 880,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [33404],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23904,
+    "gacha_rate_set_name": "【STEP3】アトリエシリーズ29th LEGEND FES[有償限定]",
+    "id": 881,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [33404],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23905,
+    "gacha_rate_set_name": "【STEP4】アトリエシリーズ29th LEGEND FES[有償限定]",
+    "id": 882,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [33404],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23906,
+    "gacha_rate_set_name": "【STEP5】アトリエシリーズ29th LEGEND FES[有償限定]",
+    "id": 883,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23922,
+    "gacha_rate_set_name": "【STEP1】アトリエシリーズ29th 錬金術と共に LEGEND FES[有償限定]",
+    "id": 884,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23923,
+    "gacha_rate_set_name": "【STEP2】アトリエシリーズ29th 錬金術と共に LEGEND FES[有償限定]",
+    "id": 885,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23924,
+    "gacha_rate_set_name": "【STEP3】アトリエシリーズ29th 錬金術と共に LEGEND FES[有償限定]",
+    "id": 886,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": null,
+    "description": "PU確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23925,
+    "gacha_rate_set_name": "【STEP4】アトリエシリーズ29th 錬金術と共に LEGEND FES[有償限定]",
+    "id": 887,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
     "additional_medal": 0,
     "additional_pieces": [],
     "cost": {
@@ -18983,6 +19203,405 @@
     "gacha_rate_set_id": 31000037,
     "gacha_rate_set_name": "【STEP7】クラウディア 極東の旅人 衣装調合",
     "id": 10063,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000041,
+    "gacha_rate_set_name": "【STEP1】リラ クラシックオニキス 衣装調合",
+    "id": 10064,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000042,
+    "gacha_rate_set_name": "【STEP2】リラ クラシックオニキス 衣装調合",
+    "id": 10065,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000043,
+    "gacha_rate_set_name": "【STEP3】リラ クラシックオニキス 衣装調合",
+    "id": 10066,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000044,
+    "gacha_rate_set_name": "【STEP4】リラ クラシックオニキス 衣装調合",
+    "id": 10067,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000045,
+    "gacha_rate_set_name": "【STEP5】リラ クラシックオニキス 衣装調合",
+    "id": 10068,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000046,
+    "gacha_rate_set_name": "【STEP6】リラ クラシックオニキス 衣装調合",
+    "id": 10069,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1394,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000047,
+    "gacha_rate_set_name": "【STEP7】リラ クラシックオニキス 衣装調合",
+    "id": 10070,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000051,
+    "gacha_rate_set_name": "【STEP1】リディー なりきりマリー 衣装調合",
+    "id": 10071,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000052,
+    "gacha_rate_set_name": "【STEP2】リディー なりきりマリー 衣装調合",
+    "id": 10072,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000053,
+    "gacha_rate_set_name": "【STEP3】リディー なりきりマリー 衣装調合",
+    "id": 10073,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000054,
+    "gacha_rate_set_name": "【STEP4】リディー なりきりマリー 衣装調合",
+    "id": 10074,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000055,
+    "gacha_rate_set_name": "【STEP5】リディー なりきりマリー 衣装調合",
+    "id": 10075,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000056,
+    "gacha_rate_set_name": "【STEP6】リディー なりきりマリー 衣装調合",
+    "id": 10076,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1396,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000057,
+    "gacha_rate_set_name": "【STEP7】リディー なりきりマリー 衣装調合",
+    "id": 10077,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000061,
+    "gacha_rate_set_name": "【STEP1】スール なりきりエリー 衣装調合",
+    "id": 10078,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000062,
+    "gacha_rate_set_name": "【STEP2】スール なりきりエリー 衣装調合",
+    "id": 10079,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000063,
+    "gacha_rate_set_name": "【STEP3】スール なりきりエリー 衣装調合",
+    "id": 10080,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000064,
+    "gacha_rate_set_name": "【STEP4】スール なりきりエリー 衣装調合",
+    "id": 10081,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000065,
+    "gacha_rate_set_name": "【STEP5】スール なりきりエリー 衣装調合",
+    "id": 10082,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000066,
+    "gacha_rate_set_name": "【STEP6】スール なりきりエリー 衣装調合",
+    "id": 10083,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1397,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000067,
+    "gacha_rate_set_name": "【STEP7】スール なりきりエリー 衣装調合",
+    "id": 10084,
     "is_always_display": true,
     "is_wish_list": false,
     "medal_quantity": 0

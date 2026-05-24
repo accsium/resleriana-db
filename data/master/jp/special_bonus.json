@@ -3094,5 +3094,65 @@
     "event_ids": [169],
     "id": 103,
     "start_at": "2026-05-08T03:00:00.000Z"
+  },
+  {
+    "bonuses": [
+      {
+        "effects": [
+          {
+            "item_ids": [],
+            "limit": 200,
+            "targets": [
+              {
+                "character_scope_ids": [],
+                "memoria_scope_ids": [],
+                "owned_sp_bonus_ids": [61],
+                "value": null
+              }
+            ]
+          }
+        ],
+        "name": "",
+        "type": 5,
+        "warning_text": ""
+      }
+    ],
+    "difficulties": [],
+    "end_at": "2026-05-31T03:00:00.000Z",
+    "episode_categories": [12],
+    "event_id": 170,
+    "event_ids": [170],
+    "id": 104,
+    "start_at": "2026-05-15T03:00:00.000Z"
+  },
+  {
+    "bonuses": [
+      {
+        "effects": [
+          {
+            "item_ids": [],
+            "limit": 200,
+            "targets": [
+              {
+                "character_scope_ids": [],
+                "memoria_scope_ids": [],
+                "owned_sp_bonus_ids": [62],
+                "value": null
+              }
+            ]
+          }
+        ],
+        "name": "",
+        "type": 5,
+        "warning_text": ""
+      }
+    ],
+    "difficulties": [],
+    "end_at": "2026-06-14T03:00:00.000Z",
+    "episode_categories": [12],
+    "event_id": 171,
+    "event_ids": [171],
+    "id": 105,
+    "start_at": "2026-05-22T03:00:00.000Z"
   }
 ]

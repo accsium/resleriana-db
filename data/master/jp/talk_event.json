@@ -6006,6 +6006,97 @@
     "start_asset_hash": 0
   },
   {
+    "id": 17001001,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "3724978887338728688",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001002,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "4064134280183598934",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001003,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "7746531934436633444",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001004,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "4823104939171744101",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001005,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "1227403776752086355",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001006,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "1936513947833515767",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17001007,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "5276073018348591809",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101001,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "346838592740742115",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101002,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "1082917572749688903",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101003,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "6692571780126762097",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101004,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "8470957745515873912",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101005,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "2767851646830846530",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 17101006,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": false,
+    "main_asset_hash": "3296105511550087652",
+    "start_asset_hash": 0
+  },
+  {
     "id": 101001001,
     "is_avant_title_move_continue": true,
     "is_avant_title_move_from_home": true,

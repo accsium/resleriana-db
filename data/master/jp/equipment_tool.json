@@ -50371,5 +50371,200 @@
       }
     ],
     "still_path_hash": "5979002909449473272"
+  },
+  {
+    "ability_ids": [301346],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 100
+    },
+    "attack_attributes": [8],
+    "description": "自身がソフィー【Memory of Dreams】でありHPが85%以上の状態で攻撃を受けた時、得意属性が風属性の味方全員のバーストゲージを{0}％増加",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1264,
+    "large_still_path_hash": "7096223007479341609",
+    "name": "星導きの杖",
+    "quality_group_id": 31,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [3],
+    "slot_type": 1,
+    "small_still_path_hash": "2048239732588078114",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 150
+      }
+    ],
+    "still_path_hash": "3875550461885473228"
+  },
+  {
+    "ability_ids": [301347],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 20,
+      "ice": 20,
+      "impact": 20,
+      "lightning": 20,
+      "piercing": 20,
+      "slashing": 20,
+      "wind": 20
+    },
+    "attack_attributes": [],
+    "description": "味方全員のクリティカルダメージ+{0}％",
+    "easy_synthesis_trait_lottery_id": 3,
+    "id": 1265,
+    "large_still_path_hash": "4492250856573796983",
+    "name": "ヴェールキュイール",
+    "quality_group_id": 33,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 100
+    },
+    "roles": [4],
+    "slot_type": 2,
+    "small_still_path_hash": "4504657866497032398",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 75
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 75
+      }
+    ],
+    "still_path_hash": "1668502047784273184"
+  },
+  {
+    "ability_ids": [301348],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 20,
+      "ice": 20,
+      "impact": 20,
+      "lightning": 20,
+      "piercing": 20,
+      "slashing": 20,
+      "wind": 20
+    },
+    "attack_attributes": [],
+    "description": "味方全員のクリティカルダメージ+{0}％",
+    "easy_synthesis_trait_lottery_id": 3,
+    "id": 1266,
+    "large_still_path_hash": "4492250856573796983",
+    "name": "ヴェールキュイール",
+    "quality_group_id": 33,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 100
+    },
+    "roles": [4],
+    "slot_type": 2,
+    "small_still_path_hash": "4504657866497032398",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 5,
+        "value": 50
+      },
+      {
+        "change_method": 1,
+        "status_type": 6,
+        "value": 50
+      }
+    ],
+    "still_path_hash": "1668502047784273184"
+  },
+  {
+    "ability_ids": [301349],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 20,
+      "ice": 20,
+      "impact": 20,
+      "lightning": 20,
+      "piercing": 20,
+      "slashing": 20,
+      "wind": 20
+    },
+    "attack_attributes": [],
+    "description": "味方全員の全体攻撃から受けるダメージ-{0}%(固定)",
+    "easy_synthesis_trait_lottery_id": 2,
+    "id": 1267,
+    "large_still_path_hash": "4056975054873066858",
+    "name": "堅甲の護符",
+    "quality_group_id": 23,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [3],
+    "slot_type": 3,
+    "small_still_path_hash": "3310461311961809334",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 400
+      }
+    ],
+    "still_path_hash": "312270879128044636"
+  },
+  {
+    "ability_ids": [301350],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 20,
+      "ice": 20,
+      "impact": 20,
+      "lightning": 20,
+      "piercing": 20,
+      "slashing": 20,
+      "wind": 20
+    },
+    "attack_attributes": [],
+    "description": "味方全員の全体攻撃から受けるダメージ-{0}%(固定)",
+    "easy_synthesis_trait_lottery_id": 2,
+    "id": 1268,
+    "large_still_path_hash": "4056975054873066858",
+    "name": "堅甲の護符",
+    "quality_group_id": 23,
+    "rarity": 2,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 100,
+      "supporter": 0
+    },
+    "roles": [3],
+    "slot_type": 3,
+    "small_still_path_hash": "3310461311961809334",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 1,
+        "value": 250
+      }
+    ],
+    "still_path_hash": "312270879128044636"
   }
 ]

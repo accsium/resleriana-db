@@ -17544,6 +17544,213 @@
     "still_path_hash": "4190067379322760358"
   },
   {
+    "ability_ids": [4991333, 4991334, 4991335, 4991336, 4991337],
+    "attack_attributes": [8],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "脚立に登り、本を手に取るソフィー。\n彼女の、いつもより高い目線に入りたくて。\n彼女に、気付いてほしくて――\nこちらを振り向いた彼女と、視線が交わる。\n――心を見透かされたような気がした。",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 7020,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 56,
+        "position_y": 442,
+        "width": 900
+      },
+      {
+        "position_x": 3,
+        "position_y": 1059,
+        "width": 800
+      }
+    ],
+    "id": 30231,
+    "illustrator_id": 8,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "4674911835910640867",
+    "memoria_small_still_cut_position": 1,
+    "name": "見上げた先の微笑み",
+    "narrow_still_path_hash": "6372793620408563234",
+    "rarity": 3,
+    "roles": [3],
+    "second_cut": 3,
+    "small_still_path_hash": "5151887456817352803",
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31148,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31048,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31048,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31098,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31098,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "2194625685884015527"
+  },
+  {
+    "ability_ids": [4991343, 4991344, 4991345, 4991346, 4991347],
+    "attack_attributes": [5, 6, 7, 8],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "輝きを放つ月の下、レスナは視線を上げた。\n夜空を駆け抜ける幾筋もの光が、儚くも鮮やかに瞬き、願いをそっと運んでいく。\n「流れ星よ、どうか私たちを導いてください」\n\nこれからも、錬金術と共に歩んでいく。",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 6855,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 56,
+        "position_y": 320,
+        "width": 900
+      },
+      {
+        "position_x": 109,
+        "position_y": 1086,
+        "width": 900
+      }
+    ],
+    "id": 30232,
+    "illustrator_id": 46,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "7954448028355198086",
+    "memoria_small_still_cut_position": 1,
+    "name": "流れ星に願いを込めて",
+    "narrow_still_path_hash": "1601850674237698777",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 3,
+    "small_still_path_hash": "8584306742700135067",
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31078,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31030,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "4352291868663030633"
+  },
+  {
+    "ability_ids": [4991338, 4991339, 4991340, 4991341, 4991342],
+    "attack_attributes": [1, 2, 3],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "輝きを放つ月の下、ヴァレリアは視線を上げた。\n夜空を駆け抜ける幾筋もの光が、儚くも鮮やかに瞬き、見上げる者の心を照らしていく。\n「レスナの願い、私がそばで支えるわ」\n\nこれからも、錬金術と共に歩んでいく。",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 7002,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 56,
+        "position_y": 321,
+        "width": 900
+      },
+      {
+        "position_x": 109,
+        "position_y": 1065,
+        "width": 900
+      }
+    ],
+    "id": 30233,
+    "illustrator_id": 54,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "3575864314735913744",
+    "memoria_small_still_cut_position": 1,
+    "name": "星降る空を見上げて",
+    "narrow_still_path_hash": "8607649345899750825",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 3,
+    "small_still_path_hash": "3275608832731672791",
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31078,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31030,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "7726997623001150972"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

@@ -523,7 +523,7 @@
     "acquisition_movie_path_hash": "8558624960783247874",
     "base_character_id": 334,
     "character_id": null,
-    "description": "ソフィーの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。",
+    "description": "ソフィーの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。\n※本衣装を着たソフィーは、全てソフィー【百科繚乱フロネシス】と同じキャラモデルのサイズになります。",
     "duplicated_reward_set_id": 3340001,
     "id": 34,
     "model_path_hash": "7632860705678388889",
@@ -598,5 +598,65 @@
       "rarity": null,
       "still_path_hash": "8784978038166569397"
     }
+  },
+  {
+    "acquisition_movie_path_hash": "7427211133101583323",
+    "base_character_id": 401,
+    "character_id": null,
+    "description": "リラの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。\n",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99939,
+    "model_path_hash": "1076650780262668729",
+    "name": "クラシックオニキス",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "4584538959706516406",
+      "large_still_path_hash": "2343750192050162506",
+      "narrow_still_path_hash": "577604090628457092",
+      "rarity": null,
+      "still_path_hash": "658330190563200680"
+    },
+    "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "3686906514436476111",
+    "base_character_id": 374,
+    "character_id": null,
+    "description": "リディーの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。\n",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99940,
+    "model_path_hash": "4023799895196648664",
+    "name": "なりきりマリー",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "5896773100212732196",
+      "large_still_path_hash": "3062344515181542959",
+      "narrow_still_path_hash": "4527682463242068221",
+      "rarity": null,
+      "still_path_hash": "650002066085119948"
+    },
+    "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "1751461886696310459",
+    "base_character_id": 375,
+    "character_id": null,
+    "description": "スールの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。\n",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99941,
+    "model_path_hash": "7049523470121526149",
+    "name": "なりきりエリー",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "6013033206301973737",
+      "large_still_path_hash": "1665479654003144768",
+      "narrow_still_path_hash": "919656098478284180",
+      "rarity": null,
+      "still_path_hash": "8906082768242880907"
+    },
+    "still_set": null
   }
 ]

@@ -2518,5 +2518,47 @@
     "priority": 1000,
     "start_at": "2026-05-08T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "3609829921219281560",
+    "base_image_path_hash": "7933125506272239970",
+    "elapsed_days": null,
+    "end_at": "2026-05-31T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 184,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "7548726044295734787",
+    "name": "獣人の国ベスティラ 開催記念 LOGIN BONUS",
+    "priority": 1001,
+    "start_at": "2026-05-15T03:00:00.000Z",
+    "type": 2
+  },
+  {
+    "background_image_path_hash": "2645820768960902247",
+    "base_image_path_hash": "4224755083522417248",
+    "elapsed_days": null,
+    "end_at": "2026-06-14T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 185,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "6438576608210548849",
+    "name": "キノコの島ピルッツァ～妹たちの願い～ 前編 開催記念 LOGIN BONUS",
+    "priority": 1002,
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "type": 2
+  },
+  {
+    "background_image_path_hash": "1493310946896272419",
+    "base_image_path_hash": "1620884666667375460",
+    "elapsed_days": null,
+    "end_at": "2026-06-15T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 186,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "747524367611920560",
+    "name": "アトリエ29周年 LOGIN BONUS",
+    "priority": 1100,
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "type": 2
   }
 ]

@@ -157088,6 +157088,735 @@
     "character_id": null,
     "costs": [
       {
+        "id": 522,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 858,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "ヴェールキュイール",
+    "priority": 21,
+    "recipe_plan_id": 105,
+    "requirements": [
+      {
+        "condition_id": 865,
+        "count": 1,
+        "name": "メインストーリー12-60をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1265,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1266,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "support_character_ids": [199, 185, 150],
+    "support_color_ids": [4, 1, 2],
+    "tracking_id": "af_synthesis_recipe_858"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 524,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 859,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "堅甲の護符",
+    "priority": 22,
+    "recipe_plan_id": 105,
+    "requirements": [
+      {
+        "condition_id": 865,
+        "count": 1,
+        "name": "メインストーリー12-60をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1267,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1268,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "support_character_ids": [134, 171, 113],
+    "support_color_ids": [1, 4, 5],
+    "tracking_id": "af_synthesis_recipe_859"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 1402,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 860,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "そよ風のアロマ",
+    "priority": 1,
+    "recipe_plan_id": 119,
+    "requirements": [
+      {
+        "condition_id": 3056,
+        "count": 1,
+        "name": "ピルッツァ　前編1をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1024,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1025,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "support_character_ids": [139, 190, 182],
+    "support_color_ids": [3, 2, 1],
+    "tracking_id": "af_synthesis_recipe_860"
+  },
+  {
+    "character_id": 33404,
+    "costs": [
+      {
+        "id": 33404,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 1402,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 861,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "星導きの杖",
+    "priority": 80,
+    "recipe_plan_id": 82,
+    "requirements": [
+      {
+        "condition_id": 3033,
+        "count": 4,
+        "name": "ソフィー【Memory of Dreams】を★5に覚醒しよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1264,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "support_character_ids": [206, 158, 171],
+    "support_color_ids": [2, 5, 3],
+    "tracking_id": "af_synthesis_recipe_861"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
         "id": 1320,
         "quantity": 1,
         "resource_params": null,
@@ -157350,5 +158079,44 @@
     "support_character_ids": [30, 123, 95, 122, 203],
     "support_color_ids": [],
     "tracking_id": "af_synthesis_recipe_10043"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 1406,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 10044,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 20,
+    "name": "どくどくドクロ",
+    "priority": 1039,
+    "recipe_plan_id": 116,
+    "requirements": [
+      {
+        "condition_id": 101,
+        "count": 190,
+        "name": "メモリアを190種類入手した"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 9,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 25
+        }
+      }
+    ],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "support_character_ids": [185, 186, 62, 22, 79],
+    "support_color_ids": [],
+    "tracking_id": "af_synthesis_recipe_10044"
   }
 ]

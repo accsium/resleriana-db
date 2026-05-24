@@ -12909,6 +12909,90 @@
     "timeline_path_hash": "2442083730120051512"
   },
   {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "2464089883814404580",
+    "id": 1018,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "立ち2",
+    "priority": 815,
+    "start_at": null,
+    "still_path_hash": "3852012168914053433",
+    "timeline_path_hash": "3282884807554616669"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "6721736737939359306",
+    "id": 1019,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "るんるん",
+    "priority": 816,
+    "start_at": null,
+    "still_path_hash": "7070295582857645717",
+    "timeline_path_hash": "5840687629276997837"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7320762017751949300",
+    "id": 1020,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "ガッツポーズ",
+    "priority": 817,
+    "start_at": null,
+    "still_path_hash": "7662420445686286432",
+    "timeline_path_hash": "5960858941748526462"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "3064578712337695371",
+    "id": 1021,
+    "is_receivable": false,
+    "key_tasks": [
+      {
+        "condition_id": 3033,
+        "count": 3,
+        "name": "★4.5で解放されます"
+      }
+    ],
+    "name": "怒る",
+    "priority": 818,
+    "start_at": null,
+    "still_path_hash": "4295739177963127762",
+    "timeline_path_hash": "2981273629379934914"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "4457662251932235719",
+    "id": 1022,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "ユニークシーン",
+    "priority": 819,
+    "start_at": null,
+    "still_path_hash": "4852926066297708413",
+    "timeline_path_hash": "207259230283526207"
+  },
+  {
+    "character_id": 33404,
+    "character_skin_id": null,
+    "icon_still_path_hash": "5609175810403348809",
+    "id": 1023,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "エクストラモーション",
+    "priority": 820,
+    "start_at": null,
+    "still_path_hash": "7003323379998024992",
+    "timeline_path_hash": "1824607503384031558"
+  },
+  {
     "character_id": 10101,
     "character_skin_id": null,
     "icon_still_path_hash": 0,
@@ -15325,5 +15409,44 @@
     "start_at": null,
     "still_path_hash": 0,
     "timeline_path_hash": "5189327358398686027"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99939,
+    "icon_still_path_hash": "8094168736734678888",
+    "id": 1210,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100005,
+    "start_at": null,
+    "still_path_hash": "1527022825280763635",
+    "timeline_path_hash": "4872358841123696918"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99940,
+    "icon_still_path_hash": "991763239481969564",
+    "id": 1211,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100006,
+    "start_at": null,
+    "still_path_hash": "1906969613093832177",
+    "timeline_path_hash": "6198109011282100600"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99941,
+    "icon_still_path_hash": "8080255555016853155",
+    "id": 1212,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100007,
+    "start_at": null,
+    "still_path_hash": "4342510205001969269",
+    "timeline_path_hash": "1850468633571510286"
   }
 ]

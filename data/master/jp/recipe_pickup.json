@@ -1494,5 +1494,53 @@
     "start_at": "2026-05-08T03:00:00.000Z",
     "target_item_boost_rate": 15000,
     "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-05-22T03:00:00.000Z",
+    "id": 192,
+    "recipe_ids": [21, 42, 54, 202, 234, 278, 292, 302, 324, 354, 409, 422, 439, 528, 590, 608, 666, 706, 749, 770, 800, 807, 834, 842],
+    "start_at": "2026-05-15T03:00:00.000Z",
+    "target_item_boost_rate": 6667,
+    "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-05-22T03:00:00.000Z",
+    "id": 193,
+    "recipe_ids": [332, 379, 462, 463, 488],
+    "start_at": "2026-05-15T03:00:00.000Z",
+    "target_item_boost_rate": 15000,
+    "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-05-22T03:00:00.000Z",
+    "id": 194,
+    "recipe_ids": [110, 94, 103, 106, 109, 117, 116],
+    "start_at": "2026-05-15T03:00:00.000Z",
+    "target_item_boost_rate": 40000,
+    "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-05-29T03:00:00.000Z",
+    "id": 195,
+    "recipe_ids": [16, 49, 125, 171, 208, 232, 328, 408, 421, 527, 571, 591, 647, 690, 751, 772, 806, 813, 830, 835, 730, 860],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "target_item_boost_rate": 6667,
+    "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-05-29T03:00:00.000Z",
+    "id": 196,
+    "recipe_ids": [90, 65, 306, 361],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "target_item_boost_rate": 15000,
+    "trait_boost_rate": 5000
+  },
+  {
+    "end_at": "2026-07-03T03:00:00.000Z",
+    "id": 197,
+    "recipe_ids": [858, 859],
+    "start_at": "2026-05-22T03:00:00.000Z",
+    "target_item_boost_rate": 6667,
+    "trait_boost_rate": 5000
   }
 ]

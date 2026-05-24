@@ -18157,6 +18157,76 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がソフィー【Memory of Dreams】でありHPが85%以上の状態で攻撃を受けた時、得意属性が風属性の味方全員のバーストゲージを{0}％増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001282,
+        "limit_count": null,
+        "value": 1000
+      }
+    ],
+    "id": 301346,
+    "name": "星導きの杖"
+  },
+  {
+    "ability_category_type": null,
+    "description": "味方全員のクリティカルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001283,
+        "limit_count": null,
+        "value": 1800
+      }
+    ],
+    "id": 301347,
+    "name": "ヴェールキュイール"
+  },
+  {
+    "ability_category_type": null,
+    "description": "味方全員のクリティカルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001283,
+        "limit_count": null,
+        "value": 1200
+      }
+    ],
+    "id": 301348,
+    "name": "ヴェールキュイール"
+  },
+  {
+    "ability_category_type": null,
+    "description": "味方全員の全体攻撃から受けるダメージ-{0}%(固定)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001284,
+        "limit_count": null,
+        "value": 1300
+      }
+    ],
+    "id": 301349,
+    "name": "堅甲の護符"
+  },
+  {
+    "ability_category_type": null,
+    "description": "味方全員の全体攻撃から受けるダメージ-{0}%(固定)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001284,
+        "limit_count": null,
+        "value": 1000
+      }
+    ],
+    "id": 301350,
+    "name": "堅甲の護符"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -28674,7 +28744,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 2875
       }
     ],
@@ -28702,7 +28772,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 2500
       }
     ],
@@ -28730,7 +28800,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 2125
       }
     ],
@@ -28758,7 +28828,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 1750
       }
     ],
@@ -28786,7 +28856,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 1625
       }
     ],
@@ -28814,7 +28884,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 1500
       }
     ],
@@ -28842,7 +28912,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 1375
       }
     ],
@@ -28870,7 +28940,7 @@
       {
         "ability_timing_value": null,
         "id": 5000104,
-        "limit_count": null,
+        "limit_count": 1,
         "value": 1250
       }
     ],
@@ -28889,6 +28959,118 @@
       }
     ],
     "id": 500713,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 2875
+      }
+    ],
+    "id": 500714,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 500716,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 2125
+      }
+    ],
+    "id": 500718,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 1750
+      }
+    ],
+    "id": 500720,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 1625
+      }
+    ],
+    "id": 500722,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 500724,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 1375
+      }
+    ],
+    "id": 500726,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000106,
+        "limit_count": null,
+        "value": 1250
+      }
+    ],
+    "id": 500728,
     "name": ""
   },
   {
@@ -32858,6 +33040,38 @@
     ],
     "id": 1980245,
     "name": "気まぐれな小悪魔"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」は「物攻・魔攻・物防・魔防+30%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500002,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500003,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500004,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500005,
+        "limit_count": null,
+        "value": 3000
+      }
+    ],
+    "id": 1980246,
+    "name": "おばあちゃんから学んだこと"
   },
   {
     "ability_category_type": null,
@@ -42804,6 +43018,88 @@
     ],
     "id": 1990548,
     "name": "愚弄する冥暗"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>得意属性が風属性の味方全員のバーストスキルをゲージ化<br>※バーストゲージは2周分ストック可能<br><br>攻撃を受けた時、自身のバーストゲージを{0}%増加<br>パーティの誰かがアイテム使用時、得意属性が風属性の味方全員のバーストゲージを{1}%増加<br>※アイテムを複数同時に使用しても発動は1回",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001474,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001730,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001715,
+        "limit_count": null,
+        "value": 20000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      }
+    ],
+    "id": 1990549,
+    "name": "ぐるこん超特級"
+  },
+  {
+    "ability_category_type": null,
+    "description": "敵にとても狙われやすくなる<br>得意属性が風属性の味方全員の最大HP+{0}%<br>バトル開始時、味方全員のHPを{1}%回復し、<br>得意属性が風属性の味方全員に以下の追加効果を付与<br>追加効果：「自身のHPが90%以上の時、スキル発動後、自身のバーストゲージを{2}%増加(発動上限2回)」<br><br>自身のHPが90%以上の時、スキル発動後、得意属性が風属性の味方全員に「基礎物防・基礎魔防+{3}」を付与(上限2個)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001313,
+        "limit_count": null,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001131,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001716,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001719,
+        "limit_count": null,
+        "value": 15000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001720,
+        "limit_count": null,
+        "value": 15000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001744,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72000914,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 1990550,
+    "name": "あたしが支えるよ！"
   },
   {
     "ability_category_type": null,
@@ -64047,6 +64343,276 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が風属性かつディフェンダーであり、攻撃を受けた時、味方全員に「クリティカルダメージ+{0}％」を1回行動終了するまで付与(上限2個)<br>「キルヘン・ベル」の時、バトル開始時、最大HP+{1}％し、HPを100％回復",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000383,
+        "limit_count": null,
+        "value": 300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000384,
+        "limit_count": null,
+        "value": 400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000388,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991333,
+    "name": "想力「見上げた先の微笑み」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつディフェンダーであり、攻撃を受けた時、味方全員に「クリティカルダメージ+{0}％」を1回行動終了するまで付与(上限2個)<br>「キルヘン・ベル」の時、バトル開始時、最大HP+{1}％し、HPを100％回復",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000383,
+        "limit_count": null,
+        "value": 900
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000384,
+        "limit_count": null,
+        "value": 800
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000388,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991334,
+    "name": "想力「見上げた先の微笑み」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつディフェンダーであり、攻撃を受けた時、味方全員に「クリティカルダメージ+{0}％」を1回行動終了するまで付与(上限2個)<br>「キルヘン・ベル」の時、バトル開始時、最大HP+{1}％し、HPを100％回復",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000383,
+        "limit_count": null,
+        "value": 1400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000384,
+        "limit_count": null,
+        "value": 1200
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000388,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991335,
+    "name": "想力「見上げた先の微笑み」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつディフェンダーであり、攻撃を受けた時、味方全員に「クリティカルダメージ+{0}％」を1回行動終了するまで付与(上限2個)<br>「キルヘン・ベル」の時、バトル開始時、最大HP+{1}％し、HPを100％回復",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000383,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000384,
+        "limit_count": null,
+        "value": 1600
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000388,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991336,
+    "name": "想力「見上げた先の微笑み」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつディフェンダーであり、攻撃を受けた時、味方全員に「クリティカルダメージ+{0}％」を1回行動終了するまで付与(上限2個)<br>「キルヘン・ベル」の時、バトル開始時、最大HP+{1}％し、HPを100％回復",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000383,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000384,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000388,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991337,
+    "name": "想力「見上げた先の微笑み」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が物理属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000385,
+        "limit_count": null,
+        "value": 600
+      }
+    ],
+    "id": 4991338,
+    "name": "想力「星降る空を見上げて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が物理属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000385,
+        "limit_count": null,
+        "value": 1700
+      }
+    ],
+    "id": 4991339,
+    "name": "想力「星降る空を見上げて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が物理属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000385,
+        "limit_count": null,
+        "value": 2800
+      }
+    ],
+    "id": 4991340,
+    "name": "想力「星降る空を見上げて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が物理属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000385,
+        "limit_count": null,
+        "value": 3900
+      }
+    ],
+    "id": 4991341,
+    "name": "想力「星降る空を見上げて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が物理属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000385,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991342,
+    "name": "想力「星降る空を見上げて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が魔法属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000386,
+        "limit_count": null,
+        "value": 600
+      }
+    ],
+    "id": 4991343,
+    "name": "想力「流れ星に願いを込めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が魔法属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000386,
+        "limit_count": null,
+        "value": 1700
+      }
+    ],
+    "id": 4991344,
+    "name": "想力「流れ星に願いを込めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が魔法属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000386,
+        "limit_count": null,
+        "value": 2800
+      }
+    ],
+    "id": 4991345,
+    "name": "想力「流れ星に願いを込めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が魔法属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000386,
+        "limit_count": null,
+        "value": 3900
+      }
+    ],
+    "id": 4991346,
+    "name": "想力「流れ星に願いを込めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が魔法属性かつサポーターの時、味方全員のスキル威力+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000386,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991347,
+    "name": "想力「流れ星に願いを込めて」"
+  },
+  {
+    "ability_category_type": null,
     "description": "突属性のスキルダメージ{0}%アップ",
     "effects": [
       {
@@ -76647,6 +77213,706 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000395,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000907,
+    "name": "物攻/魔攻バフ強化【火A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000395,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000908,
+    "name": "物攻/魔攻バフ強化【火A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000395,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000909,
+    "name": "物攻/魔攻バフ強化【火A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000395,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000910,
+    "name": "物攻/魔攻バフ強化【火A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000395,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000911,
+    "name": "物攻/魔攻バフ強化【火A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000396,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000912,
+    "name": "物攻/魔攻バフ強化【氷A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000396,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000913,
+    "name": "物攻/魔攻バフ強化【氷A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000396,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000914,
+    "name": "物攻/魔攻バフ強化【氷A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000396,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000915,
+    "name": "物攻/魔攻バフ強化【氷A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000396,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000916,
+    "name": "物攻/魔攻バフ強化【氷A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000397,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000917,
+    "name": "物攻/魔攻バフ強化【雷A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000397,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000918,
+    "name": "物攻/魔攻バフ強化【雷A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000397,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000919,
+    "name": "物攻/魔攻バフ強化【雷A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000397,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000920,
+    "name": "物攻/魔攻バフ強化【雷A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000397,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000921,
+    "name": "物攻/魔攻バフ強化【雷A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000398,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000922,
+    "name": "物攻/魔攻バフ強化【風A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000398,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000923,
+    "name": "物攻/魔攻バフ強化【風A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000398,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000924,
+    "name": "物攻/魔攻バフ強化【風A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000398,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000925,
+    "name": "物攻/魔攻バフ強化【風A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000398,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000926,
+    "name": "物攻/魔攻バフ強化【風A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000399,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000927,
+    "name": "物攻/魔攻バフ強化【斬A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000399,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000928,
+    "name": "物攻/魔攻バフ強化【斬A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000399,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000929,
+    "name": "物攻/魔攻バフ強化【斬A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000399,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000930,
+    "name": "物攻/魔攻バフ強化【斬A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000399,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000931,
+    "name": "物攻/魔攻バフ強化【斬A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が打属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000400,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000932,
+    "name": "物攻/魔攻バフ強化【打A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が打属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000400,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000933,
+    "name": "物攻/魔攻バフ強化【打A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が打属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000400,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000934,
+    "name": "物攻/魔攻バフ強化【打A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が打属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000400,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000935,
+    "name": "物攻/魔攻バフ強化【打A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が打属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000400,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000936,
+    "name": "物攻/魔攻バフ強化【打A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000401,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000937,
+    "name": "物攻/魔攻バフ強化【突A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000401,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000938,
+    "name": "物攻/魔攻バフ強化【突A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000401,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000939,
+    "name": "物攻/魔攻バフ強化【突A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000401,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000940,
+    "name": "物攻/魔攻バフ強化【突A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与える「物攻アップ」と「魔攻アップ」の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000401,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000941,
+    "name": "物攻/魔攻バフ強化【突A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000402,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000942,
+    "name": "ダメージバフ強化【火A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000402,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000943,
+    "name": "ダメージバフ強化【火A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000402,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000944,
+    "name": "ダメージバフ強化【火A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000402,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000945,
+    "name": "ダメージバフ強化【火A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が火属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000402,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000946,
+    "name": "ダメージバフ強化【火A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000403,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000947,
+    "name": "ダメージバフ強化【氷A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000403,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000948,
+    "name": "ダメージバフ強化【氷A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000403,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000949,
+    "name": "ダメージバフ強化【氷A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000403,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000950,
+    "name": "ダメージバフ強化【氷A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000403,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000951,
+    "name": "ダメージバフ強化【氷A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000404,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000952,
+    "name": "ダメージバフ強化【雷A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000404,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000953,
+    "name": "ダメージバフ強化【雷A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000404,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000954,
+    "name": "ダメージバフ強化【雷A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000404,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000955,
+    "name": "ダメージバフ強化【雷A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が雷属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000404,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000956,
+    "name": "ダメージバフ強化【雷A】(5)"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が風属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
     "effects": [
       {
@@ -76717,6 +77983,76 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000406,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000962,
+    "name": "ダメージバフ強化【斬A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000406,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000963,
+    "name": "ダメージバフ強化【斬A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000406,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000964,
+    "name": "ダメージバフ強化【斬A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000406,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000965,
+    "name": "ダメージバフ強化【斬A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が斬属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000406,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000966,
+    "name": "ダメージバフ強化【斬A】(5)"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が打属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
     "effects": [
       {
@@ -76784,6 +78120,76 @@
     ],
     "id": 7000971,
     "name": "ダメージバフ強化【打A】(5)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000408,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 7000972,
+    "name": "ダメージバフ強化【突A】(1)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000408,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 7000973,
+    "name": "ダメージバフ強化【突A】(2)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000408,
+        "limit_count": null,
+        "value": 2300
+      }
+    ],
+    "id": 7000974,
+    "name": "ダメージバフ強化【突A】(3)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000408,
+        "limit_count": null,
+        "value": 4500
+      }
+    ],
+    "id": 7000975,
+    "name": "ダメージバフ強化【突A】(4)"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が突属性かつアタッカーへ与えるダメージ強化の効果量{0}%アップ",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 3000408,
+        "limit_count": null,
+        "value": 7500
+      }
+    ],
+    "id": 7000976,
+    "name": "ダメージバフ強化【突A】(5)"
   },
   {
     "ability_category_type": null,
@@ -85869,6 +87275,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "「スキル回避」状態でアトリエ砲被弾時、自身にスタン(1回)を付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86150005,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26150003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "・クリティカル攻撃被弾時、自身のバフ全て解除\n・非クリティカル攻撃に対し100%でカウンター",
     "effects": [
       {
@@ -89907,6 +91327,134 @@
       }
     ],
     "id": 26270001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "wave開始前、フィールド効果スキル判定用の状態異常変化を付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86278001,
+        "limit_count": 1,
+        "value": 0
+      }
+    ],
+    "id": 26278001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "氷、風、突以外の属性耐性DOWN無効",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000719,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000722,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000717,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000716,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26278002,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "相手を撃破時、自身のHPを20%回復し以下のフィールド効果を展開(常時フィールド効果として味方にスリップダメージ5%、敵に与ダメージ2%UP)、BSとカウントは同じ\n1回目はHP回復無効を追加、2回目は強化効果無効追加、3回目はスリップダメージが10%に増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 76278006,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 814000056,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 814000057,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 814000058,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86278007,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26278003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "風以外の属性耐性DOWN無効",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000719,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000720,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000722,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000717,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000716,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000718,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26278004,
     "name": ""
   },
   {
@@ -112972,6 +114520,54 @@
     ],
     "id": 600000812,
     "name": "自身が「家族と友情」のとき、スキル威力UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ソフィー【Memory of Dreams】の被ダメージ-20％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000911,
+        "limit_count": null,
+        "value": 2000
+      }
+    ],
+    "id": 600000813,
+    "name": "ソフィー【Memory of Dreams】の被ダメージDOWN"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ソフィー【Memory of Dreams】またはシトリン【九偉人 No.4】を編成時、被ダメージ-25％(上限25％)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000914,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000909,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 600000816,
+    "name": "ソフィー【Memory of Dreams】またはシトリン【九偉人 No.4】を編成時、被ダメージ減少"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身が「約束と協力」のとき、スキル威力+100%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000917,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 600000817,
+    "name": "自身が「約束と協力」のとき、スキル威力UP"
   },
   {
     "ability_category_type": null,

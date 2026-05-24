@@ -5326,5 +5326,37 @@
     "still_path_hash": "6755691017641550189",
     "trait_filter_ids": [2],
     "usage_count": 2
+  },
+  {
+    "attack_attributes": [],
+    "description": "魔攻が最も高い味方1人に「スキル2のダメージ+{0}％」を2回行動終了するまで付与",
+    "easy_synthesis_trait_lottery_id": 5,
+    "id": 1024,
+    "large_still_path_hash": "5432103166657221012",
+    "name": "そよ風のアロマ",
+    "quality_group_id": 20,
+    "rarity": 3,
+    "roles": [],
+    "skill_id": 32188,
+    "small_still_path_hash": "2686939028275948227",
+    "still_path_hash": "3813684953606612492",
+    "trait_filter_ids": [2],
+    "usage_count": 2
+  },
+  {
+    "attack_attributes": [],
+    "description": "魔攻が最も高い味方1人に「スキル2のダメージ+{0}％」を2回行動終了するまで付与",
+    "easy_synthesis_trait_lottery_id": 5,
+    "id": 1025,
+    "large_still_path_hash": "5432103166657221012",
+    "name": "そよ風のアロマ",
+    "quality_group_id": 20,
+    "rarity": 2,
+    "roles": [],
+    "skill_id": 32189,
+    "small_still_path_hash": "2686939028275948227",
+    "still_path_hash": "3813684953606612492",
+    "trait_filter_ids": [2],
+    "usage_count": 2
   }
 ]

@@ -289,5 +289,126 @@
     "start_at": "2026-04-29T03:00:00.000Z",
     "still_path_hash": "818610839045657864",
     "timeline_path_hash": "8493662822523450309"
+  },
+  {
+    "character_conditions": [
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": [2]
+      }
+    ],
+    "costs": [
+      {
+        "id": 1,
+        "quantity": 300,
+        "resource_params": null,
+        "type": 1
+      }
+    ],
+    "id": 26,
+    "key_quest_id": 101024014,
+    "key_tasks": [],
+    "name": "王にふさわしい装い",
+    "priority": 23,
+    "start_at": "2026-05-20T03:00:00.000Z",
+    "still_path_hash": "5225881773216637609",
+    "timeline_path_hash": "5942737802705440639"
+  },
+  {
+    "character_conditions": [
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [29801, 33801],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [8],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": []
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 50,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": [2]
+      }
+    ],
+    "costs": [
+      {
+        "id": 1,
+        "quantity": 300,
+        "resource_params": null,
+        "type": 1
+      }
+    ],
+    "id": 27,
+    "key_quest_id": 101022023,
+    "key_tasks": [],
+    "name": "演劇本番",
+    "priority": 24,
+    "start_at": "2026-05-27T03:00:00.000Z",
+    "still_path_hash": "4476332551574035704",
+    "timeline_path_hash": "4077275191510622682"
   }
 ]

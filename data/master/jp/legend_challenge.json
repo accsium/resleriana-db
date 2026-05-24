@@ -1148,5 +1148,43 @@
     ],
     "priority": 74,
     "start_at": "2026-05-08T03:00:00.000Z"
+  },
+  {
+    "background_image_path_hash": "6683889424023906771",
+    "banner_path_hash": "2681181505558413022",
+    "bgm_path_hash": "1915067688521612763",
+    "end_at": "2026-05-29T03:00:00.000Z",
+    "episode_id": 1000075,
+    "id": 75,
+    "logo_path_hash": "6460585247040752691",
+    "name": "獣人の国ベスティラ～武で示せ！　アタシたちの生き様！～",
+    "patterns": [
+      {
+        "ids": [314],
+        "is_direct_opened": false,
+        "type": 2
+      }
+    ],
+    "priority": 75,
+    "start_at": "2026-05-15T03:00:00.000Z"
+  },
+  {
+    "background_image_path_hash": "4419245467288021446",
+    "banner_path_hash": "7445811034790289407",
+    "bgm_path_hash": "381632093770746808",
+    "end_at": "2026-06-05T03:00:00.000Z",
+    "episode_id": 1000076,
+    "id": 76,
+    "logo_path_hash": "1506792870982700596",
+    "name": "キノコの島ピルッツァ～妹たちの願い～",
+    "patterns": [
+      {
+        "ids": [319],
+        "is_direct_opened": false,
+        "type": 2
+      }
+    ],
+    "priority": 76,
+    "start_at": "2026-05-22T03:00:00.000Z"
   }
 ]

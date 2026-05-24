@@ -18,5 +18,20 @@
     "character_skin_id": 37,
     "condition_tags": [8, 9],
     "id": 4
+  },
+  {
+    "character_skin_id": 99939,
+    "condition_tags": [9],
+    "id": 5
+  },
+  {
+    "character_skin_id": 99940,
+    "condition_tags": [8],
+    "id": 6
+  },
+  {
+    "character_skin_id": 99941,
+    "condition_tags": [9],
+    "id": 7
   }
 ]

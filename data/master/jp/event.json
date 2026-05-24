@@ -4735,6 +4735,84 @@
     "album_background_image_path_hash": 0,
     "album_button_name": "",
     "album_name": "",
+    "background_image_path_hash": "1329704527192798512",
+    "banner_path_hash": "7863783238100383503",
+    "bgm_path_hash": "1915067688521612763",
+    "end_at": "2026-05-31T03:00:00.000Z",
+    "event_type": 1,
+    "has_first_time_story": true,
+    "home_logo_path_hash": 0,
+    "id": 170,
+    "is_disp_home_banner": true,
+    "is_remind": false,
+    "logo_path_hash": "8387056936412256887",
+    "name": "獣人の国ベスティラ～武で示せ！　アタシたちの生き様！～",
+    "patterns": [
+      {
+        "ids": [100118],
+        "is_direct_opened": false,
+        "type": 1
+      },
+      {
+        "ids": [314],
+        "is_direct_opened": false,
+        "type": 2
+      },
+      {
+        "ids": [128],
+        "is_direct_opened": false,
+        "type": 4
+      }
+    ],
+    "priority": 252,
+    "revival_start_at": null,
+    "reward_end_at": "2026-06-01T03:00:00.000Z",
+    "sort_name": "じゅうじんのくにべすてぃらぶでしめせあたしたちのいきざま",
+    "start_at": "2026-05-15T03:00:00.000Z"
+  },
+  {
+    "album_background_image_path_hash": 0,
+    "album_button_name": "",
+    "album_name": "",
+    "background_image_path_hash": "2588463817179917122",
+    "banner_path_hash": "7763830003067787752",
+    "bgm_path_hash": "381632093770746808",
+    "end_at": "2026-06-14T03:00:00.000Z",
+    "event_type": 1,
+    "has_first_time_story": true,
+    "home_logo_path_hash": 0,
+    "id": 171,
+    "is_disp_home_banner": true,
+    "is_remind": false,
+    "logo_path_hash": "3876840321188911465",
+    "name": "キノコの島ピルッツァ～妹たちの願い～",
+    "patterns": [
+      {
+        "ids": [100119],
+        "is_direct_opened": false,
+        "type": 1
+      },
+      {
+        "ids": [319],
+        "is_direct_opened": false,
+        "type": 2
+      },
+      {
+        "ids": [129],
+        "is_direct_opened": false,
+        "type": 4
+      }
+    ],
+    "priority": 253,
+    "revival_start_at": null,
+    "reward_end_at": "2026-06-15T03:00:00.000Z",
+    "sort_name": "きのこのしまぴるっつあいもうとたちのねがい",
+    "start_at": "2026-05-22T03:00:00.000Z"
+  },
+  {
+    "album_background_image_path_hash": 0,
+    "album_button_name": "",
+    "album_name": "",
     "background_image_path_hash": 0,
     "banner_path_hash": 0,
     "bgm_path_hash": 0,
