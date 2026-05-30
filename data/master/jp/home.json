@@ -4726,5 +4726,29 @@
     "still_path_hash": "807943312806826141",
     "thumbnail_path_hash": "6272617745505522166",
     "timeline_asset_path_hash": 0
+  },
+  {
+    "bgm_path_hash": "9153238380426343692",
+    "description": "獲得することでホーム画面に設定できる。",
+    "icon_still_path_hash": "9037936352731866959",
+    "id": 210013101,
+    "is_changeable_home": true,
+    "is_receivable": true,
+    "name": "イラスト2",
+    "still_path_hash": "63358525282419513",
+    "thumbnail_path_hash": "3077556950428563086",
+    "timeline_asset_path_hash": 0
+  },
+  {
+    "bgm_path_hash": "6478878067126759903",
+    "description": "獲得することでホーム画面に設定できる。",
+    "icon_still_path_hash": "7971374907738043852",
+    "id": 210014101,
+    "is_changeable_home": true,
+    "is_receivable": true,
+    "name": "イラスト3",
+    "still_path_hash": "5982637818381854479",
+    "thumbnail_path_hash": "2684065027793515663",
+    "timeline_asset_path_hash": 0
   }
 ]

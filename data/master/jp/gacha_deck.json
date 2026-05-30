@@ -2958,5 +2958,30 @@
     "card_type": 22,
     "id": 310000605,
     "rarity": 3
+  },
+  {
+    "card_type": 5,
+    "id": 310000701,
+    "rarity": 1
+  },
+  {
+    "card_type": 5,
+    "id": 310000702,
+    "rarity": 2
+  },
+  {
+    "card_type": 5,
+    "id": 310000703,
+    "rarity": 3
+  },
+  {
+    "card_type": 5,
+    "id": 310000704,
+    "rarity": 4
+  },
+  {
+    "card_type": 22,
+    "id": 310000705,
+    "rarity": 3
   }
 ]

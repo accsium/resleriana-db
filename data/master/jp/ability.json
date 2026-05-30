@@ -91459,6 +91459,138 @@
   },
   {
     "ability_category_type": null,
+    "description": "HPが50％以下になると、自身に再生({0}%/3回)を付与し、バーストパネルを{1}つ生成\n相手を撃破時、自身に与ダメージUP({2}%/永続)を付与し、相手全員に強化効果無効(永続)を付与。以降ランダムな敵に攻撃するようになり、行動再抽選する",
+    "effects": [
+      {
+        "ability_timing_value": 5000,
+        "id": 86279001,
+        "limit_count": 1,
+        "value": 700
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279002,
+        "limit_count": 1,
+        "value": 100
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279004,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279003,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279006,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279005,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26279001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "HPが50％以下になると、自身に再生({0}%/3回)を付与し、バーストパネルを{1}つ生成\n相手を撃破時、自身に与ダメージUP({2}%/永続)を付与し、相手全員に強化効果無効(永続)を付与。以降ランダムな敵に攻撃するようになり、行動再抽選する",
+    "effects": [
+      {
+        "ability_timing_value": 5000,
+        "id": 86279001,
+        "limit_count": 1,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279002,
+        "limit_count": 1,
+        "value": 100
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279004,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279003,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279006,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279005,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26279002,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "HPが50％以下になると、自身に再生({0}%/3回)を付与し、バーストパネルを{1}つ生成\n相手を撃破時、自身に与ダメージUP({2}%/永続)を付与し、相手全員に強化効果無効(永続)を付与。以降ランダムな敵に攻撃するようになり、行動再抽選する",
+    "effects": [
+      {
+        "ability_timing_value": 5000,
+        "id": 86279001,
+        "limit_count": 1,
+        "value": 300
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279002,
+        "limit_count": 1,
+        "value": 100
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279004,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279003,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": 5000,
+        "id": 86279006,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86279005,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26279003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が雷属性のキャラの与えるHP回復量{0}%アップ",
     "effects": [
       {

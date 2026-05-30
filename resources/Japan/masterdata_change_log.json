@@ -856,5 +856,18 @@
       "recipe": [858, 859, 860, 861, 10044],
       "event": [170, 171]
     }
+  },
+  {
+    "id": 66,
+    "masterdata_version": "1779761414_OCuey_AxCKHyx3m5",
+    "log_update_time": "Sat, 30 May 2026 08:17:34 GMT",
+    "changes": {
+      "gacha": [3100005, 3100006, 3100007],
+      "character": [],
+      "memoria": [],
+      "item": [1401, 1404, 1405, 1409, 1410, 1411, 1412, 1414],
+      "recipe": [862],
+      "event": []
+    }
   }
 ]

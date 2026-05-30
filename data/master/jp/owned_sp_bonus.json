@@ -2278,5 +2278,98 @@
       }
     ],
     "id": 62
+  },
+  {
+    "bonuses": [
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30002,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30041,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30053,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30057,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30073,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30130,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30131,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30181,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30099,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30201,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30202,
+          "type": 17
+        }
+      }
+    ],
+    "id": 63
   }
 ]

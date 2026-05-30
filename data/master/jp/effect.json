@@ -16995,6 +16995,17 @@
     "summons_effect_id": null
   },
   {
+    "description": "味方対象のマイナス効果を解除",
+    "effect_motion_id": null,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 6001287,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
     "description": "敵全体に「スキル2から受けるダメージアップ」を1回攻撃を受けるまで付与",
     "effect_motion_id": null,
     "enemy_hp_gauge": null,
@@ -44858,6 +44869,72 @@
     "enemy_hp_gauge": null,
     "field_effect_id": null,
     "id": 86278007,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身に再生(3回)を付与",
+    "effect_motion_id": 1222,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279001,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身の手番をバーストパネルに変換",
+    "effect_motion_id": 1222,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279002,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "相手全員にプラス効果無効を付与",
+    "effect_motion_id": 1223,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279003,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身に与ダメージUP(回数制限なし)を付与",
+    "effect_motion_id": 1223,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279004,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身の行動再抽選",
+    "effect_motion_id": 1223,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279005,
+    "is_expand_timeline": false,
+    "is_positive_popup": null,
+    "popup_text": "",
+    "summons_effect_id": null
+  },
+  {
+    "description": "自身に撃破判定用状態変化(回数制限なし)を付与",
+    "effect_motion_id": 1223,
+    "enemy_hp_gauge": null,
+    "field_effect_id": null,
+    "id": 86279006,
     "is_expand_timeline": false,
     "is_positive_popup": null,
     "popup_text": "",

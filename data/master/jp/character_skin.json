@@ -658,5 +658,25 @@
       "still_path_hash": "8906082768242880907"
     },
     "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "1948300795717115761",
+    "base_character_id": 335,
+    "character_id": null,
+    "description": "プラフタの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。\n※本衣装はプラフタ【Curious Theorist】に設定することはできません。",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99942,
+    "model_path_hash": "2887720181698173652",
+    "name": "ヴィオラージュ",
+    "rarity": 3,
+    "reject_character_ids": [33503],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "3634476040677319391",
+      "large_still_path_hash": "6537672007706015098",
+      "narrow_still_path_hash": "6154663567683446633",
+      "rarity": null,
+      "still_path_hash": "8944192761651257696"
+    },
+    "still_set": null
   }
 ]

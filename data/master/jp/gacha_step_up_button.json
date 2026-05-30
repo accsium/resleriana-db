@@ -19605,5 +19605,138 @@
     "is_always_display": true,
     "is_wish_list": false,
     "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000071,
+    "gacha_rate_set_name": "【STEP1】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10085,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000072,
+    "gacha_rate_set_name": "【STEP2】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10086,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000073,
+    "gacha_rate_set_name": "【STEP3】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10087,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000074,
+    "gacha_rate_set_name": "【STEP4】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10088,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000075,
+    "gacha_rate_set_name": "【STEP5】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10089,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000076,
+    "gacha_rate_set_name": "【STEP6】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10090,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1414,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000077,
+    "gacha_rate_set_name": "【STEP7】プラフタ ヴィオラージュ 衣装調合",
+    "id": 10091,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
   }
 ]

@@ -5535,5 +5535,40 @@
     "id": 186010,
     "login_bonus_id": 186,
     "reward_set_id": 50075
+  },
+  {
+    "day": 1,
+    "highlight": false,
+    "id": 187001,
+    "login_bonus_id": 187,
+    "reward_set_id": 50244
+  },
+  {
+    "day": 2,
+    "highlight": false,
+    "id": 187002,
+    "login_bonus_id": 187,
+    "reward_set_id": 50109
+  },
+  {
+    "day": 3,
+    "highlight": false,
+    "id": 187003,
+    "login_bonus_id": 187,
+    "reward_set_id": 50245
+  },
+  {
+    "day": 4,
+    "highlight": false,
+    "id": 187004,
+    "login_bonus_id": 187,
+    "reward_set_id": 50110
+  },
+  {
+    "day": 5,
+    "highlight": true,
+    "id": 187005,
+    "login_bonus_id": 187,
+    "reward_set_id": 50207
   }
 ]

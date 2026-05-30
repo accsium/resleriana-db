@@ -5358,5 +5358,37 @@
     "still_path_hash": "3813684953606612492",
     "trait_filter_ids": [2],
     "usage_count": 2
+  },
+  {
+    "attack_attributes": [],
+    "description": "味方全員のHPを15％回復し、マイナス効果を{0}つ解除",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1026,
+    "large_still_path_hash": "1679774957764407758",
+    "name": "レーベシュトラル",
+    "quality_group_id": 9,
+    "rarity": 3,
+    "roles": [],
+    "skill_id": 32190,
+    "small_still_path_hash": "551376040329219631",
+    "still_path_hash": "1586361200009020128",
+    "trait_filter_ids": [4],
+    "usage_count": 2
+  },
+  {
+    "attack_attributes": [],
+    "description": "味方全員のHPを10％回復し、マイナス効果を{0}つ解除",
+    "easy_synthesis_trait_lottery_id": 6,
+    "id": 1027,
+    "large_still_path_hash": "1679774957764407758",
+    "name": "レーベシュトラル",
+    "quality_group_id": 9,
+    "rarity": 2,
+    "roles": [],
+    "skill_id": 32191,
+    "small_still_path_hash": "551376040329219631",
+    "still_path_hash": "1586361200009020128",
+    "trait_filter_ids": [4],
+    "usage_count": 2
   }
 ]

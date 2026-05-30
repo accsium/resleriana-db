@@ -18380,6 +18380,14 @@
     }
   },
   {
+    "id": 3057,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1710304,
+      "transition": 31
+    }
+  },
+  {
     "id": 3058,
     "transition": {
       "equipment_slot_type": null,
@@ -18412,7 +18420,87 @@
     }
   },
   {
+    "id": 3062,
+    "transition": null
+  },
+  {
+    "id": 3063,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 171,
+      "transition": 30
+    }
+  },
+  {
     "id": 3074,
+    "transition": null
+  },
+  {
+    "id": 3081,
+    "transition": null
+  },
+  {
+    "id": 3082,
+    "transition": null
+  },
+  {
+    "id": 3083,
+    "transition": null
+  },
+  {
+    "id": 3084,
+    "transition": null
+  },
+  {
+    "id": 3085,
+    "transition": null
+  },
+  {
+    "id": 3086,
+    "transition": null
+  },
+  {
+    "id": 3087,
+    "transition": null
+  },
+  {
+    "id": 3088,
+    "transition": null
+  },
+  {
+    "id": 3089,
+    "transition": null
+  },
+  {
+    "id": 3090,
+    "transition": null
+  },
+  {
+    "id": 3091,
+    "transition": null
+  },
+  {
+    "id": 3092,
+    "transition": null
+  },
+  {
+    "id": 3093,
+    "transition": null
+  },
+  {
+    "id": 3094,
+    "transition": null
+  },
+  {
+    "id": 3095,
+    "transition": null
+  },
+  {
+    "id": 3096,
+    "transition": null
+  },
+  {
+    "id": 3097,
     "transition": null
   }
 ]

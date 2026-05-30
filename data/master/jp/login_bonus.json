@@ -2560,5 +2560,19 @@
     "priority": 1100,
     "start_at": "2026-05-22T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "1448838471702117339",
+    "base_image_path_hash": "7933125506272239970",
+    "elapsed_days": null,
+    "end_at": "2026-06-05T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 187,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "3245314684496118501",
+    "name": "キノコの島ピルッツァ～妹たちの願い～ 後編 開催記念 LOGIN BONUS",
+    "priority": 1003,
+    "start_at": "2026-05-29T03:00:00.000Z",
+    "type": 2
   }
 ]

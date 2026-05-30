@@ -47032,6 +47032,78 @@
     "stage_id": 96420111
   },
   {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 60017020,
+        "level": 20
+      },
+      {
+        "id": 60132016,
+        "level": 20
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160013961,
+    "stage_id": 911210110
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 60016014,
+        "level": 40
+      },
+      {
+        "id": 60121015,
+        "level": 40
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160013971,
+    "stage_id": 911210110
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 60132017,
+        "level": 60
+      },
+      {
+        "id": 60169019,
+        "level": 60
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160013981,
+    "stage_id": 911210110
+  },
+  {
+    "bgm_path_hash": "1915067688521612763",
+    "enemies": [
+      {
+        "id": 60279001,
+        "level": 80
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160013991,
+    "stage_id": 911220110
+  },
+  {
+    "bgm_path_hash": "1915067688521612763",
+    "enemies": [
+      {
+        "id": 60279002,
+        "level": 90
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014011,
+    "stage_id": 911220110
+  },
+  {
     "bgm_path_hash": "1800213624259455402",
     "enemies": [
       {
@@ -47134,6 +47206,38 @@
     "field_effect_id": null,
     "id": 160014081,
     "stage_id": 911210110
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 60132018,
+        "level": 12
+      },
+      {
+        "id": 60132018,
+        "level": 12
+      },
+      {
+        "id": 60132018,
+        "level": 12
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014091,
+    "stage_id": 911210110
+  },
+  {
+    "bgm_path_hash": "1915067688521612763",
+    "enemies": [
+      {
+        "id": 60279003,
+        "level": 15
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014101,
+    "stage_id": 911220110
   },
   {
     "bgm_path_hash": "9168469247524395181",

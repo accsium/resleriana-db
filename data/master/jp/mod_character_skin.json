@@ -33,5 +33,10 @@
     "character_skin_id": 99941,
     "condition_tags": [9],
     "id": 7
+  },
+  {
+    "character_skin_id": 99942,
+    "condition_tags": [],
+    "id": 8
   }
 ]

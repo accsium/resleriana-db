@@ -410,5 +410,43 @@
     "start_at": "2026-05-27T03:00:00.000Z",
     "still_path_hash": "4476332551574035704",
     "timeline_path_hash": "4077275191510622682"
+  },
+  {
+    "character_conditions": [
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 10,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [12],
+        "reject_gender_ids": [1]
+      },
+      {
+        "allowed_character_ids": [],
+        "allowed_character_skin_ids": [],
+        "height_difference_threshold": 10,
+        "reject_character_ids": [],
+        "reject_character_skin_ids": [],
+        "reject_condition_tag_ids": [9],
+        "reject_gender_ids": []
+      }
+    ],
+    "costs": [
+      {
+        "id": 1,
+        "quantity": 300,
+        "resource_params": null,
+        "type": 1
+      }
+    ],
+    "id": 28,
+    "key_quest_id": 101015010,
+    "key_tasks": [],
+    "name": "自主的荒療治",
+    "priority": 25,
+    "start_at": "2026-06-03T03:00:00.000Z",
+    "still_path_hash": "506314022610818666",
+    "timeline_path_hash": "6551950754696204510"
   }
 ]
