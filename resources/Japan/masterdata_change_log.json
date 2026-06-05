@@ -869,5 +869,18 @@
       "recipe": [862],
       "event": []
     }
+  },
+  {
+    "id": 67,
+    "masterdata_version": "1780388839_Bii_kjDHg28XOYBi",
+    "log_update_time": "Fri, 05 Jun 2026 06:50:16 GMT",
+    "changes": {
+      "gacha": [2393, 2394, 2395, 21016, 21017, 21018, 239501],
+      "character": [32401],
+      "memoria": [30234],
+      "item": [1413, 1415, 1416, 1417, 1418, 1419, 1422],
+      "recipe": [863],
+      "event": [172]
+    }
   }
 ]

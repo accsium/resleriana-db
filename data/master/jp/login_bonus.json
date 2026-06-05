@@ -2574,5 +2574,19 @@
     "priority": 1003,
     "start_at": "2026-05-29T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "8130493714967530204",
+    "base_image_path_hash": "4224755083522417248",
+    "elapsed_days": null,
+    "end_at": "2026-06-28T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 188,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "6141919655024304805",
+    "name": "クロッツェ姉妹の『ランターナ紀行』 前編 開催記念 LOGIN BONUS",
+    "priority": 1004,
+    "start_at": "2026-06-05T03:00:00.000Z",
+    "type": 2
   }
 ]

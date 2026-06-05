@@ -29,6 +29,8 @@
 00163_gacha_tickt_piece
 00164_gacha_tickt_LEGEND
 00164_gacha_tickt_piece
+00165_gacha_tickt_LEGEND
+00165_gacha_tickt_piece
 010_00_010_homeicon_event_st_00
 010_00_010_label_ribbonlabel_blue
 010_00_010_label_ribbonlabel_pink
@@ -631,6 +633,7 @@
 08_sale_pack_item_valentine
 08_sale_pack_item_wonder
 08_sale_pack_petal_memoria_001
+090_00_gacha_movie_2352_01
 090_trial_battle_image_30902_01
 200_00_tutorial_help_image_05_01
 200_00_tutorial_help_image_05_02
@@ -2586,6 +2589,24 @@
 20260528_03_00187_loginbonus_title
 20260528_04_00322_mission_banner
 20260528_04_Costume_Plachta_mission_banner
+20260604_01_00165_gacha_tickt_M
+20260604_01_00165_gacha_tickt_S
+20260604_01_00165_gacha_tickt_SS
+20260604_01_dress_jewel_Shallotte_M
+20260604_01_dress_jewel_Shallotte_S
+20260604_01_dress_jewel_Shallotte_SS
+20260604_02_00172_event_banner_portal
+20260604_02_00172_event_banner_top
+20260604_02_00172_event_logo
+20260604_02_00172_legend_challenge_banner_portal
+20260604_02_00172_legend_challenge_banner_top
+20260604_02_00172_legend_challenge_logo
+20260604_03_00188_loginbonus_banner
+20260604_03_00188_loginbonus_title
+20260604_04_00324_misson_banner
+20260604_04_Costume_Shallotte_mission_banner
+20260604_08_00775_pack_P_A16_MIRUCA
+20260604_Miruca_WeaponPack
 2027_gacha_banner_s
 2027_gacha_top
 2094_gacha_banner_s
@@ -2661,6 +2682,8 @@
 2350_gacha_remind
 2351_gacha_banner_s
 2351_gacha_remind
+2352_gacha_banner_s
+2352_gacha_remind
 2391_gacha_banner_s
 3050_gacha_banner_s
 3050_gacha_remind
@@ -2739,6 +2762,8 @@ CharaHome_A12_TOTORI_01_WIN
 CharaHome_A12_TOTORI_01_WIN_square
 CharaHome_A18_FIRIS_UNIQUE_THINK
 CharaHome_A18_FIRIS_UNIQUE_THINK_P_A14_AYESHA
+CharaHome_A18_FIRIS_UNIQUE_THINK_P_A16_MIRUCA
+CharaHome_A18_FIRIS_UNIQUE_THINK_P_A16_MIRUCA_square
 CharaHome_A18_FIRIS_UNIQUE_THINK_square
 CharaHome_A21_RYZA_UNIQUE_SPEAK2
 CharaHome_A21_RYZA_UNIQUE_SPEAK2_P_A17_SOPHIE
@@ -2917,6 +2942,8 @@ CharaHome_REACHING_OUT_M_CO_00
 CharaHome_REACHING_OUT_M_CO_00_square
 CharaHome_REACHING_OUT_M_PA_00
 CharaHome_REACHING_OUT_M_PA_00_square
+CharaHome_UNIQUE_A16_MIRUCA_00
+CharaHome_UNIQUE_A16_MIRUCA_00_square
 CharaHome_UNIQUE_A23_SOPHIE_00
 CharaHome_UNIQUE_A23_SOPHIE_00_square
 CharaHome_UNIQUE_A24_KLAUDIA_01_00
@@ -2963,6 +2990,8 @@ CharaHome_UNIQUE_BM_RIAS_00
 CharaHome_UNIQUE_BM_RIAS_00_square
 CharaHome_UNIQUE_BM_SLADE_00
 CharaHome_UNIQUE_BM_SLADE_00_square
+CharaHome_UNIQUE_MOT_A16_MIRUCA_00
+CharaHome_UNIQUE_MOT_A16_MIRUCA_00_square
 CharaHome_UNIQUE_MOT_A23_SOPHIE_00
 CharaHome_UNIQUE_MOT_A23_SOPHIE_00_square
 CharaHome_UNIQUE_MOT_BLD_NPC18_00
@@ -2995,6 +3024,9 @@ Costume_Plachta_gacha_logo
 Costume_Reisa_gacha_banner
 Costume_Reisa_gacha_banner_s
 Costume_Reisa_gacha_logo
+Costume_Shallotte_gacha_banner
+Costume_Shallotte_gacha_banner_s
+Costume_Shallotte_gacha_logo
 Costume_Sophie_gacha_banner
 Costume_Sophie_gacha_banner_s
 Costume_Sophie_gacha_logo
@@ -4862,6 +4894,10 @@ Ingredient_0798_M
 Ingredient_0798_S
 Ingredient_0799_M
 Ingredient_0799_S
+Ingredient_0800_M
+Ingredient_0800_S
+Ingredient_0801_M
+Ingredient_0801_S
 LOGHOUSE_M
 Level30_LOGHOUSE_01
 Level30_LOGHOUSE_02
@@ -5171,6 +5207,7 @@ STL_FRAME_09
 STL_FRAME_10
 STL_FRAME_11
 STL_FRAME_12
+STL_FRAME_13
 STL_FRAME_ELECTION2026_WINNER_03
 STL_MEM_00_00001
 STL_MEM_00_00001_M
@@ -6228,6 +6265,10 @@ STL_MEM_02_00260
 STL_MEM_02_00260_M
 STL_MEM_02_00260_long
 STL_MEM_02_00260_square
+STL_MEM_02_00261
+STL_MEM_02_00261_M
+STL_MEM_02_00261_long
+STL_MEM_02_00261_square
 STL_M_A16_CARRY_BASE_FACE_M
 STL_M_A16_CARRY_BASE_FACE_S
 STL_M_A16_CARRY_BASE_L_FACE_M
@@ -7107,7 +7148,10 @@ STL_P_A15_MARION_01_long
 STL_P_A15_MARION_01_long_L
 STL_P_A16_JURIE_FACE_S
 STL_P_A16_KORTES_FACE_S
+STL_P_A16_MIRUCA_FACE_M
 STL_P_A16_MIRUCA_FACE_S
+STL_P_A16_MIRUCA_long
+STL_P_A16_MIRUCA_long_L
 STL_P_A16_NADY_FACE_M
 STL_P_A16_NADY_FACE_S
 STL_P_A16_NADY_long
@@ -9893,6 +9937,7 @@ Skill_P_A15_LINCA_01_burst
 Skill_P_A15_LOGY_01_burst
 Skill_P_A15_LOGY_burst
 Skill_P_A15_MARION_01_burst
+Skill_P_A16_MIRUCA_burst
 Skill_P_A16_NADY_burst
 Skill_P_A16_SHALLISTERA_01_burst
 Skill_P_A16_SHALLISTERA_burst
@@ -11129,6 +11174,9 @@ emblem_0128_3
 emblem_0129_1
 emblem_0129_2
 emblem_0129_3
+emblem_0130_1
+emblem_0130_2
+emblem_0130_3
 emblem_0133
 emblem_0134
 emblem_0135
@@ -13238,6 +13286,9 @@ equipment_tool_0704_S
 equipment_tool_0705
 equipment_tool_0705_M
 equipment_tool_0705_S
+equipment_tool_0706
+equipment_tool_0706_M
+equipment_tool_0706_S
 frame_001
 item_Valuables_001_M
 item_Valuables_001_S

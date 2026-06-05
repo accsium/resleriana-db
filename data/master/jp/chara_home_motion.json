@@ -15450,6 +15450,90 @@
     "timeline_path_hash": "1850468633571510286"
   },
   {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "2464089883814404580",
+    "id": 1213,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "立ち2",
+    "priority": 20187,
+    "start_at": null,
+    "still_path_hash": "3852012168914053433",
+    "timeline_path_hash": "3282884807554616669"
+  },
+  {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "1524262297449232377",
+    "id": 1214,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "呆れ",
+    "priority": 20188,
+    "start_at": null,
+    "still_path_hash": "7341304802607437664",
+    "timeline_path_hash": "4342721504778189947"
+  },
+  {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "8184965493943013735",
+    "id": 1215,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "考える3",
+    "priority": 20189,
+    "start_at": null,
+    "still_path_hash": "8623089145090624149",
+    "timeline_path_hash": "8481606555509824820"
+  },
+  {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "8990975849086774081",
+    "id": 1216,
+    "is_receivable": false,
+    "key_tasks": [
+      {
+        "condition_id": 3075,
+        "count": 3,
+        "name": "★4.5で解放されます"
+      }
+    ],
+    "name": "手を組む",
+    "priority": 20190,
+    "start_at": null,
+    "still_path_hash": "6019293101182842389",
+    "timeline_path_hash": "1988265728271377579"
+  },
+  {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7100185757713770558",
+    "id": 1217,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "ユニークシーン",
+    "priority": 20191,
+    "start_at": null,
+    "still_path_hash": "6687481094338772660",
+    "timeline_path_hash": "5521030918670317982"
+  },
+  {
+    "character_id": 32401,
+    "character_skin_id": null,
+    "icon_still_path_hash": "1334168063725645490",
+    "id": 1218,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "エクストラモーション",
+    "priority": 20192,
+    "start_at": null,
+    "still_path_hash": "9126394657211876585",
+    "timeline_path_hash": "6281606338573580517"
+  },
+  {
     "character_id": null,
     "character_skin_id": 99942,
     "icon_still_path_hash": 0,
@@ -15461,5 +15545,18 @@
     "start_at": null,
     "still_path_hash": 0,
     "timeline_path_hash": "7591845650682956700"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99944,
+    "icon_still_path_hash": 0,
+    "id": 1244,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100009,
+    "start_at": null,
+    "still_path_hash": 0,
+    "timeline_path_hash": "5521640211120669932"
   }
 ]

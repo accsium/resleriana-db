@@ -2371,5 +2371,106 @@
       }
     ],
     "id": 63
+  },
+  {
+    "bonuses": [
+      {
+        "additional_bonus": 10,
+        "base_bonus": 40,
+        "target_resource": {
+          "id": 30234,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30099,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30100,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30202,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30040,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30042,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30046,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30072,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30122,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30138,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30141,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30175,
+          "type": 17
+        }
+      }
+    ],
+    "id": 64
   }
 ]

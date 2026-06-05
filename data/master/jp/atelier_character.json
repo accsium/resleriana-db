@@ -7564,5 +7564,44 @@
         "text": "公認錬金術士になるため、この世界でも\nできることはたくさんあるはず！"
       }
     ]
+  },
+  {
+    "character_id": 32401,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 197,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "そういえば、本を借りたままだった。\n返しておかなきゃ"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "最初は面食らったけど、\nずっと居れば慣れるものね"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "シャルはこっちでも相変わらず騒がしい……\nまあ、いつも通りで安心するけど"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "部屋は綺麗に片付いてればいいって\nわけじゃない。自分が使いやすいのが一番"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "いい機会だから、釜をかき混ぜる錬金術も\nしっかり勉強してみようかしら"
+      }
+    ]
   }
 ]

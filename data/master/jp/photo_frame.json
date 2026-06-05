@@ -132,6 +132,22 @@
     "start_at": "2026-05-22T03:00:00.000Z"
   },
   {
+    "display_end_at": "2026-06-12T03:00:00.000Z",
+    "id": 14,
+    "image_path_hash": "8963730403822485581",
+    "key_quest_id": null,
+    "key_tasks": [
+      {
+        "condition_id": 3079,
+        "count": 1,
+        "name": "寄り添う姉妹の想い ミルカ LEGEND FESを70回引こう\n※有償限定も含む"
+      }
+    ],
+    "name": "フレーム14",
+    "priority": 14,
+    "start_at": "2026-06-05T03:00:00.000Z"
+  },
+  {
     "display_end_at": null,
     "id": 102,
     "image_path_hash": "3658769861163765301",

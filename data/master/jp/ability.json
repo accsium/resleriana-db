@@ -18227,6 +18227,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がミルカ【錬成アルケミスト】の時、「マイティバースト」と「フルオート」のクリティカル確率アップ効果が「読書」以外のキャラにも付与されるようになる",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001291,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 301351,
+    "name": "クロニクルバンカー"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29075,6 +29089,118 @@
   },
   {
     "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 2875
+      }
+    ],
+    "id": 500730,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 500731,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 2125
+      }
+    ],
+    "id": 500732,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 1750
+      }
+    ],
+    "id": 500733,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 1625
+      }
+    ],
+    "id": 500734,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 500735,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 1375
+      }
+    ],
+    "id": 500736,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」の時、スキルダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000108,
+        "limit_count": null,
+        "value": 1250
+      }
+    ],
+    "id": 500737,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "魔攻・魔防+{0}%",
     "effects": [
       {
@@ -33072,6 +33198,38 @@
     ],
     "id": 1980246,
     "name": "おばあちゃんから学んだこと"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「読書」は「物攻・魔攻・物防・魔防+35%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500002,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500003,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500004,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500005,
+        "limit_count": null,
+        "value": 3500
+      }
+    ],
+    "id": 1980249,
+    "name": "姉と歩んだ旅路"
   },
   {
     "ability_category_type": null,
@@ -43100,6 +43258,88 @@
     ],
     "id": 1990550,
     "name": "あたしが支えるよ！"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可<br><br>得意属性が氷属性の味方全員のバーストスキルをゲージ化<br>※バーストゲージは2周分ストック可能<br><br>パーティの誰かがクリティカル攻撃後、自身のバーストゲージを{0}％増加し、得意属性が氷属性の味方全員のバーストゲージを{1}％増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001746,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001746,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001745,
+        "limit_count": null,
+        "value": 20000
+      }
+    ],
+    "id": 1990555,
+    "name": "凍てつく闘志"
+  },
+  {
+    "ability_category_type": null,
+    "description": "パーティに「冒険」がいる時、与える強化効果量+{0}％<br><br>パーティの誰かがバーストスキル発動後、得意属性が氷属性の味方全員に「クリティカルダメージ+{1}％」と「魔攻+{2}%」を付与(全て上限150％)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001747,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001748,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001752,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001748,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001752,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 1990556,
+    "name": "さっさと終わらせて"
   },
   {
     "ability_category_type": null,
@@ -64613,6 +64853,136 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000390,
+        "limit_count": null,
+        "value": 400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000391,
+        "limit_count": null,
+        "value": 400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000392,
+        "limit_count": null,
+        "value": 400
+      }
+    ],
+    "id": 4991353,
+    "name": "想力「憩いのひととき」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000390,
+        "limit_count": null,
+        "value": 1200
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000391,
+        "limit_count": null,
+        "value": 800
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000392,
+        "limit_count": null,
+        "value": 800
+      }
+    ],
+    "id": 4991354,
+    "name": "想力「憩いのひととき」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000390,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000391,
+        "limit_count": null,
+        "value": 1200
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000392,
+        "limit_count": null,
+        "value": 1200
+      }
+    ],
+    "id": 4991355,
+    "name": "想力「憩いのひととき」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000390,
+        "limit_count": null,
+        "value": 2800
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000391,
+        "limit_count": null,
+        "value": 1600
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000392,
+        "limit_count": null,
+        "value": 1600
+      }
+    ],
+    "id": 4991356,
+    "name": "想力「憩いのひととき」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000390,
+        "limit_count": null,
+        "value": 3600
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000391,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000392,
+        "limit_count": null,
+        "value": 2000
+      }
+    ],
+    "id": 4991357,
+    "name": "想力「憩いのひととき」"
+  },
+  {
+    "ability_category_type": null,
     "description": "突属性のスキルダメージ{0}%アップ",
     "effects": [
       {
@@ -83453,6 +83823,26 @@
   },
   {
     "ability_category_type": null,
+    "description": "バーストスキルでない攻撃を受けた時、カウンター\nバーストスキルを受けると、自身に「与ダメージ-{1}%」を付与(上限25%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86015003,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86046001,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 26015003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "マイナス効果を持つ対象への与ダメージ15%アップ\n状態異常の相手に攻撃する時、与ダメージ10%アップ\n戦闘不能時、アンチュワルターのバフ解除\n自身が状態異常時、被ダメージ100％アップ",
     "effects": [
       {
@@ -84223,6 +84613,58 @@
       }
     ],
     "id": 26042003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN(20%)と被クリティカル率UP(10%)を付与\nバーストスキルを受けると、自身に「与ダメージ-{2}%」を付与(上限25%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 780039024,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86046002,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86046001,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 26046001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN(20%)と被クリティカル率UP(10%)を付与\nバーストスキルを受けると、自身に「与ダメージ-{2}%」を付与(上限25%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 780039024,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86046002,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86046001,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 26046002,
     "name": ""
   },
   {
@@ -114700,6 +115142,54 @@
     ],
     "id": 600000817,
     "name": "自身が「約束と協力」のとき、スキル威力UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ミルカ【錬成アルケミスト】の与える強化効果量+150%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000918,
+        "limit_count": null,
+        "value": 15000
+      }
+    ],
+    "id": 600000819,
+    "name": "ミルカ【錬成アルケミスト】の与える強化効果量UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ミルカ【錬成アルケミスト】またはソフィー【Memory of Dreams】を編成時、被ダメージ-25%(上限25%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000919,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000914,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 600000820,
+    "name": "ミルカ【錬成アルケミスト】またはソフィー【Memory of Dreams】を編成時、被ダメージDOWN"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身が「寡黙」のとき、スキル威力+100%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000920,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 600000821,
+    "name": "自身が「寡黙」のとき、スキル威力UP"
   },
   {
     "ability_category_type": null,

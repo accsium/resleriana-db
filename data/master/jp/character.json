@@ -5445,6 +5445,105 @@
     "voice_actor_id": 53
   },
   {
+    "ability_ids": [1990555, 1990556],
+    "acquisition_movie_path_hash": "2068689981740188417",
+    "acquisition_text": "力が必要なら、貸してあげる。\nまあ……期待には応えるわ",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【錬成アルケミスト】",
+    "attack_attributes": [6],
+    "base_character_id": 324,
+    "battle_tool_trait_ids": [54, 19],
+    "board_ability1_ids": [1990442, 1990417, 1990392],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003856, 14003856, 14003856, 14003857, 14003858, 14003859, 14003860],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 932401,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "もの静かな錬金術士。ユリエの妹。\nアーシャたちと協力し、様々な依頼をこなしている。\n素直ゆえに発言が辛辣になってしまいがち。\n幼馴染のシャルロッテの裏表のない性格を気に入っており、毒舌を吐きつつも一緒に行動したりと仲がいい。",
+    "equipment_tool_trait_ids": [109],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 324012,
+    "extra_skill_ids": [],
+    "fullname": "ミルカ・クロッツェ",
+    "growboard_id": 324011,
+    "id": 32401,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 56,
+      "defense": 70,
+      "hp": 153,
+      "magic": 68,
+      "mental": 71,
+      "speed": 262
+    },
+    "is_alchemist": false,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980249,
+          "combat_power_coefficient": 4000,
+          "condition_ids": [31]
+        }
+      ],
+      "description": "「読書」は「物攻・魔攻・物防・魔防+35%」",
+      "name": "姉と歩んだ旅路"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "6658023269359396885",
+    "motion_type": 2,
+    "name": "ミルカ",
+    "neo_growboard_id": 324013,
+    "normal1_skill_ids": [11003846, 11003847, 11003848, 11003849, 11003850],
+    "normal2_skill_ids": [12003851, 12003852, 12003853, 12003854, 12003855],
+    "original_title_id": 16,
+    "overlay_name": "Miruca Crotze",
+    "personality": 2,
+    "profile_voice_text": "ミルカ・クロッツェ。錬金術士。\n武器や防具を作るなら、力になれると思う",
+    "resistance": {
+      "fire": 0,
+      "ice": 5,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "result_timeline_hash": "2447862678744469920",
+    "role": 4,
+    "series_id": 7,
+    "sort_name": "ミルカ",
+    "start_at": "2026-06-05T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "2787887649425443296",
+        "large_still_path_hash": "7124408976662162697",
+        "narrow_still_path_hash": "5846033010929979209",
+        "rarity": null,
+        "still_path_hash": "1034358740077913276"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500737, 500736, 500735, 500734, 500733, 500732, 500731, 500730],
+    "support_color_id": 5,
+    "tag_ids": [15, 27, 30],
+    "trait_color_id": 1,
+    "voice_actor_id": 93
+  },
+  {
     "ability_ids": [1990146, 1990147],
     "acquisition_movie_path_hash": "3004751215227607103",
     "acquisition_text": null,

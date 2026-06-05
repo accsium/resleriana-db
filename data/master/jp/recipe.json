@@ -157997,6 +157997,186 @@
     "tracking_id": "af_synthesis_recipe_862"
   },
   {
+    "character_id": 32401,
+    "costs": [
+      {
+        "id": 32401,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 1417,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 863,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "クロニクルバンカー",
+    "priority": 81,
+    "recipe_plan_id": 82,
+    "requirements": [
+      {
+        "condition_id": 3075,
+        "count": 4,
+        "name": "ミルカ【錬成アルケミスト】を★5に覚醒しよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1269,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-06-05T03:00:00.000Z",
+    "support_character_ids": [76, 207, 32],
+    "support_color_ids": [1, 5, 4],
+    "tracking_id": "af_synthesis_recipe_863"
+  },
+  {
     "character_id": null,
     "costs": [
       {

@@ -50566,5 +50566,42 @@
       }
     ],
     "still_path_hash": "312270879128044636"
+  },
+  {
+    "ability_ids": [301351],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 100,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "attack_attributes": [6],
+    "description": "自身がミルカ【錬成アルケミスト】の時、「マイティバースト」と「フルオート」のクリティカル確率アップ効果が「読書」以外のキャラにも付与されるようになる",
+    "easy_synthesis_trait_lottery_id": 9,
+    "id": 1269,
+    "large_still_path_hash": "9216709472194642474",
+    "name": "クロニクルバンカー",
+    "quality_group_id": 38,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 100
+    },
+    "roles": [4],
+    "slot_type": 1,
+    "small_still_path_hash": "7507225376244533358",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 150
+      }
+    ],
+    "still_path_hash": "4722994011333365124"
   }
 ]

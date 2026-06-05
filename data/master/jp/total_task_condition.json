@@ -18432,8 +18432,60 @@
     }
   },
   {
+    "id": 3064,
+    "transition": null
+  },
+  {
+    "id": 3065,
+    "transition": null
+  },
+  {
     "id": 3074,
     "transition": null
+  },
+  {
+    "id": 3075,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 32401,
+      "transition": 33
+    }
+  },
+  {
+    "id": 3076,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720401,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3077,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720401,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3078,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720401,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3079,
+    "transition": null
+  },
+  {
+    "id": 3080,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 172,
+      "transition": 30
+    }
   },
   {
     "id": 3081,

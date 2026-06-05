@@ -1630,6 +1630,36 @@
     "text": "おお！　いいものもらえちゃった！"
   },
   {
+    "character_id": 32401,
+    "id": 32401001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "今日はこれがもらえるみたい"
+  },
+  {
+    "character_id": 32401,
+    "id": 32401002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "毎日の積み重ねが大事ね"
+  },
+  {
+    "character_id": 32401,
+    "id": 32401003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "ふーん、なかなかいいじゃない"
+  },
+  {
     "character_id": 33001,
     "id": 33001001,
     "is_regular": true,

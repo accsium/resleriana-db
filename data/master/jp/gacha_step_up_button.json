@@ -18676,6 +18676,131 @@
     "medal_quantity": 0
   },
   {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [32401],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23952,
+    "gacha_rate_set_name": "【STEP1】寄り添う姉妹の想い ミルカ LEGEND FES[有償限定]",
+    "id": 888,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [32401],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23953,
+    "gacha_rate_set_name": "【STEP2】寄り添う姉妹の想い ミルカ LEGEND FES[有償限定]",
+    "id": 889,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [32401],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23954,
+    "gacha_rate_set_name": "【STEP3】寄り添う姉妹の想い ミルカ LEGEND FES[有償限定]",
+    "id": 890,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [32401],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 23955,
+    "gacha_rate_set_name": "【STEP4】寄り添う姉妹の想い ミルカ LEGEND FES[有償限定]",
+    "id": 891,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [32401],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 23956,
+    "gacha_rate_set_name": "【STEP5】寄り添う姉妹の想い ミルカ LEGEND FES[有償限定]",
+    "id": 892,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
     "additional_medal": 0,
     "additional_pieces": [],
     "cost": {
@@ -19735,6 +19860,139 @@
     "gacha_rate_set_id": 31000077,
     "gacha_rate_set_name": "【STEP7】プラフタ ヴィオラージュ 衣装調合",
     "id": 10091,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000081,
+    "gacha_rate_set_name": "【STEP1】シャルロッテ グラマラスター 衣装調合",
+    "id": 10092,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000082,
+    "gacha_rate_set_name": "【STEP2】シャルロッテ グラマラスター 衣装調合",
+    "id": 10093,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000083,
+    "gacha_rate_set_name": "【STEP3】シャルロッテ グラマラスター 衣装調合",
+    "id": 10094,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000084,
+    "gacha_rate_set_name": "【STEP4】シャルロッテ グラマラスター 衣装調合",
+    "id": 10095,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000085,
+    "gacha_rate_set_name": "【STEP5】シャルロッテ グラマラスター 衣装調合",
+    "id": 10096,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000086,
+    "gacha_rate_set_name": "【STEP6】シャルロッテ グラマラスター 衣装調合",
+    "id": 10097,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1416,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000087,
+    "gacha_rate_set_name": "【STEP7】シャルロッテ グラマラスター 衣装調合",
+    "id": 10098,
     "is_always_display": true,
     "is_wish_list": false,
     "medal_quantity": 0

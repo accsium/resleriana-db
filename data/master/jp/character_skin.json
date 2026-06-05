@@ -678,5 +678,25 @@
       "still_path_hash": "8944192761651257696"
     },
     "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "8868184272634603126",
+    "base_character_id": 323,
+    "character_id": null,
+    "description": "シャルロッテの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99944,
+    "model_path_hash": "8971561709699782619",
+    "name": "グラマラスター",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "2042328111184842725",
+      "large_still_path_hash": "5862651360999249958",
+      "narrow_still_path_hash": "9073348187577624267",
+      "rarity": null,
+      "still_path_hash": "5588667421325366917"
+    },
+    "still_set": null
   }
 ]

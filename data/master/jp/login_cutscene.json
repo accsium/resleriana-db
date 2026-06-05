@@ -702,6 +702,15 @@
     "start_at": "2026-05-22T03:00:00.000Z"
   },
   {
+    "end_at": "2026-06-12T03:00:00.000Z",
+    "gacha_id": null,
+    "id": 83,
+    "is_download_movie": false,
+    "movie_path_hash": "2310737722760546049",
+    "priority": 83,
+    "start_at": "2026-06-05T03:00:00.000Z"
+  },
+  {
     "end_at": "2025-04-30T03:00:00.000Z",
     "gacha_id": null,
     "id": 10000,

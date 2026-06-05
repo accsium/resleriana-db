@@ -3184,5 +3184,35 @@
     "event_ids": [171],
     "id": 106,
     "start_at": "2026-05-29T03:00:00.000Z"
+  },
+  {
+    "bonuses": [
+      {
+        "effects": [
+          {
+            "item_ids": [],
+            "limit": 200,
+            "targets": [
+              {
+                "character_scope_ids": [],
+                "memoria_scope_ids": [],
+                "owned_sp_bonus_ids": [64],
+                "value": null
+              }
+            ]
+          }
+        ],
+        "name": "",
+        "type": 5,
+        "warning_text": ""
+      }
+    ],
+    "difficulties": [5],
+    "end_at": "2026-06-28T03:00:00.000Z",
+    "episode_categories": [12],
+    "event_id": 172,
+    "event_ids": [172],
+    "id": 107,
+    "start_at": "2026-06-05T03:00:00.000Z"
   }
 ]

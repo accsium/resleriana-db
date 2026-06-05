@@ -17751,6 +17751,75 @@
     "still_path_hash": "7726997623001150972"
   },
   {
+    "ability_ids": [4991353, 4991354, 4991355, 4991356, 4991357],
+    "attack_attributes": [6],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "鏡の前で、シャルロッテとシャリステラに身だしなみを整えられているミルカ。二人の優しい手付きに、ミルカの頬は熱を持つ。\n普段は調合と冒険に明け暮れる錬金術士たちだが、たまにこうして、一緒に穏やかな時間を過ごすのだ。",
+    "first_cut": 1,
+    "gacha_perform_bg_position": 6800,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 19,
+        "position_y": 850,
+        "width": 1000
+      },
+      {
+        "position_x": 8,
+        "position_y": 676,
+        "width": 1000
+      }
+    ],
+    "id": 30234,
+    "illustrator_id": 6,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "2480697943289002381",
+    "memoria_small_still_cut_position": 2,
+    "name": "憩いのひととき",
+    "narrow_still_path_hash": "2635452550752371103",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 3,
+    "small_still_path_hash": "1124283323412321339",
+    "start_at": "2026-06-05T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31088,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "3969562458028332450"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

@@ -1186,5 +1186,24 @@
     ],
     "priority": 76,
     "start_at": "2026-05-22T03:00:00.000Z"
+  },
+  {
+    "background_image_path_hash": "375581309317996027",
+    "banner_path_hash": "6030788479021901957",
+    "bgm_path_hash": "7008403899368248475",
+    "end_at": "2026-06-19T03:00:00.000Z",
+    "episode_id": 1000077,
+    "id": 77,
+    "logo_path_hash": "2581015221139877464",
+    "name": "クロッツェ姉妹の『ランターナ紀行』　前編",
+    "patterns": [
+      {
+        "ids": [330],
+        "is_direct_opened": false,
+        "type": 2
+      }
+    ],
+    "priority": 77,
+    "start_at": "2026-06-05T03:00:00.000Z"
   }
 ]
