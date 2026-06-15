@@ -4837,7 +4837,7 @@
         "type": 2
       },
       {
-        "ids": [130],
+        "ids": [130, 131],
         "is_direct_opened": false,
         "type": 4
       }

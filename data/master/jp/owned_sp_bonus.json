@@ -2472,5 +2472,106 @@
       }
     ],
     "id": 64
+  },
+  {
+    "bonuses": [
+      {
+        "additional_bonus": 10,
+        "base_bonus": 40,
+        "target_resource": {
+          "id": 30235,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30099,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30100,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30101,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30023,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30056,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30084,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30123,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30154,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30158,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30194,
+          "type": 17
+        }
+      },
+      {
+        "additional_bonus": 3,
+        "base_bonus": 7,
+        "target_resource": {
+          "id": 30195,
+          "type": 17
+        }
+      }
+    ],
+    "id": 65
   }
 ]

@@ -7383,5 +7383,92 @@
         "slot3_equipment_tool": null
       }
     ]
+  },
+  {
+    "battle_tools": [],
+    "id": 1127,
+    "leader_position": 3,
+    "members": [
+      {
+        "character": {
+          "id": 32501,
+          "is_max_enhance": false,
+          "level": 80,
+          "rarity": 3
+        },
+        "memoria": {
+          "id": 30235,
+          "level": 30,
+          "limit_break": 0
+        },
+        "slot1_equipment_tool": null,
+        "slot2_equipment_tool": null,
+        "slot3_equipment_tool": null
+      },
+      {
+        "character": {
+          "id": 44202,
+          "is_max_enhance": false,
+          "level": 80,
+          "rarity": 3
+        },
+        "memoria": {
+          "id": 30016,
+          "level": 30,
+          "limit_break": 0
+        },
+        "slot1_equipment_tool": null,
+        "slot2_equipment_tool": null,
+        "slot3_equipment_tool": null
+      },
+      {
+        "character": {
+          "id": 25505,
+          "is_max_enhance": false,
+          "level": 80,
+          "rarity": 3
+        },
+        "memoria": {
+          "id": 30115,
+          "level": 30,
+          "limit_break": 0
+        },
+        "slot1_equipment_tool": null,
+        "slot2_equipment_tool": null,
+        "slot3_equipment_tool": null
+      },
+      {
+        "character": {
+          "id": 32401,
+          "is_max_enhance": false,
+          "level": 80,
+          "rarity": 3
+        },
+        "memoria": {
+          "id": 30234,
+          "level": 30,
+          "limit_break": 0
+        },
+        "slot1_equipment_tool": null,
+        "slot2_equipment_tool": null,
+        "slot3_equipment_tool": null
+      },
+      {
+        "character": {
+          "id": 26904,
+          "is_max_enhance": false,
+          "level": 80,
+          "rarity": 3
+        },
+        "memoria": {
+          "id": 30157,
+          "level": 30,
+          "limit_break": 0
+        },
+        "slot1_equipment_tool": null,
+        "slot2_equipment_tool": null,
+        "slot3_equipment_tool": null
+      }
+    ]
   }
 ]

@@ -18440,6 +18440,14 @@
     "transition": null
   },
   {
+    "id": 3066,
+    "transition": null
+  },
+  {
+    "id": 3067,
+    "transition": null
+  },
+  {
     "id": 3074,
     "transition": null
   },
@@ -18553,6 +18561,50 @@
   },
   {
     "id": 3097,
+    "transition": null
+  },
+  {
+    "id": 3098,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 172,
+      "transition": 30
+    }
+  },
+  {
+    "id": 3099,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720402,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3100,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720402,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3101,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1720402,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3102,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 32501,
+      "transition": 33
+    }
+  },
+  {
+    "id": 3121,
     "transition": null
   }
 ]

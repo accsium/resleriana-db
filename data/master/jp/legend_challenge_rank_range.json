@@ -3960,5 +3960,61 @@
     "episode_id": 1000077,
     "id": 100007708,
     "reward_set_ids": [71013]
+  },
+  {
+    "border_rank": 50,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007801,
+    "reward_set_ids": [71009]
+  },
+  {
+    "border_rank": 100,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007802,
+    "reward_set_ids": [71010]
+  },
+  {
+    "border_rank": 500,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007803,
+    "reward_set_ids": [71011]
+  },
+  {
+    "border_rank": 1000,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007804,
+    "reward_set_ids": [71014]
+  },
+  {
+    "border_rank": 2000,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007805,
+    "reward_set_ids": [71015]
+  },
+  {
+    "border_rank": 5000,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007806,
+    "reward_set_ids": [71016]
+  },
+  {
+    "border_rank": 10000,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007807,
+    "reward_set_ids": [71012]
+  },
+  {
+    "border_rank": 20000,
+    "emblem_rarity_ids": [],
+    "episode_id": 1000078,
+    "id": 100007808,
+    "reward_set_ids": [71013]
   }
 ]

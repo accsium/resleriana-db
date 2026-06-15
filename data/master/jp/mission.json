@@ -53578,6 +53578,64 @@
   {
     "category": 3,
     "end_at": null,
+    "event_tab_id": 330,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1720024,
+    "label": null,
+    "name": "ランターナ紀行　中編ボスチャレンジをスコアランクSSでクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 98,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 100095102,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3101,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": "2026-06-26T03:00:00.000Z",
+    "event_tab_id": 330,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 1720025,
+    "label": null,
+    "name": "ランターナ紀行　中編レジェンドチャレンジに挑戦しよう\n※2026/06/26 11:59まで。",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 97,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 2000103,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 100007845,
+      "transition": 31
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
     "event_tab_id": 176,
     "guide_mission_home_label": null,
     "guide_mission_pickup_reward": null,
@@ -83310,6 +83368,549 @@
       }
     ],
     "total_task_condition_id": 3080,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272001,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 16,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 10,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 20,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 30,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 40,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 50,
+        "reward_set_id": 3272002,
+        "start_at": null
+      },
+      {
+        "count": 60,
+        "reward_set_id": 3272003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272002,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 15,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 70,
+        "reward_set_id": 3272008,
+        "start_at": null
+      },
+      {
+        "count": 80,
+        "reward_set_id": 3272003,
+        "start_at": null
+      },
+      {
+        "count": 90,
+        "reward_set_id": 3272003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272003,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 14,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 100,
+        "reward_set_id": 2242008,
+        "start_at": null
+      },
+      {
+        "count": 110,
+        "reward_set_id": 3272003,
+        "start_at": null
+      },
+      {
+        "count": 120,
+        "reward_set_id": 3272003,
+        "start_at": null
+      },
+      {
+        "count": 130,
+        "reward_set_id": 3272004,
+        "start_at": null
+      },
+      {
+        "count": 140,
+        "reward_set_id": 3272004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272004,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 13,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 150,
+        "reward_set_id": 2242009,
+        "start_at": null
+      },
+      {
+        "count": 160,
+        "reward_set_id": 3272005,
+        "start_at": null
+      },
+      {
+        "count": 170,
+        "reward_set_id": 3272005,
+        "start_at": null
+      },
+      {
+        "count": 180,
+        "reward_set_id": 3272006,
+        "start_at": null
+      },
+      {
+        "count": 190,
+        "reward_set_id": 3272006,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272005,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 12,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 200,
+        "reward_set_id": 3272007,
+        "start_at": null
+      },
+      {
+        "count": 210,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 220,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 230,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 240,
+        "reward_set_id": 3272001,
+        "start_at": null
+      },
+      {
+        "count": 250,
+        "reward_set_id": 3272002,
+        "start_at": null
+      },
+      {
+        "count": 260,
+        "reward_set_id": 3272002,
+        "start_at": null
+      },
+      {
+        "count": 270,
+        "reward_set_id": 3272002,
+        "start_at": null
+      },
+      {
+        "count": 280,
+        "reward_set_id": 3272002,
+        "start_at": null
+      },
+      {
+        "count": 290,
+        "reward_set_id": 3272002,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272006,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 11,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 300,
+        "reward_set_id": 2242008,
+        "start_at": null
+      },
+      {
+        "count": 310,
+        "reward_set_id": 3272003,
+        "start_at": null
+      },
+      {
+        "count": 320,
+        "reward_set_id": 3272003,
+        "start_at": null
+      },
+      {
+        "count": 330,
+        "reward_set_id": 3272004,
+        "start_at": null
+      },
+      {
+        "count": 340,
+        "reward_set_id": 3272004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272007,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 10,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 350,
+        "reward_set_id": 2242009,
+        "start_at": null
+      },
+      {
+        "count": 360,
+        "reward_set_id": 3272005,
+        "start_at": null
+      },
+      {
+        "count": 370,
+        "reward_set_id": 3272005,
+        "start_at": null
+      },
+      {
+        "count": 380,
+        "reward_set_id": 3272006,
+        "start_at": null
+      },
+      {
+        "count": 390,
+        "reward_set_id": 3272006,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 327,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3272008,
+    "label": null,
+    "name": "寄り添う姉妹の想い ユリエ LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 9,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 400,
+        "reward_set_id": 3272007,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 328,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3282001,
+    "label": null,
+    "name": "バトルコイン[ランターナ紀行　中編]を{}枚獲得しよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 6,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 200,
+        "reward_set_id": 3282001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3098,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 328,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3282002,
+    "label": null,
+    "name": "バトルコイン[ランターナ紀行　中編]を{}枚獲得しよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 7,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 400,
+        "reward_set_id": 3282001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3098,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 328,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3282003,
+    "label": null,
+    "name": "バトルコイン[ランターナ紀行　中編]を{}枚獲得しよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 8,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 600,
+        "reward_set_id": 3282001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3098,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 328,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3282004,
+    "label": null,
+    "name": "バトルコイン[ランターナ紀行　中編]を{}枚獲得しよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 9,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 800,
+        "reward_set_id": 3282002,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3098,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 328,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3282005,
+    "label": null,
+    "name": "バトルコイン[ランターナ紀行　中編]を{}枚獲得しよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 10,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 1000,
+        "reward_set_id": 3282003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3098,
     "transition": null
   },
   {

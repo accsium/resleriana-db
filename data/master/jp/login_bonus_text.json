@@ -1660,6 +1660,36 @@
     "text": "ふーん、なかなかいいじゃない"
   },
   {
+    "character_id": 32501,
+    "id": 32501001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "今日はこれがもらえるのね"
+  },
+  {
+    "character_id": 32501,
+    "id": 32501002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "もらえるものはもらっておくわ"
+  },
+  {
+    "character_id": 32501,
+    "id": 32501003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "いいものがもらえた。大事に使いましょ"
+  },
+  {
     "character_id": 33001,
     "id": 33001001,
     "is_regular": true,

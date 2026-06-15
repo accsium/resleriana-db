@@ -18241,6 +18241,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がユリエ【トレジャーハンター】であり、「見えない追撃」発動後、自身に「スキル威力+50%」を2回行動終了するまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001292,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 301352,
+    "name": "水晶の双剣"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29201,6 +29215,118 @@
   },
   {
     "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 2875
+      }
+    ],
+    "id": 500738,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 500739,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 2125
+      }
+    ],
+    "id": 500740,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 1750
+      }
+    ],
+    "id": 500741,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 1625
+      }
+    ],
+    "id": 500742,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 500743,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 1375
+      }
+    ],
+    "id": 500744,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「料理」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000109,
+        "limit_count": null,
+        "value": 1250
+      }
+    ],
+    "id": 500745,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "魔攻・魔防+{0}%",
     "effects": [
       {
@@ -33230,6 +33356,26 @@
     ],
     "id": 1980249,
     "name": "姉と歩んだ旅路"
+  },
+  {
+    "ability_category_type": null,
+    "description": "味方全員は「読書」1人につき「スキルダメージ・ブレイクダメージ+24%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500201,
+        "limit_count": null,
+        "value": 2400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500202,
+        "limit_count": null,
+        "value": 2400
+      }
+    ],
+    "id": 1980250,
+    "name": "妹と歩んだ旅路"
   },
   {
     "ability_category_type": null,
@@ -43340,6 +43486,52 @@
     ],
     "id": 1990556,
     "name": "さっさと終わらせて"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>クリティカル攻撃後、自身のバーストゲージを{0}％増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      }
+    ],
+    "id": 1990557,
+    "name": "熟練冒険家の技"
+  },
+  {
+    "ability_category_type": null,
+    "description": "パーティに自身以外の「寡黙」がいる時、基礎魔攻+{0}<br><br>味方から単体スキルを受けた後、自身に「スキルダメージ+{1}％」を付与(上限2個)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001749,
+        "limit_count": null,
+        "value": 40000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001750,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001751,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 1990558,
+    "name": "期待に応えてみせるわ"
   },
   {
     "ability_category_type": null,
@@ -64983,6 +65175,106 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーの時、攻撃後、自身に「スキルダメージ+{0}%」を4回行動終了するまで付与<br>「料理」の時、魔攻+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000393,
+        "limit_count": null,
+        "value": 300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000394,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 4991358,
+    "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーの時、攻撃後、自身に「スキルダメージ+{0}%」を4回行動終了するまで付与<br>「料理」の時、魔攻+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000393,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000394,
+        "limit_count": null,
+        "value": 1600
+      }
+    ],
+    "id": 4991359,
+    "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーの時、攻撃後、自身に「スキルダメージ+{0}%」を4回行動終了するまで付与<br>「料理」の時、魔攻+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000393,
+        "limit_count": null,
+        "value": 1700
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000394,
+        "limit_count": null,
+        "value": 2800
+      }
+    ],
+    "id": 4991360,
+    "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーの時、攻撃後、自身に「スキルダメージ+{0}%」を4回行動終了するまで付与<br>「料理」の時、魔攻+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000393,
+        "limit_count": null,
+        "value": 2300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000394,
+        "limit_count": null,
+        "value": 3900
+      }
+    ],
+    "id": 4991361,
+    "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が氷属性かつアタッカーの時、攻撃後、自身に「スキルダメージ+{0}%」を4回行動終了するまで付与<br>「料理」の時、魔攻+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000393,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000394,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991362,
+    "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
     "description": "突属性のスキルダメージ{0}%アップ",
     "effects": [
       {
@@ -83789,6 +84081,26 @@
   },
   {
     "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN({0}%、解除不可)を付与\nバーストスキルを受けると、自身に「受けるクリティカルダメージ+{1}%」を2回攻撃を受けるまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86203002,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86203001,
+        "limit_count": null,
+        "value": 3000
+      }
+    ],
+    "id": 26012002,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "ブレイク時、敵味方全体に受けるバフ効果量UP(55%/2回)付与",
     "effects": [
       {
@@ -89197,6 +89509,110 @@
       }
     ],
     "id": 26202003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN({0}%、解除不可)を付与\nバーストスキルを受けると、自身に「受けるクリティカルダメージ+{1}%」を2回攻撃を受けるまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86203002,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86203001,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 26203001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN({0}%、解除不可)を付与\nバーストスキルを受けると、自身に「受けるクリティカルダメージ+{1}%」を2回攻撃を受けるまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86203002,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86203001,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 26203003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "氷以外の属性耐性DOWN無効",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000719,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000722,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000721,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000717,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000716,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000718,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 26203005,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "Wave開始時、自身に被ダメージDOWN({0}%、解除不可)を付与\nバーストスキルを受けると、自身に「受けるクリティカルダメージ+{1}%」を2回攻撃を受けるまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86203002,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86203001,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 26204004,
     "name": ""
   },
   {
@@ -115190,6 +115606,54 @@
     ],
     "id": 600000821,
     "name": "自身が「寡黙」のとき、スキル威力UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ユリエ【トレジャーハンター】のスキル威力+100%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000921,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 600000822,
+    "name": "ユリエ【トレジャーハンター】のスキル威力UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身が「読書」のとき、スキル威力+100%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000923,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 600000823,
+    "name": "自身が「読書」のとき、スキル威力UP"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ユリエ【トレジャーハンター】またはミルカ【錬成アルケミスト】を編成時、被ダメージ-25%(上限25%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000922,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 120000919,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 600000824,
+    "name": "ユリエ【トレジャーハンター】またはミルカ【錬成アルケミスト】を編成時、被ダメージDOWN"
   },
   {
     "ability_category_type": null,

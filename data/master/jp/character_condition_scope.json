@@ -998,5 +998,13 @@
     "id": 134,
     "max_character_number": null,
     "min_character_number": 4
+  },
+  {
+    "attack_attributes": [],
+    "character_ids": [],
+    "character_tag_ids": [15, 30],
+    "id": 135,
+    "max_character_number": null,
+    "min_character_number": null
   }
 ]

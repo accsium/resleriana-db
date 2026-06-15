@@ -5544,6 +5544,105 @@
     "voice_actor_id": 93
   },
   {
+    "ability_ids": [1990557, 1990558],
+    "acquisition_movie_path_hash": "4834609006441846266",
+    "acquisition_text": "目指すは一攫千金――\nあなたも、私と一緒に来る？",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【トレジャーハンター】",
+    "attack_attributes": [6],
+    "base_character_id": 325,
+    "battle_tool_trait_ids": [50, 7],
+    "board_ability1_ids": [1990464, 1990439, 1990414],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003871, 14003871, 14003871, 14003872, 14003873, 14003874, 14003875],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 932501,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "一匹狼のトレジャーハンター。ミルカの姉。\n各地の伝承から推測して財宝を発見する方法を用いる。\nトレジャーハンターの経験を冒険譚に重ね合わせ、詳細に記録をつけている。\n子どもの頃から本が好きで、自分でも本を書きたいと考えていた。",
+    "equipment_tool_trait_ids": [116],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 325012,
+    "extra_skill_ids": [14003876],
+    "fullname": "ユリエ・クロッツェ",
+    "growboard_id": 325011,
+    "id": 32501,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 61,
+      "defense": 54,
+      "hp": 192,
+      "magic": 80,
+      "mental": 50,
+      "speed": 256
+    },
+    "is_alchemist": false,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980250,
+          "combat_power_coefficient": 2000,
+          "condition_ids": [12]
+        }
+      ],
+      "description": "味方全員は「読書」1人につき「スキルダメージ・ブレイクダメージ+24%」",
+      "name": "妹と歩んだ旅路"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "6932496336129827816",
+    "motion_type": 2,
+    "name": "ユリエ",
+    "neo_growboard_id": 325013,
+    "normal1_skill_ids": [11003861, 11003862, 11003863, 11003864, 11003865],
+    "normal2_skill_ids": [12003866, 12003867, 12003868, 12003869, 12003870],
+    "original_title_id": 16,
+    "overlay_name": "Jurie Crotze",
+    "personality": 2,
+    "profile_voice_text": "私、色んな伝承や伝説を調べてるの。\n何か知っていたら教えてくれない？",
+    "resistance": {
+      "fire": 0,
+      "ice": 5,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "result_timeline_hash": "8545196793737804491",
+    "role": 1,
+    "series_id": 7,
+    "sort_name": "ユリエ",
+    "start_at": "2026-06-12T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "3177552214467484393",
+        "large_still_path_hash": "6319332166309750246",
+        "narrow_still_path_hash": "1716082900115996957",
+        "rarity": null,
+        "still_path_hash": "8415011553540267009"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500745, 500744, 500743, 500742, 500741, 500740, 500739, 500738],
+    "support_color_id": 4,
+    "tag_ids": [15, 16, 18, 30],
+    "trait_color_id": 5,
+    "voice_actor_id": 94
+  },
+  {
     "ability_ids": [1990146, 1990147],
     "acquisition_movie_path_hash": "3004751215227607103",
     "acquisition_text": null,

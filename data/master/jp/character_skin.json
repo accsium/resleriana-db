@@ -698,5 +698,25 @@
       "still_path_hash": "5588667421325366917"
     },
     "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "967436979056958094",
+    "base_character_id": 322,
+    "character_id": null,
+    "description": "シャリステラの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99945,
+    "model_path_hash": "8814674670384979784",
+    "name": "リリークラシカル",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "1554595772044465303",
+      "large_still_path_hash": "1031866303825729385",
+      "narrow_still_path_hash": "3382587321113939462",
+      "rarity": null,
+      "still_path_hash": "2239883848991404562"
+    },
+    "still_set": null
   }
 ]

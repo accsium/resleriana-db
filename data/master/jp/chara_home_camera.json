@@ -16571,6 +16571,79 @@
     "timeline_path_hash": "6784379384389735981"
   },
   {
+    "character_id": 32501,
+    "character_skin_id": null,
+    "id": 1218,
+    "key_tasks": [],
+    "name": "立ち2",
+    "photo_background_id": null,
+    "priority": 10463,
+    "start_at": null,
+    "timeline_path_hash": "5187642666755126634"
+  },
+  {
+    "character_id": 32501,
+    "character_skin_id": null,
+    "id": 1219,
+    "key_tasks": [],
+    "name": "会話",
+    "photo_background_id": null,
+    "priority": 10464,
+    "start_at": null,
+    "timeline_path_hash": "305758301693134974"
+  },
+  {
+    "character_id": 32501,
+    "character_skin_id": null,
+    "id": 1220,
+    "key_tasks": [
+      {
+        "condition_id": 3066,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "腰に手を当てる",
+    "photo_background_id": null,
+    "priority": 10465,
+    "start_at": null,
+    "timeline_path_hash": "3158259307191393149"
+  },
+  {
+    "character_id": 32501,
+    "character_skin_id": null,
+    "id": 1221,
+    "key_tasks": [
+      {
+        "condition_id": 3102,
+        "count": 3,
+        "name": "★4.5で解放されます"
+      }
+    ],
+    "name": "驚き",
+    "photo_background_id": null,
+    "priority": 10466,
+    "start_at": null,
+    "timeline_path_hash": "5546252630437015861"
+  },
+  {
+    "character_id": 32501,
+    "character_skin_id": null,
+    "id": 1222,
+    "key_tasks": [
+      {
+        "condition_id": 3067,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "ユニークシーン",
+    "photo_background_id": null,
+    "priority": 10467,
+    "start_at": null,
+    "timeline_path_hash": "7074137877101988058"
+  },
+  {
     "character_id": null,
     "character_skin_id": 99942,
     "id": 1238,
@@ -16591,5 +16664,16 @@
     "priority": 1000009,
     "start_at": null,
     "timeline_path_hash": "2990553354722216748"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99945,
+    "id": 1240,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "photo_background_id": null,
+    "priority": 1000010,
+    "start_at": null,
+    "timeline_path_hash": "1280579302589017875"
   }
 ]

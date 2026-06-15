@@ -1645,5 +1645,14 @@
     "motion_type": 2,
     "personality": 2,
     "still_path_hash": "1034358740077913276"
+  },
+  {
+    "base_character_id": 325,
+    "id": 208,
+    "is_alchemist": false,
+    "model_path_hash": "6932496336129827816",
+    "motion_type": 2,
+    "personality": 2,
+    "still_path_hash": "8415011553540267009"
   }
 ]

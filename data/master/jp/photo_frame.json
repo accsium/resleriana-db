@@ -148,6 +148,22 @@
     "start_at": "2026-06-05T03:00:00.000Z"
   },
   {
+    "display_end_at": "2026-06-19T03:00:00.000Z",
+    "id": 15,
+    "image_path_hash": "8826908228259921746",
+    "key_quest_id": null,
+    "key_tasks": [
+      {
+        "condition_id": 3121,
+        "count": 1,
+        "name": "寄り添う姉妹の想い ユリエ LEGEND FESを70回引こう\n※有償限定も含む"
+      }
+    ],
+    "name": "フレーム15",
+    "priority": 15,
+    "start_at": "2026-06-12T03:00:00.000Z"
+  },
+  {
     "display_end_at": null,
     "id": 102,
     "image_path_hash": "3658769861163765301",

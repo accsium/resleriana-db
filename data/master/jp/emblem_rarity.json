@@ -5416,5 +5416,47 @@
     },
     "status_buffs": [],
     "value": 300
+  },
+  {
+    "emblem_id": 131,
+    "equipment_tool_buffs": [],
+    "id": 403,
+    "image_path_hash": "7905235583169068149",
+    "rarity": 1,
+    "requirement": {
+      "condition_id": 3099,
+      "count": 1,
+      "name": "ランターナ紀行　中編ボスチャレンジをスコアランクC以上でクリア"
+    },
+    "status_buffs": [],
+    "value": 100
+  },
+  {
+    "emblem_id": 131,
+    "equipment_tool_buffs": [],
+    "id": 404,
+    "image_path_hash": "8520088935028908905",
+    "rarity": 2,
+    "requirement": {
+      "condition_id": 3100,
+      "count": 1,
+      "name": "ランターナ紀行　中編ボスチャレンジをスコアランクA以上でクリア"
+    },
+    "status_buffs": [],
+    "value": 200
+  },
+  {
+    "emblem_id": 131,
+    "equipment_tool_buffs": [],
+    "id": 405,
+    "image_path_hash": "3030949893278942007",
+    "rarity": 3,
+    "requirement": {
+      "condition_id": 3101,
+      "count": 1,
+      "name": "ランターナ紀行　中編ボスチャレンジをスコアランクSS以上でクリア"
+    },
+    "status_buffs": [],
+    "value": 300
   }
 ]

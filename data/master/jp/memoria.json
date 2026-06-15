@@ -17820,6 +17820,75 @@
     "still_path_hash": "3969562458028332450"
   },
   {
+    "ability_ids": [4991358, 4991359, 4991360, 4991361, 4991362],
+    "attack_attributes": [6],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "この先には何があるのだろう。\n帆にいっぱいの風を受け、前へ、前へ。\n見果てぬ先を目指して、船は進む。\n彼女たちの、それぞれの想いを乗せて。",
+    "first_cut": 3,
+    "gacha_perform_bg_position": 5989,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 16,
+        "position_y": 619,
+        "width": 1000
+      },
+      {
+        "position_x": 73,
+        "position_y": 844,
+        "width": 950
+      }
+    ],
+    "id": 30235,
+    "illustrator_id": 6,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "8871305647348363121",
+    "memoria_small_still_cut_position": 2,
+    "name": "まだ見ぬ場所へ",
+    "narrow_still_path_hash": "3405985988651864635",
+    "rarity": 3,
+    "roles": [1],
+    "second_cut": 4,
+    "small_still_path_hash": "7542216913496619279",
+    "start_at": "2026-06-12T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31078,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31030,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31078,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31148,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31058,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31058,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "3215251660157930176"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {
