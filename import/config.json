@@ -20,11 +20,11 @@
 
     "masterdata_version": {
         "Global": "1741323824_uY1DKqqyFEzJn_zV",
-        "Japan": "1780982827_7WFoHx_XRf9RNCBA"
+        "Japan": "1782203701_LNT_VobVfi5FBBZw"
     },
     "fileassets_version": {
         "Global": "1740993541_58ca167d61c0",
-        "Japan": "1780983056_IFyZa_o_pXbSI1Ns"
+        "Japan": "1782204551_XeR_JcKFb2xp6iAo"
     },
 
     "manual_trigger": "Make any change and it will manually trigger the update-data-workflow.yml workflow. 10"
