@@ -17024,6 +17024,105 @@
     "voice_actor_id": 69
   },
   {
+    "ability_ids": [1990551, 1990552],
+    "acquisition_movie_path_hash": "3797609870165956293",
+    "acquisition_text": "一般人でも何者かになれるんだって、\nこの力で、証明してやる！！",
+    "active1_skill_id": 14003844,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【Beyond Dimension】",
+    "attack_attributes": [8],
+    "base_character_id": 452,
+    "battle_tool_trait_ids": [8, 44],
+    "board_ability1_ids": [1990442, 1990417, 1990392],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003823, 14003823, 14003823, 14003824, 14003825, 14003826, 14003827],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 945203,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "ノーヴァ神聖国の「星の案内人」にして、錬金術士。\n悩んだ末にたどり着いた新たな決意を胸に、仲間たちと協力して、新しい力を手に入れた。\n鎧のようでありドレスのようでもある装いは、英雄に憧れる彼女のこだわりを反映している。",
+    "equipment_tool_trait_ids": [105],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 452032,
+    "extra_skill_ids": [14003843],
+    "fullname": "アルビーナ・ジムロック",
+    "growboard_id": 452031,
+    "id": 45203,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 58,
+      "defense": 64,
+      "hp": 174,
+      "magic": 69,
+      "mental": 64,
+      "speed": 264
+    },
+    "is_alchemist": true,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980247,
+          "combat_power_coefficient": 3000,
+          "condition_ids": [11]
+        }
+      ],
+      "description": "得意属性が風属性のキャラは「先駆け」と「魔攻+35%」",
+      "name": "アルビちゃんの新境地"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "3986021654722714881",
+    "motion_type": 2,
+    "name": "アルビーナ",
+    "neo_growboard_id": 452033,
+    "normal1_skill_ids": [11003813, 11003814, 11003815, 11003816, 11003817],
+    "normal2_skill_ids": [12003818, 12003819, 12003820, 12003821, 12003822],
+    "original_title_id": 27,
+    "overlay_name": "Alvina Zimlock",
+    "personality": 3,
+    "profile_voice_text": "挫折から立ち直った、新生アルビちゃんの\n華麗なる錬金術、とくとご覧あれ！",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 5
+    },
+    "result_timeline_hash": "1603330868017960439",
+    "role": 4,
+    "series_id": 10,
+    "sort_name": "アルビーナ",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "3470590241383080562",
+        "large_still_path_hash": "3164032855733035408",
+        "narrow_still_path_hash": "4334545825174079210",
+        "rarity": null,
+        "still_path_hash": "4227931788932007159"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500753, 500752, 500751, 500750, 500749, 500748, 500747, 500746],
+    "support_color_id": 1,
+    "tag_ids": [34, 13, 24, 42],
+    "trait_color_id": 3,
+    "voice_actor_id": 69
+  },
+  {
     "ability_ids": [1990326, 1990327],
     "acquisition_movie_path_hash": "5506527894414005000",
     "acquisition_text": "あなたたちをこの手で守り抜く――\nそれが私に授けられた天命だから",
@@ -18995,6 +19094,105 @@
     "tag_ids": [7, 10, 18, 23],
     "trait_color_id": 1,
     "voice_actor_id": 92
+  },
+  {
+    "ability_ids": [1990559, 1990560],
+    "acquisition_movie_path_hash": "4593909441789600964",
+    "acquisition_text": "久方ぶりの世界は\n面白いものがたくさんじゃ！",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【九偉人 No.2】",
+    "attack_attributes": [5],
+    "base_character_id": 469,
+    "battle_tool_trait_ids": [6, 52],
+    "board_ability1_ids": [1990463, 1990438, 1990413],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003887, 14003887, 14003887, 14003888, 14003889, 14003890, 14003891],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 946901,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "パルメ族により創られたホムンクルスで、「九偉人」の２番目。\n誰の言うことも聞かない危険な存在のため、ヘルトと共に長い間眠らされていた。\n自分が最強と信じており、誰にも超えられない「ゼロ」と名乗る。\nゴゥやリーベ、ヤドヴィガは言うことをよく聞くため、かわいがっている。",
+    "equipment_tool_trait_ids": [108],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 469012,
+    "extra_skill_ids": [],
+    "fullname": "ゼロ",
+    "growboard_id": 469011,
+    "id": 46901,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 60,
+      "defense": 51,
+      "hp": 190,
+      "magic": 82,
+      "mental": 51,
+      "speed": 252
+    },
+    "is_alchemist": false,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980251,
+          "combat_power_coefficient": 4000,
+          "condition_ids": [63]
+        }
+      ],
+      "description": "「九偉人」は「物攻・魔攻・物防・魔防+35%」",
+      "name": "自称「九偉人最強」"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "6684953388752804572",
+    "motion_type": 2,
+    "name": "ゼロ",
+    "neo_growboard_id": 469013,
+    "normal1_skill_ids": [11003877, 11003878, 11003879, 11003880, 11003881],
+    "normal2_skill_ids": [12003882, 12003883, 12003884, 12003885, 12003886],
+    "original_title_id": 27,
+    "overlay_name": "Zero",
+    "personality": 3,
+    "profile_voice_text": "我こそはゼロ。強さにおいて超えるものが\nない頂点に立つという意味の名じゃ！",
+    "resistance": {
+      "fire": 5,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "result_timeline_hash": "9181863894392505399",
+    "role": 1,
+    "series_id": 10,
+    "sort_name": "ゼロ",
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "9021448083821429181",
+        "large_still_path_hash": "3474812973735450240",
+        "narrow_still_path_hash": "9021367767142650329",
+        "rarity": null,
+        "still_path_hash": "3236890542622906589"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500598, 500592, 500586, 500580, 500574, 500568, 500562, 500556],
+    "support_color_id": 3,
+    "tag_ids": [37, 38, 22],
+    "trait_color_id": 5,
+    "voice_actor_id": 95
   },
   {
     "ability_ids": [1990334, 1990335],

@@ -18255,6 +18255,34 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がアルビーナ【Beyond Dimension】の時、アタッカーへ与える強化効果量+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001296,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 301353,
+    "name": "ディメンションゲート"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がゼロ【九偉人 No.2】の時、WAVE開始時、自身に「魔攻+{0}％」を2回行動終了するまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001305,
+        "limit_count": null,
+        "value": 8000
+      }
+    ],
+    "id": 301359,
+    "name": "暴威ヲ鎖ス零ノ戦鎚"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29327,6 +29355,118 @@
   },
   {
     "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 2875
+      }
+    ],
+    "id": 500746,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 500747,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 2125
+      }
+    ],
+    "id": 500748,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 1750
+      }
+    ],
+    "id": 500749,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 1625
+      }
+    ],
+    "id": 500750,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 500751,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 1375
+      }
+    ],
+    "id": 500752,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「不屈の心意気」の時、魔攻+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000110,
+        "limit_count": null,
+        "value": 1250
+      }
+    ],
+    "id": 500753,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "魔攻・魔防+{0}%",
     "effects": [
       {
@@ -33327,6 +33467,26 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が風属性のキャラは「先駆け」と「魔攻+35%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500003,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500099,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1980247,
+    "name": "アルビちゃんの新境地"
+  },
+  {
+    "ability_category_type": null,
     "description": "「読書」は「物攻・魔攻・物防・魔防+35%」",
     "effects": [
       {
@@ -33376,6 +33536,38 @@
     ],
     "id": 1980250,
     "name": "妹と歩んだ旅路"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「九偉人」は「物攻・魔攻・物防・魔防+35%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500002,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500003,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500004,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500005,
+        "limit_count": null,
+        "value": 3500
+      }
+    ],
+    "id": 1980251,
+    "name": "自称「九偉人最強」"
   },
   {
     "ability_category_type": null,
@@ -43407,6 +43599,88 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>スキル発動後、自身のバーストゲージを{0}%増加し、味方全員のHPを{1}%回復<br>パーティの誰かがクリティカル攻撃後、自身のバーストゲージを{2}%増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001474,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001131,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      }
+    ],
+    "id": 1990551,
+    "name": "この力で証明してみせる！"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「アルケミカルゾーン」、「ヒロイックリブート」、「アセンダンス」発動後、味方全員に「クリティカルダメージ+{0}%」(上限200%)と「クリティカル確率+{1}%」(上限250%)を付与<br><br>バトル開始時、「約束と協力」タグを持つキャラ数に応じ、味方全員に以下の追加効果を付与(1～2人で多いほど増加)<br>追加効果：「自身のクリティカル確率が100%を超えている場合、攻撃時、100%を超えたクリティカル確率の上昇量をクリティカルダメージアップに変換(変換上限100～200%)」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001721,
+        "limit_count": null,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001722,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001727,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001728,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001723,
+        "limit_count": null,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001724,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 1990552,
+    "name": "勝利へご案内！"
+  },
+  {
+    "ability_category_type": null,
     "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可<br><br>得意属性が氷属性の味方全員のバーストスキルをゲージ化<br>※バーストゲージは2周分ストック可能<br><br>パーティの誰かがクリティカル攻撃後、自身のバーストゲージを{0}％増加し、得意属性が氷属性の味方全員のバーストゲージを{1}％増加",
     "effects": [
       {
@@ -43532,6 +43806,70 @@
     ],
     "id": 1990558,
     "name": "期待に応えてみせるわ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>パネル獲得時、自身のバーストゲージを{0}％増加し、自身に「クリティカルダメージ+{1}％」を1回行動終了するまで付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001474,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001754,
+        "limit_count": null,
+        "value": 6000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001511,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990559,
+    "name": "九偉人の力-Ⅱ-"
+  },
+  {
+    "ability_category_type": null,
+    "description": "攻撃対象がブレイク状態の時、クリティカル確率+{0}%<br>スキル発動前に状態異常が付与されている対象を攻撃時、スキルダメージ+{1}%<br><br>パーティに自身以外の「九偉人」がいる時、基礎魔攻+{2}<br><br>「冥き追憶」タグを持つキャラ数に応じ、スキル威力+20～{3}%(1～5人で多いほど増加)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001755,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001757,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001758,
+        "limit_count": null,
+        "value": 25000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001642,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 1990560,
+    "name": "撃滅する冥暗"
   },
   {
     "ability_category_type": null,
@@ -65045,6 +65383,76 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がサポーターの時、バトル開始時、自身のバーストゲージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000389,
+        "limit_count": null,
+        "value": 2000
+      }
+    ],
+    "id": 4991348,
+    "name": "想力「背中合わせのぬくもり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がサポーターの時、バトル開始時、自身のバーストゲージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000389,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 4991349,
+    "name": "想力「背中合わせのぬくもり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がサポーターの時、バトル開始時、自身のバーストゲージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000389,
+        "limit_count": null,
+        "value": 6000
+      }
+    ],
+    "id": 4991350,
+    "name": "想力「背中合わせのぬくもり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がサポーターの時、バトル開始時、自身のバーストゲージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000389,
+        "limit_count": null,
+        "value": 8000
+      }
+    ],
+    "id": 4991351,
+    "name": "想力「背中合わせのぬくもり」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がサポーターの時、バトル開始時、自身のバーストゲージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000389,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 4991352,
+    "name": "想力「背中合わせのぬくもり」"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が氷属性かつサポーターの時、味方全員のクリティカルダメージ+{0}%<br>「マイペース」の時、味方全員の物防・魔防+{1}%",
     "effects": [
       {
@@ -65272,6 +65680,246 @@
     ],
     "id": 4991362,
     "name": "想力「まだ見ぬ場所へ」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターの時、与える強化効果量+{0}%<br>「商人」の時、与えるHP回復量+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000395,
+        "limit_count": null,
+        "value": 600
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000396,
+        "limit_count": null,
+        "value": 400
+      }
+    ],
+    "id": 4991363,
+    "name": "想力「決意の翼」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターの時、与える強化効果量+{0}%<br>「商人」の時、与えるHP回復量+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000395,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000396,
+        "limit_count": null,
+        "value": 1300
+      }
+    ],
+    "id": 4991364,
+    "name": "想力「決意の翼」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターの時、与える強化効果量+{0}%<br>「商人」の時、与えるHP回復量+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000395,
+        "limit_count": null,
+        "value": 3300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000396,
+        "limit_count": null,
+        "value": 2200
+      }
+    ],
+    "id": 4991365,
+    "name": "想力「決意の翼」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターの時、与える強化効果量+{0}%<br>「商人」の時、与えるHP回復量+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000395,
+        "limit_count": null,
+        "value": 4700
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000396,
+        "limit_count": null,
+        "value": 3100
+      }
+    ],
+    "id": 4991366,
+    "name": "想力「決意の翼」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつサポーターの時、与える強化効果量+{0}%<br>「商人」の時、与えるHP回復量+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000395,
+        "limit_count": null,
+        "value": 6000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000396,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 4991367,
+    "name": "想力「決意の翼」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動する戦闘アイテムダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000397,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 4991368,
+    "name": "想力「真実を求めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動する戦闘アイテムダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000397,
+        "limit_count": null,
+        "value": 8100
+      }
+    ],
+    "id": 4991369,
+    "name": "想力「真実を求めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動する戦闘アイテムダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000397,
+        "limit_count": null,
+        "value": 13800
+      }
+    ],
+    "id": 4991370,
+    "name": "想力「真実を求めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動する戦闘アイテムダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000397,
+        "limit_count": null,
+        "value": 19400
+      }
+    ],
+    "id": 4991371,
+    "name": "想力「真実を求めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動する戦闘アイテムダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000397,
+        "limit_count": null,
+        "value": 25000
+      }
+    ],
+    "id": 4991372,
+    "name": "想力「真実を求めて」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動するアトリエ砲ダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000398,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991373,
+    "name": "想力「アルビちゃんキーック！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動するアトリエ砲ダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000398,
+        "limit_count": null,
+        "value": 16300
+      }
+    ],
+    "id": 4991374,
+    "name": "想力「アルビちゃんキーック！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動するアトリエ砲ダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000398,
+        "limit_count": null,
+        "value": 27500
+      }
+    ],
+    "id": 4991375,
+    "name": "想力「アルビちゃんキーック！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動するアトリエ砲ダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000398,
+        "limit_count": null,
+        "value": 38800
+      }
+    ],
+    "id": 4991376,
+    "name": "想力「アルビちゃんキーック！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身がアタッカーの時、自身の手番で発動するアトリエ砲ダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000398,
+        "limit_count": null,
+        "value": 50000
+      }
+    ],
+    "id": 4991377,
+    "name": "想力「アルビちゃんキーック！」"
   },
   {
     "ability_category_type": null,
@@ -86429,6 +87077,32 @@
       }
     ],
     "id": 26105002,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "単体攻撃から受けるブレイクダメージ+{0}%\nブレイク状態でない時、受けるダメージ-{1}%\nブレイク状態の時、受けるクリティカルダメージ+{2}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86105006,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86105001,
+        "limit_count": null,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86105007,
+        "limit_count": null,
+        "value": 3000
+      }
+    ],
+    "id": 26105003,
     "name": ""
   },
   {
@@ -115654,6 +116328,20 @@
     ],
     "id": 600000824,
     "name": "ユリエ【トレジャーハンター】またはミルカ【錬成アルケミスト】を編成時、被ダメージDOWN"
+  },
+  {
+    "ability_category_type": null,
+    "description": "ユリエ【トレジャーハンター】のスキル威力+200%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 120000921,
+        "limit_count": null,
+        "value": 20000
+      }
+    ],
+    "id": 600000825,
+    "name": "ユリエ【トレジャーハンター】のスキル威力UP"
   },
   {
     "ability_category_type": null,

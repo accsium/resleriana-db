@@ -18926,6 +18926,351 @@
     "medal_quantity": 5
   },
   {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24012,
+    "gacha_rate_set_name": "【STEP1】冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "id": 898,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24013,
+    "gacha_rate_set_name": "【STEP2】冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "id": 899,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24014,
+    "gacha_rate_set_name": "【STEP3】冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "id": 900,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24015,
+    "gacha_rate_set_name": "【STEP4】冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "id": 901,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24016,
+    "gacha_rate_set_name": "【STEP5】冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "id": 902,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 30632,
+    "gacha_rate_set_name": "【STEP1】背中合わせのぬくもり LEGEND FES[有償限定]",
+    "id": 903,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 30633,
+    "gacha_rate_set_name": "【STEP2】背中合わせのぬくもり LEGEND FES[有償限定]",
+    "id": 904,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 30634,
+    "gacha_rate_set_name": "【STEP3】背中合わせのぬくもり LEGEND FES[有償限定]",
+    "id": 905,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [
+      {
+        "character_ids": [],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": null,
+    "description": "PU確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 30635,
+    "gacha_rate_set_name": "【STEP4】背中合わせのぬくもり LEGEND FES[有償限定]",
+    "id": 906,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24072,
+    "gacha_rate_set_name": "【STEP1】目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "id": 907,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24073,
+    "gacha_rate_set_name": "【STEP2】目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "id": 908,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24074,
+    "gacha_rate_set_name": "【STEP3】目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "id": 909,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24075,
+    "gacha_rate_set_name": "【STEP4】目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "id": 910,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24076,
+    "gacha_rate_set_name": "【STEP5】目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "id": 911,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
     "additional_medal": 0,
     "additional_pieces": [],
     "cost": {
@@ -20251,6 +20596,139 @@
     "gacha_rate_set_id": 31000097,
     "gacha_rate_set_name": "【STEP7】シャリステラ リリークラシカル 衣装調合",
     "id": 10105,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000101,
+    "gacha_rate_set_name": "【STEP1】アルビーナ 渚の案内人 衣装調合",
+    "id": 10106,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000102,
+    "gacha_rate_set_name": "【STEP2】アルビーナ 渚の案内人 衣装調合",
+    "id": 10107,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000103,
+    "gacha_rate_set_name": "【STEP3】アルビーナ 渚の案内人 衣装調合",
+    "id": 10108,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000104,
+    "gacha_rate_set_name": "【STEP4】アルビーナ 渚の案内人 衣装調合",
+    "id": 10109,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000105,
+    "gacha_rate_set_name": "【STEP5】アルビーナ 渚の案内人 衣装調合",
+    "id": 10110,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000106,
+    "gacha_rate_set_name": "【STEP6】アルビーナ 渚の案内人 衣装調合",
+    "id": 10111,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1439,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000107,
+    "gacha_rate_set_name": "【STEP7】アルビーナ 渚の案内人 衣装調合",
+    "id": 10112,
     "is_always_display": true,
     "is_wish_list": false,
     "medal_quantity": 0

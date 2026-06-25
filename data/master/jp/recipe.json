@@ -158357,6 +158357,366 @@
     "tracking_id": "af_synthesis_recipe_864"
   },
   {
+    "character_id": 46901,
+    "costs": [
+      {
+        "id": 46901,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 1428,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 865,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "暴威ヲ鎖ス零ノ戦鎚",
+    "priority": 82,
+    "recipe_plan_id": 82,
+    "requirements": [
+      {
+        "condition_id": 3120,
+        "count": 4,
+        "name": "ゼロ【九偉人 No.2】を★5に覚醒しよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1271,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "support_character_ids": [185, 211, 186],
+    "support_color_ids": [5, 3, 2],
+    "tracking_id": "af_synthesis_recipe_865"
+  },
+  {
+    "character_id": 45203,
+    "costs": [
+      {
+        "id": 45203,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 1441,
+        "quantity": 16,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 866,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "ディメンションゲート",
+    "priority": 84,
+    "recipe_plan_id": 82,
+    "requirements": [
+      {
+        "condition_id": 3128,
+        "count": 4,
+        "name": "アルビーナ【Beyond Dimension】を★5に覚醒しよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1272,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "support_character_ids": [113, 195, 129],
+    "support_color_ids": [5, 1, 3],
+    "tracking_id": "af_synthesis_recipe_866"
+  },
+  {
     "character_id": null,
     "costs": [
       {

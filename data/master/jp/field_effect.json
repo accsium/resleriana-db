@@ -349,5 +349,14 @@
     "turn": null,
     "turn_type": 1,
     "vfx_path_hash": "3544120239894651858"
+  },
+  {
+    "attack_attribute": 8,
+    "description": "味方：バーストスキルダメージ200%UP、受けるバーストゲージ増加量50%UP",
+    "id": 57,
+    "popup_text": "バーストダメージ/バーストゲージ増加量UP",
+    "turn": 10,
+    "turn_type": 1,
+    "vfx_path_hash": "9022399762943701700"
   }
 ]

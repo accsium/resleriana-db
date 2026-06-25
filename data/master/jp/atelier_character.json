@@ -7642,5 +7642,83 @@
         "text": "毎日新しい発見がある。\nしっかりと日誌に書き留めておかないと"
       }
     ]
+  },
+  {
+    "character_id": 45203,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 199,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "教えられたレシピ、全部制覇したいな～。\nまずは素材集めからかな？"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "あ～、色んな外の世界を見てみたいな～。\n船に乗って旅に出る……夢が広がる……！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "この服いいっしょ？　全力を出すために用意\nしたんだけど、かわいさも忘れてないの！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "一度は心が折れたけど、色々あって覚悟\n決まった。できることは全部やるっすわ！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "はー。こうしてアトリエにいると、やっぱ\nアタシ錬金術士なんだなって感じるんだよね"
+      }
+    ]
+  },
+  {
+    "character_id": 46901,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 201,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "ここは退屈じゃ……すぴー……"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "外の崖にでも行って、鍛錬してくるかのう"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "ふふん。我が名は、誰も超えられぬという\n意味を込めてのこと……すなわち最強じゃ！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "兄者はそれはもう頭が良い！　兄者の知恵と\n我の力が加われば、とてもとてもすごい！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "弟妹たちはアウグストらの指示に縛られ、\nまぁ窮屈そうじゃなあ。もっと自由でよい"
+      }
+    ]
   }
 ]

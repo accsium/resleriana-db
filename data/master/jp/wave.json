@@ -14600,6 +14600,82 @@
     "stage_id": 910420110
   },
   {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 10015006,
+        "level": 82
+      },
+      {
+        "id": 10169015,
+        "level": 82
+      },
+      {
+        "id": 10005016,
+        "level": 82
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012471,
+    "stage_id": 93497901
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 10042000,
+        "level": 82
+      },
+      {
+        "id": 10020002,
+        "level": 82
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012521,
+    "stage_id": 93497901
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 10042001,
+        "level": 92
+      },
+      {
+        "id": 10020003,
+        "level": 92
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012541,
+    "stage_id": 93497901
+  },
+  {
+    "bgm_path_hash": "9168469247524395181",
+    "enemies": [
+      {
+        "id": 10012013,
+        "level": 82
+      },
+      {
+        "id": 10012014,
+        "level": 82
+      },
+      {
+        "id": 10165017,
+        "level": 82
+      },
+      {
+        "id": 10165017,
+        "level": 82
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012581,
+    "stage_id": 93497901
+  },
+  {
     "bgm_path_hash": "1800213624259455402",
     "enemies": [
       {
@@ -47614,6 +47690,146 @@
     "field_effect_id": null,
     "id": 160014301,
     "stage_id": 95320110
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60183031,
+        "level": 13
+      },
+      {
+        "id": 60019036,
+        "level": 13
+      },
+      {
+        "id": 60018014,
+        "level": 13
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014311,
+    "stage_id": 99610110
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60026057,
+        "level": 20
+      },
+      {
+        "id": 60025013,
+        "level": 20
+      },
+      {
+        "id": 60089010,
+        "level": 20
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014321,
+    "stage_id": 99610110
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60021013,
+        "level": 40
+      },
+      {
+        "id": 60190019,
+        "level": 40
+      },
+      {
+        "id": 60190019,
+        "level": 40
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014331,
+    "stage_id": 99610110
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60010017,
+        "level": 60
+      },
+      {
+        "id": 60066040,
+        "level": 60
+      },
+      {
+        "id": 60066040,
+        "level": 60
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014341,
+    "stage_id": 99610110
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60105011,
+        "level": 80
+      },
+      {
+        "id": 60090110,
+        "level": 80
+      },
+      {
+        "id": 60026059,
+        "level": 80
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014351,
+    "stage_id": 99620120
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60105009,
+        "level": 80
+      },
+      {
+        "id": 60090109,
+        "level": 80
+      },
+      {
+        "id": 60026058,
+        "level": 80
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014361,
+    "stage_id": 99620120
+  },
+  {
+    "bgm_path_hash": "5099301789649922305",
+    "enemies": [
+      {
+        "id": 60105010,
+        "level": 90
+      },
+      {
+        "id": 60110034,
+        "level": 90
+      },
+      {
+        "id": 60018015,
+        "level": 90
+      }
+    ],
+    "field_effect_id": null,
+    "id": 160014371,
+    "stage_id": 99620120
   },
   {
     "bgm_path_hash": "1915067688521612763",

@@ -164,6 +164,38 @@
     "start_at": "2026-06-12T03:00:00.000Z"
   },
   {
+    "display_end_at": "2026-06-30T03:00:00.000Z",
+    "id": 16,
+    "image_path_hash": "2761283971708067596",
+    "key_quest_id": null,
+    "key_tasks": [
+      {
+        "condition_id": 3122,
+        "count": 1,
+        "name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FESを70回引こう\n※有償限定も含む"
+      }
+    ],
+    "name": "フレーム16",
+    "priority": 16,
+    "start_at": "2026-06-23T03:00:00.000Z"
+  },
+  {
+    "display_end_at": "2026-07-03T03:00:00.000Z",
+    "id": 17,
+    "image_path_hash": "4456992960920158226",
+    "key_quest_id": null,
+    "key_tasks": [
+      {
+        "condition_id": 3123,
+        "count": 1,
+        "name": "目覚めの時 亜空の案内人アルビーナ LEGEND FESを70回引こう\n※有償限定も含む"
+      }
+    ],
+    "name": "フレーム17",
+    "priority": 17,
+    "start_at": "2026-06-26T03:00:00.000Z"
+  },
+  {
     "display_end_at": null,
     "id": 102,
     "image_path_hash": "3658769861163765301",

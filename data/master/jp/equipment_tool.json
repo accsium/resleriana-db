@@ -50640,5 +50640,79 @@
       }
     ],
     "still_path_hash": "7161989351632267632"
+  },
+  {
+    "ability_ids": [301359],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 100,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "attack_attributes": [5],
+    "description": "自身がゼロ【九偉人 No.2】の時、WAVE開始時、自身に「魔攻+{0}％」を2回行動終了するまで付与",
+    "easy_synthesis_trait_lottery_id": 11,
+    "id": 1271,
+    "large_still_path_hash": "1762713103891651315",
+    "name": "暴威ヲ鎖ス零ノ戦鎚",
+    "quality_group_id": 7,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 100,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [1],
+    "slot_type": 1,
+    "small_still_path_hash": "6781491488421570986",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 150
+      }
+    ],
+    "still_path_hash": "8626861861427211336"
+  },
+  {
+    "ability_ids": [301353],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 100
+    },
+    "attack_attributes": [8],
+    "description": "自身がアルビーナ【Beyond Dimension】の時、アタッカーへ与える強化効果量+{0}%",
+    "easy_synthesis_trait_lottery_id": 9,
+    "id": 1272,
+    "large_still_path_hash": "8348972738815605780",
+    "name": "ディメンションゲート",
+    "quality_group_id": 39,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 0,
+      "defender": 0,
+      "supporter": 100
+    },
+    "roles": [4],
+    "slot_type": 1,
+    "small_still_path_hash": "2588988697416887265",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 150
+      }
+    ],
+    "still_path_hash": "741290958808739343"
   }
 ]

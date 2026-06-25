@@ -17889,6 +17889,282 @@
     "still_path_hash": "3215251660157930176"
   },
   {
+    "ability_ids": [4991348, 4991349, 4991350, 4991351, 4991352],
+    "attack_attributes": [],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "偶然か、運命か、出会った二人のシャリー。\n時にはぶつかったりもしたけれど、\n今では心の通った大切な友達。\nこれからも息を合わせて進んでいこう。\nこのぬくもりがあれば、きっと大丈夫。",
+    "first_cut": 4,
+    "gacha_perform_bg_position": 6068,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 4,
+        "position_y": 459,
+        "width": 900
+      },
+      {
+        "position_x": 16,
+        "position_y": 934,
+        "width": 1000
+      }
+    ],
+    "id": 30236,
+    "illustrator_id": 6,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "7552542618924727794",
+    "memoria_small_still_cut_position": 1,
+    "name": "背中合わせのぬくもり",
+    "narrow_still_path_hash": "8981302930808845837",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 3,
+    "small_still_path_hash": "5351502363231378915",
+    "start_at": "2026-06-19T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31048,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31060,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "8121020618460556002"
+  },
+  {
+    "ability_ids": [4991363, 4991364, 4991365, 4991366, 4991367],
+    "attack_attributes": [8],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "恐怖の前に、一度は挫折したアルビーナ。\n立ち止まり、悩み、迷い――\nそして、新たな覚悟を胸に今、新生する。\n「アタシのこの力で、証明してみせる」\n臆病の殻を打ち破る、決意の翼。\nこの翼で、未来へ羽ばたく。",
+    "first_cut": 3,
+    "gacha_perform_bg_position": 7307,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 7,
+        "position_y": 670,
+        "width": 1000
+      },
+      {
+        "position_x": 21,
+        "position_y": 979,
+        "width": 1000
+      }
+    ],
+    "id": 30237,
+    "illustrator_id": 65,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "5993639708278982242",
+    "memoria_small_still_cut_position": 1,
+    "name": "決意の翼",
+    "narrow_still_path_hash": "835197075788894740",
+    "rarity": 3,
+    "roles": [4],
+    "second_cut": 1,
+    "small_still_path_hash": "7318387884608386191",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31088,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "4781018571013927929"
+  },
+  {
+    "ability_ids": [4991368, 4991369, 4991370, 4991371, 4991372],
+    "attack_attributes": [],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "「一気に仕留める！」\n鋭い眼差しで敵を見据え、銃撃するユミア。\n普段は温厚な彼女だが、戦闘では、真剣な表情と華麗な身のこなしで敵を倒していく。\n「――ぶっ飛べ！！」\n世界の真実を探るため、彼女は止まらない。",
+    "first_cut": 3,
+    "gacha_perform_bg_position": 7307,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 220,
+        "position_y": 578,
+        "width": 800
+      },
+      {
+        "position_x": 21,
+        "position_y": 981,
+        "width": 1000
+      }
+    ],
+    "id": 30238,
+    "illustrator_id": 94,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "3054849914733683683",
+    "memoria_small_still_cut_position": 1,
+    "name": "真実を求めて",
+    "narrow_still_path_hash": "8847853340373256065",
+    "rarity": 3,
+    "roles": [1],
+    "second_cut": 1,
+    "small_still_path_hash": "3692077323768167469",
+    "start_at": "2026-07-01T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31058,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31050,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31108,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "281032129510503334"
+  },
+  {
+    "ability_ids": [4991373, 4991374, 4991375, 4991376, 4991377],
+    "attack_attributes": [],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "「アルビちゃん、いっきまーす！」\n武器の杖を手に、高く飛び上がるアルビーナ。勢いそのままに、身体ごと敵へ突っ込んでいく。\n「ふふん、どーよ！」\n錬金術士アルビーナ、ここにあり――自信いっぱいに浮かべた笑みは、そう叫ばんばかりだった。",
+    "first_cut": 2,
+    "gacha_perform_bg_position": 7026,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 122,
+        "position_y": 595,
+        "width": 900
+      },
+      {
+        "position_x": 21,
+        "position_y": 1065,
+        "width": 1000
+      }
+    ],
+    "id": 30239,
+    "illustrator_id": 78,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "8292535486581355807",
+    "memoria_small_still_cut_position": 1,
+    "name": "アルビちゃんキーック！",
+    "narrow_still_path_hash": "8151127934652961829",
+    "rarity": 3,
+    "roles": [1],
+    "second_cut": 3,
+    "small_still_path_hash": "6056764430957564185",
+    "start_at": "2026-07-01T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31038,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31070,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31118,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31118,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31058,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31058,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "1760357029316291768"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

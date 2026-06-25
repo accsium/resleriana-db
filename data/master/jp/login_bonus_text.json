@@ -5130,6 +5130,36 @@
     "text": "見てみて！　すっごいよ！\nなんかいいのもらえちゃった！"
   },
   {
+    "character_id": 45203,
+    "id": 45203001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "今日も１日頑張れちゃうね！"
+  },
+  {
+    "character_id": 45203,
+    "id": 45203002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "おお～、明日は\nどんなのがもらえるかな～？"
+  },
+  {
+    "character_id": 45203,
+    "id": 45203003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "見てみて！　すっごいよ！\nなんかいいのもらえちゃった！"
+  },
+  {
     "character_id": 45301,
     "id": 45301001,
     "is_regular": true,
@@ -5698,6 +5728,36 @@
     "navigation_character_id": null,
     "system_voice_type": 10,
     "text": "特別な贈り物ですか。\n大切に使わせていただきましょう"
+  },
+  {
+    "character_id": 46901,
+    "id": 46901001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "何かもらったぞ！　確認するがよい！"
+  },
+  {
+    "character_id": 46901,
+    "id": 46901002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "どうじゃ！　\nありがたく受け取るのじゃあ！"
+  },
+  {
+    "character_id": 46901,
+    "id": 46901003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "858102450759793374",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "今だけの珍しい贈りものらしいのう！"
   },
   {
     "character_id": 50101,

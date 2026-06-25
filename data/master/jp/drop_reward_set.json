@@ -109636,6 +109636,641 @@
     ]
   },
   {
+    "id": 120770,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120771,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 7,
+            "min_quantity": 7,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120772,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 7,
+            "min_quantity": 7,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 8,
+            "min_quantity": 8,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120773,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 8,
+            "min_quantity": 8,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 9,
+            "min_quantity": 9,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120774,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120775,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 5,
+            "min_quantity": 5,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120776,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 6,
+            "min_quantity": 6,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 7,
+            "min_quantity": 7,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120777,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 7,
+            "min_quantity": 7,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 8,
+            "min_quantity": 8,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120778,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 8,
+            "min_quantity": 8,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 9,
+            "min_quantity": 9,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120779,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 1,
+            "min_quantity": 1,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120780,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 16,
+            "min_quantity": 16,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 12,
+            "min_quantity": 12,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120781,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 17,
+            "min_quantity": 17,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 14,
+            "min_quantity": 14,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120782,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 18,
+            "min_quantity": 18,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 16,
+            "min_quantity": 16,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120783,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 19,
+            "min_quantity": 19,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 18,
+            "min_quantity": 18,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 120784,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 20,
+            "min_quantity": 20,
+            "resource_key": {
+              "id": 1427,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 20,
+            "min_quantity": 20,
+            "resource_key": {
+              "id": 1428,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 2,
+            "min_quantity": 2,
+            "resource_key": {
+              "id": 1429,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 125001,
     "rewards": [
       {

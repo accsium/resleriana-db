@@ -21695,6 +21695,334 @@
   {
     "additional_pieces": [
       {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": "5286099988850026665",
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "ゼロが新登場＆PickUP！\n2026/07/14 11:59まで開催\n※本ガチャで新登場するキャラは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-07-14T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 1,
+            "id": 10001,
+            "ticket_description": null
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 2,
+            "id": 10002,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 23991,
+    "gacha_rate_set_name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2399,
+    "image_path_hash": "6824431212818414291",
+    "is_disp_home_banner": true,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES",
+    "picked_up_memoria_ids": [30213],
+    "priority": 565,
+    "shop_id": 5,
+    "small_banner_label": null,
+    "small_banner_path_hash": "1134669370483697273",
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": 1430,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "有償星導石で1日1回限定！PU確率が2倍！\n2026/07/07 11:59まで開催\n※本ガチャで新登場するキャラは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-07-07T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "PU確率2倍!\n残り1回!",
+            "gacha_button_type": 3,
+            "id": 24001,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 24001,
+    "gacha_rate_set_name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[1日1回限定・有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2400,
+    "image_path_hash": "6824431212818414291",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[1日1回限定・有償限定]",
+    "picked_up_memoria_ids": [30213],
+    "priority": 566,
+    "shop_id": 5,
+    "small_banner_label": "1日1回限定！",
+    "small_banner_path_hash": "1134669370483697273",
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "有償星導石でガチャを50回引くと追加のガチャが出現！\n2026/07/14 11:59まで開催\n※本ガチャで新登場するキャラは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-07-14T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 1,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [898, 899, 900, 901, 902],
+    "gacha_type": 2,
+    "id": 2401,
+    "image_path_hash": "6824431212818414291",
+    "is_disp_home_banner": false,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 567,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "1134669370483697273",
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": "6687121715847552662",
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "アルビーナが新登場＆PickUP！\n2026/07/13 11:59まで開催",
+    "end_at": "2026-07-13T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 1,
+            "id": 10001,
+            "ticket_description": null
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 2,
+            "id": 10002,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 24051,
+    "gacha_rate_set_name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2405,
+    "image_path_hash": "8931810517930580589",
+    "is_disp_home_banner": true,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES",
+    "picked_up_memoria_ids": [30237],
+    "priority": 570,
+    "shop_id": 5,
+    "small_banner_label": null,
+    "small_banner_path_hash": "1786474623532812220",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": 1438,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "有償星導石で1日1回限定！PU確率が2倍！\n2026/07/10 11:59まで開催",
+    "end_at": "2026-07-10T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "PU確率2倍!\n残り1回!",
+            "gacha_button_type": 3,
+            "id": 24061,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 24061,
+    "gacha_rate_set_name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES[1日1回限定・有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2406,
+    "image_path_hash": "8931810517930580589",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES[1日1回限定・有償限定]",
+    "picked_up_memoria_ids": [30237],
+    "priority": 571,
+    "shop_id": 5,
+    "small_banner_label": "1日1回限定！",
+    "small_banner_path_hash": "1786474623532812220",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "有償星導石でガチャを50回引くと追加のガチャが出現！\n2026/07/13 11:59まで開催",
+    "end_at": "2026-07-13T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 1,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [907, 908, 909, 910, 911],
+    "gacha_type": 2,
+    "id": 2407,
+    "image_path_hash": "8931810517930580589",
+    "is_disp_home_banner": false,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 572,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "1786474623532812220",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
         "character_ids": [50101, 50301, 50401, 50501, 50601],
         "generic_piece_count": 50,
         "piece_count": 200
@@ -24798,6 +25126,107 @@
     "small_banner_label": "PU確定！",
     "small_banner_path_hash": "6171379457182135940",
     "start_at": "2026-04-29T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 5,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": "1020181190679065342",
+    "bgm_path_hash": "7008403899368248475",
+    "bonuses_per_draw": [],
+    "description": "「背中合わせのぬくもり」が新登場＆PickUP！\n2026/06/29 11:59まで開催",
+    "end_at": "2026-06-29T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 1,
+            "id": 10001,
+            "ticket_description": null
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 2,
+            "id": 10002,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 30621,
+    "gacha_rate_set_name": "背中合わせのぬくもり LEGEND FES",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 3062,
+    "image_path_hash": "5092097402036504563",
+    "is_disp_home_banner": true,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "背中合わせのぬくもり LEGEND FES",
+    "picked_up_memoria_ids": [30236],
+    "priority": 563,
+    "shop_id": 5,
+    "small_banner_label": null,
+    "small_banner_path_hash": "1614982299264636029",
+    "start_at": "2026-06-19T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": 1431,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "7008403899368248475",
+    "bonuses_per_draw": [],
+    "description": "5周限り！有償星導石でガチャを30回引くと1回無料！\nSTEP4はピックアップメモリアが1枚確定！\n2026/06/29 11:59まで開催",
+    "end_at": "2026-06-29T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 1,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [903, 904, 905, 906],
+    "gacha_type": 2,
+    "id": 3063,
+    "image_path_hash": "5092097402036504563",
+    "is_disp_home_banner": false,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "背中合わせのぬくもり LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 564,
+    "shop_id": 5,
+    "small_banner_label": "PU確定！",
+    "small_banner_path_hash": "1614982299264636029",
+    "start_at": "2026-06-19T03:00:00.000Z",
     "start_dash_hours": null,
     "step_up_display_type": 1,
     "step_up_loop_count": 5,
@@ -29780,6 +30209,134 @@
   {
     "additional_pieces": [
       {
+        "character_ids": [46901],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [
+      {
+        "id": 46901,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 8
+      }
+    ],
+    "description": "5回限り！PU確率が2倍！\nメダル16枚獲得！2026/07/14 11:59まで開催\n※本ガチャで新登場するキャラは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-07-14T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "おまけつき！\n残り{}回!",
+            "gacha_button_type": 2,
+            "id": 10005,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 2401017,
+    "gacha_rate_set_name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 240101,
+    "image_path_hash": "6824431212818414291",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": 2401,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "冥き追憶 始祖を冠する“最強” ゼロ LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 567,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "1134669370483697273",
+    "start_at": "2026-06-23T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [45203],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [
+      {
+        "id": 45203,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 8
+      }
+    ],
+    "description": "5回限り！PU確率が2倍！\nメダル16枚獲得！2026/07/13 11:59まで開催",
+    "end_at": "2026-07-13T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "おまけつき！\n残り{}回!",
+            "gacha_button_type": 2,
+            "id": 10005,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 2407017,
+    "gacha_rate_set_name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 240701,
+    "image_path_hash": "8931810517930580589",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": 2407,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "目覚めの時 亜空の案内人アルビーナ LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 572,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "1786474623532812220",
+    "start_at": "2026-06-26T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
         "character_ids": [43106, 43108],
         "generic_piece_count": 50,
         "piece_count": 100
@@ -30749,6 +31306,46 @@
     "small_banner_label": null,
     "small_banner_path_hash": "1654164208953163851",
     "start_at": "2026-06-16T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1338982274572964165",
+    "bonuses_per_draw": [],
+    "description": "【STEP7で新衣装が確定！】\n\nアルビーナの新衣装が登場！\nSTEPを進めるごとに新衣装の出現確率アップ！\n2026/08/03 11:59まで開催\n",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 3,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [10106, 10107, 10108, 10109, 10110, 10111, 10112],
+    "gacha_type": 2,
+    "id": 3100010,
+    "image_path_hash": "1288812749102581617",
+    "is_disp_home_banner": true,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": "4617859168014119389",
+    "medal_id": null,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "アルビーナ 渚の案内人 衣装調合",
+    "picked_up_memoria_ids": [],
+    "priority": 10010,
+    "shop_id": 5000,
+    "small_banner_label": null,
+    "small_banner_path_hash": "6662915727196710328",
+    "start_at": "2026-06-29T03:00:00.000Z",
     "start_dash_hours": null,
     "step_up_display_type": 1,
     "step_up_loop_count": 1,

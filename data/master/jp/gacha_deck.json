@@ -2286,6 +2286,31 @@
   },
   {
     "card_type": 4,
+    "id": 239901,
+    "rarity": 3
+  },
+  {
+    "card_type": 17,
+    "id": 239902,
+    "rarity": 3
+  },
+  {
+    "card_type": 17,
+    "id": 239903,
+    "rarity": 3
+  },
+  {
+    "card_type": 4,
+    "id": 240501,
+    "rarity": 3
+  },
+  {
+    "card_type": 17,
+    "id": 240502,
+    "rarity": 3
+  },
+  {
+    "card_type": 4,
     "id": 300101,
     "rarity": 3
   },
@@ -2785,6 +2810,11 @@
     "rarity": 3
   },
   {
+    "card_type": 17,
+    "id": 306201,
+    "rarity": 3
+  },
+  {
     "card_type": 4,
     "id": 500001,
     "rarity": 3
@@ -3052,6 +3082,31 @@
   {
     "card_type": 22,
     "id": 310000905,
+    "rarity": 3
+  },
+  {
+    "card_type": 5,
+    "id": 310001001,
+    "rarity": 1
+  },
+  {
+    "card_type": 5,
+    "id": 310001002,
+    "rarity": 2
+  },
+  {
+    "card_type": 5,
+    "id": 310001003,
+    "rarity": 3
+  },
+  {
+    "card_type": 5,
+    "id": 310001004,
+    "rarity": 4
+  },
+  {
+    "card_type": 22,
+    "id": 310001005,
     "rarity": 3
   }
 ]
