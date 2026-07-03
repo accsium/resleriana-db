@@ -6131,11 +6131,77 @@
     "countdown_turn": null,
     "display_timeline_panel_ids": [11, 12, 13, 14],
     "help_id": null,
+    "hint_ids": [10279000],
+    "id": 11001241,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012411]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [10279001],
+    "id": 11001243,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012431]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [10280000],
+    "id": 11001244,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012441]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [10280000],
+    "id": 11001246,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012461]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
     "hint_ids": [10015006, 10169015, 10005016],
     "id": 11001247,
     "recommended_attack_attributes": [5, 8],
     "unlimited_battle_tool_usage_count": false,
     "wave_ids": [110012471]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [60018014, 10012013, 10012013],
+    "id": 11001249,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012491]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [10107009, 10121007, 10121007],
+    "id": 11001250,
+    "recommended_attack_attributes": [5, 8],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [110012501]
   },
   {
     "bgm_path_hash": 0,
@@ -7577,6 +7643,39 @@
     "recommended_attack_attributes": [6, 7],
     "unlimited_battle_tool_usage_count": false,
     "wave_ids": [130012641]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [30232001, 30081011, 30081011, 30082003],
+    "id": 13001265,
+    "recommended_attack_attributes": [5, 6],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [130012651]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [30232002, 60018013, 60018013, 60109020],
+    "id": 13001266,
+    "recommended_attack_attributes": [5, 6],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [130012661]
+  },
+  {
+    "bgm_path_hash": 0,
+    "countdown_turn": null,
+    "display_timeline_panel_ids": [11, 12, 13, 14],
+    "help_id": null,
+    "hint_ids": [30232002, 10119002, 60122078, 60090013],
+    "id": 13001267,
+    "recommended_attack_attributes": [5, 6],
+    "unlimited_battle_tool_usage_count": false,
+    "wave_ids": [130012671]
   },
   {
     "bgm_path_hash": 0,

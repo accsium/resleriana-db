@@ -7683,6 +7683,45 @@
     ]
   },
   {
+    "character_id": 47001,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 200,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "異邦人の話……冒険者として心躍るわね。\nいつかみんなの世界を旅してみたいわ"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "レスナの周りはとてつもないお話ばかりね。\nもっと恋のお話があってもいいと思うの！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "私の二つ名は「閃光」っていうのよ。\nかっこいいでしょ？　ふふっ！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "夫はユリウスっていうんだけど、\nもうね、最高にかっこいいんだから！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "私ね、なぜかツッコミ担当として\n芸人に誘われたことがあるのよねー"
+      }
+    ]
+  },
+  {
     "character_id": 46901,
     "exclude_end_quest_id": null,
     "exclude_start_quest_id": null,

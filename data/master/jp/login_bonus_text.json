@@ -5760,6 +5760,36 @@
     "text": "今だけの珍しい贈りものらしいのう！"
   },
   {
+    "character_id": 47001,
+    "id": 47001001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "こんなのもらっちゃったわよー！"
+  },
+  {
+    "character_id": 47001,
+    "id": 47001002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "いいものもらったんじゃない？\n無駄なく使わなきゃね！"
+  },
+  {
+    "character_id": 47001,
+    "id": 47001003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "6195251636522800368",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "今だけの特別な贈りものなんだって！\n大事に使わなきゃダメよ～？"
+  },
+  {
     "character_id": 50101,
     "id": 50101001,
     "is_regular": true,

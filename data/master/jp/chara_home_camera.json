@@ -16790,6 +16790,79 @@
     "timeline_path_hash": "4267018175712498252"
   },
   {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "id": 1233,
+    "key_tasks": [],
+    "name": "立ち2",
+    "photo_background_id": null,
+    "priority": 10478,
+    "start_at": null,
+    "timeline_path_hash": "5187642666755126634"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "id": 1234,
+    "key_tasks": [],
+    "name": "気合",
+    "photo_background_id": null,
+    "priority": 10479,
+    "start_at": null,
+    "timeline_path_hash": "3714512823186443149"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "id": 1235,
+    "key_tasks": [
+      {
+        "condition_id": 3072,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "笑う",
+    "photo_background_id": null,
+    "priority": 10480,
+    "start_at": null,
+    "timeline_path_hash": "2786276003755961365"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "id": 1236,
+    "key_tasks": [
+      {
+        "condition_id": 3129,
+        "count": 3,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "指パッチン",
+    "photo_background_id": null,
+    "priority": 10481,
+    "start_at": null,
+    "timeline_path_hash": "1566436607956319887"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "id": 1237,
+    "key_tasks": [
+      {
+        "condition_id": 3073,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "ユニークシーン",
+    "photo_background_id": null,
+    "priority": 10482,
+    "start_at": null,
+    "timeline_path_hash": "8566729309217379081"
+  },
+  {
     "character_id": null,
     "character_skin_id": 99942,
     "id": 1238,

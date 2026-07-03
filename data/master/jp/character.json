@@ -19195,6 +19195,105 @@
     "voice_actor_id": 95
   },
   {
+    "ability_ids": [1990553, 1990554],
+    "acquisition_movie_path_hash": "5494168401978498769",
+    "acquisition_text": "愛する夫を探して幾星霜……\n「閃光」の力、見せてあげるわ！",
+    "active1_skill_id": 14003845,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【The Flash Adventurer】",
+    "attack_attributes": [8],
+    "base_character_id": 470,
+    "battle_tool_trait_ids": [5, 49],
+    "board_ability1_ids": [1990463, 1990438, 1990413],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003838, 14003838, 14003838, 14003839, 14003840, 14003841, 14003842],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 947001,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "レスナの母であり、冒険者。\nその太刀筋の鋭さから、「閃光」の異名がついている。\n夫であるユリウスを深く愛しており、頂獣ウェルテックスとの戦いで行方不明となった彼を探して、大陸中を旅していた。\n詩を作るのが趣味で、冒険の途中にもよくしたためている。",
+    "equipment_tool_trait_ids": [106],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 470012,
+    "extra_skill_ids": [],
+    "fullname": "メーヴェ・シュテルネンリヒト",
+    "growboard_id": 470011,
+    "id": 47001,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 64,
+      "defense": 62,
+      "hp": 172,
+      "magic": 79,
+      "mental": 57,
+      "speed": 247
+    },
+    "is_alchemist": true,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980248,
+          "combat_power_coefficient": 3500,
+          "condition_ids": [34]
+        }
+      ],
+      "description": "「冒険」は「基礎物攻・基礎魔攻+300」",
+      "name": "愛する夫を探して"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "8282561094361780418",
+    "motion_type": 2,
+    "name": "メーヴェ",
+    "neo_growboard_id": 470013,
+    "normal1_skill_ids": [11003828, 11003829, 11003830, 11003831, 11003832],
+    "normal2_skill_ids": [12003833, 12003834, 12003835, 12003836, 12003837],
+    "original_title_id": 27,
+    "overlay_name": "Mowen Sternenlicht",
+    "personality": 3,
+    "profile_voice_text": "「閃光」の冒険者で、レスナの母よ。\nでもお姉さんって呼んでくれていいからね！",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 5
+    },
+    "result_timeline_hash": "1580197962883453845",
+    "role": 1,
+    "series_id": 10,
+    "sort_name": "メーヴェ",
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "3832622650453931754",
+        "large_still_path_hash": "5663870295588243943",
+        "narrow_still_path_hash": "8188231646537300041",
+        "rarity": null,
+        "still_path_hash": "7917604627487944706"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500729, 500727, 500725, 500723, 500721, 500719, 500717, 500715],
+    "support_color_id": 5,
+    "tag_ids": [7, 9, 18, 29, 42],
+    "trait_color_id": 4,
+    "voice_actor_id": 97
+  },
+  {
     "ability_ids": [1990334, 1990335],
     "acquisition_movie_path_hash": "5056142763676476749",
     "acquisition_text": "私の錬金術の力はきっと役に立つ。\nだから、一緒に連れて行ってくれない？",

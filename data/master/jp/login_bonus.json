@@ -2630,5 +2630,19 @@
     "priority": 1007,
     "start_at": "2026-06-26T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "1824738395880241769",
+    "base_image_path_hash": "7933125506272239970",
+    "elapsed_days": null,
+    "end_at": "2026-07-19T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 192,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "6064579201991077875",
+    "name": "メイン31章中編追加記念 LOGIN BONUS",
+    "priority": 1008,
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "type": 2
   }
 ]

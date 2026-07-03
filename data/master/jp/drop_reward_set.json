@@ -134246,6 +134246,77 @@
     ]
   },
   {
+    "id": 50100387,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1447,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50100388,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 20,
+            "min_quantity": 20,
+            "resource_key": {
+              "id": 1447,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50100389,
+    "rewards": [
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 30,
+            "min_quantity": 30,
+            "resource_key": {
+              "id": 1447,
+              "type": 5
+            }
+          }
+        ]
+      },
+      {
+        "is_sample": true,
+        "rate": 100,
+        "rewards": [
+          {
+            "max_quantity": 10,
+            "min_quantity": 10,
+            "resource_key": {
+              "id": 1448,
+              "type": 5
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
     "id": 50300342,
     "rewards": [
       {

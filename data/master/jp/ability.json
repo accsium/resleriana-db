@@ -18269,6 +18269,94 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がメーヴェ【The Flash Adventurer】の時、付与する「リヒトルーメン」のLv+1<br>「リヒトルーメン」1Lvにつき貫通力+{0}<br>「リヒトルーメン」がLv10の時、スキルダメージ+{1}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001297,
+        "limit_count": null,
+        "value": 1500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 6001304,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 6001298,
+        "limit_count": null,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 6001299,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 301354,
+    "name": "フルギダ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身の手番で与える戦闘アイテムクリティカルダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001301,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 301355,
+    "name": "ドラグーンメイル"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身の手番で与える戦闘アイテムクリティカルダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001301,
+        "limit_count": null,
+        "value": 6500
+      }
+    ],
+    "id": 301356,
+    "name": "ドラグーンメイル"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身の手番で与えるアトリエ砲クリティカルダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001302,
+        "limit_count": null,
+        "value": 15000
+      }
+    ],
+    "id": 301357,
+    "name": "竜鱗のチャーム"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身の手番で与えるアトリエ砲クリティカルダメージ+{0}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001302,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 301358,
+    "name": "竜鱗のチャーム"
+  },
+  {
+    "ability_category_type": null,
     "description": "自身がゼロ【九偉人 No.2】の時、WAVE開始時、自身に「魔攻+{0}％」を2回行動終了するまで付与",
     "effects": [
       {
@@ -29033,6 +29121,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 2875
+      }
+    ],
+    "id": 500715,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "「約束と協力」の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29043,6 +29145,20 @@
       }
     ],
     "id": 500716,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 2500
+      }
+    ],
+    "id": 500717,
     "name": ""
   },
   {
@@ -29061,6 +29177,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 2125
+      }
+    ],
+    "id": 500719,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "「約束と協力」の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29071,6 +29201,20 @@
       }
     ],
     "id": 500720,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 1750
+      }
+    ],
+    "id": 500721,
     "name": ""
   },
   {
@@ -29089,6 +29233,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 1625
+      }
+    ],
+    "id": 500723,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "「約束と協力」の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29099,6 +29257,20 @@
       }
     ],
     "id": 500724,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 1500
+      }
+    ],
+    "id": 500725,
     "name": ""
   },
   {
@@ -29117,6 +29289,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 1375
+      }
+    ],
+    "id": 500727,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "「約束と協力」の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -29127,6 +29313,20 @@
       }
     ],
     "id": 500728,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "「約束と協力」の時、ブレイクダメージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 5000107,
+        "limit_count": null,
+        "value": 1250
+      }
+    ],
+    "id": 500729,
     "name": ""
   },
   {
@@ -33484,6 +33684,26 @@
     ],
     "id": 1980247,
     "name": "アルビちゃんの新境地"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「冒険」は「基礎物攻・基礎魔攻+300」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500197,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500198,
+        "limit_count": null,
+        "value": 30000
+      }
+    ],
+    "id": 1980248,
+    "name": "愛する夫を探して"
   },
   {
     "ability_category_type": null,
@@ -43678,6 +43898,88 @@
     ],
     "id": 1990552,
     "name": "勝利へご案内！"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>クリティカル攻撃後、自身のバーストゲージを{0}%増加<br>スキルで撃破時、自身のバーストゲージを{1}%増加",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001620,
+        "limit_count": null,
+        "value": 3500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001453,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      }
+    ],
+    "id": 1990553,
+    "name": "お母さんに任せなさい！"
+  },
+  {
+    "ability_category_type": null,
+    "description": "WAVE開始時、自身に「クリティカル確率+{0}%」を2回行動終了するまで付与<br><br>クリティカル攻撃後、自身に「リヒトルーメン」が付与されていない時、「リヒトルーメン(Lv1)」を付与<br>既に付与されている時、「リヒトルーメン」のLv+1(上限Lv10)<br>「リヒトルーメン」のLvに応じて以下のボーナスをそれぞれ獲得する<br>1Lvにつきクリティカル確率+{1}%とクリティカルダメージ+{2}%<br>Lv3以上：クリティカルダメージ+{3}%<br>Lv5以上：クリティカルダメージ+{4}%<br>Lv7以上：クリティカル確率+{5}%<br>Lv10：自身のクリティカル確率が100%を超えている場合、攻撃時、100%を超えたクリティカル確率の上昇量をスキル威力に変換(変換上限{6}%)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001403,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001732,
+        "limit_count": null,
+        "value": 2500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001734,
+        "limit_count": null,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001736,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001738,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001740,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001742,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001731,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990554,
+    "name": "これが「閃光」の力よ！"
   },
   {
     "ability_category_type": null,
@@ -65923,6 +66225,106 @@
   },
   {
     "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーの時、クリティカル攻撃後、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与<br>「約束と協力」の時、クリティカル確率+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000399,
+        "limit_count": null,
+        "value": 700
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000400,
+        "limit_count": null,
+        "value": 1000
+      }
+    ],
+    "id": 4991378,
+    "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーの時、クリティカル攻撃後、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与<br>「約束と協力」の時、クリティカル確率+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000399,
+        "limit_count": null,
+        "value": 2300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000400,
+        "limit_count": null,
+        "value": 2000
+      }
+    ],
+    "id": 4991379,
+    "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーの時、クリティカル攻撃後、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与<br>「約束と協力」の時、クリティカル確率+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000399,
+        "limit_count": null,
+        "value": 3900
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000400,
+        "limit_count": null,
+        "value": 3000
+      }
+    ],
+    "id": 4991380,
+    "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーの時、クリティカル攻撃後、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与<br>「約束と協力」の時、クリティカル確率+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000399,
+        "limit_count": null,
+        "value": 5400
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000400,
+        "limit_count": null,
+        "value": 4000
+      }
+    ],
+    "id": 4991381,
+    "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "得意属性が風属性かつアタッカーの時、クリティカル攻撃後、自身に「スキルダメージ+{0}%」を2回行動終了するまで付与<br>「約束と協力」の時、クリティカル確率+{1}%",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000399,
+        "limit_count": null,
+        "value": 7000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 95000400,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991382,
+    "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
     "description": "突属性のスキルダメージ{0}%アップ",
     "effects": [
       {
@@ -82575,6 +82977,56 @@
   },
   {
     "ability_category_type": null,
+    "description": "HP60％以下になった時、自身のターンを{0}ターン遅らせ、ブレイクゲージを{1}%回復し、自身に与ダメージUP({2}%/1回)、被ブレイクダメージDOWN({3}%/2回)を付与、行動再抽選\nアトリエ砲によるダメージを受けた時、自身に攻撃DOWN({5}％/上限40％)を付与\nブレイク時、自身の与ダメージUPを解除",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 86232011,
+        "limit_count": 1,
+        "value": 300
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86232013,
+        "limit_count": 1,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86232009,
+        "limit_count": 1,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86232010,
+        "limit_count": 1,
+        "value": 4000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81232002,
+        "limit_count": 1,
+        "value": 0
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81232001,
+        "limit_count": null,
+        "value": 2000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 86232007,
+        "limit_count": null,
+        "value": 10000
+      }
+    ],
+    "id": 21232001,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
     "description": "ブレイク復帰後、自身に素早さ UP(15%/3回)を付与",
     "effects": [
       {
@@ -83629,6 +84081,64 @@
       }
     ],
     "id": 21275003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "wave開始時、自身に「貫通力UP(+50)」と「パネルから受ける強化効果量UP(30%)」を付与\nスキル発動後、自身に「与ダメージUP(5%, 上限5個)」を付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 81279016,
+        "limit_count": 1,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81279011,
+        "limit_count": 1,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81279013,
+        "limit_count": null,
+        "value": 500
+      }
+    ],
+    "id": 21279002,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "wave開始時、自身に「貫通力UP(+75)」と「パネルから受ける強化効果量UP(30%)」を付与\nスキル発動後、自身に「与ダメージUP(7%, 上限5個)」と「再生(3%、1回)」を付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 81279016,
+        "limit_count": 1,
+        "value": 7500
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81279011,
+        "limit_count": 1,
+        "value": 3000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81279014,
+        "limit_count": null,
+        "value": 700
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81279015,
+        "limit_count": null,
+        "value": 300
+      }
+    ],
+    "id": 21279003,
     "name": ""
   },
   {
@@ -93119,6 +93629,32 @@
       }
     ],
     "id": 26279003,
+    "name": ""
+  },
+  {
+    "ability_category_type": null,
+    "description": "wave開始時、タイムラインの前から10個をバーストパネルに変換し、自身に「非ブレイク時被ダメージ無効」と貫通力UP(+20)を付与",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 81280007,
+        "limit_count": 1,
+        "value": 1000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81280009,
+        "limit_count": 1,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 81280010,
+        "limit_count": 1,
+        "value": 2000
+      }
+    ],
+    "id": 26280001,
     "name": ""
   },
   {

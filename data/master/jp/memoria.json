@@ -18165,6 +18165,75 @@
     "still_path_hash": "1760357029316291768"
   },
   {
+    "ability_ids": [4991378, 4991379, 4991380, 4991381, 4991382],
+    "attack_attributes": [8],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "メーヴェとレスナは、共に探索に来ていた。\n「あ、そっちお願い！」\n「よーっし！　お母さんに任せて！」\n立ち塞がる魔物を薙ぐメーヴェの一振りは、まさに「閃光」の如く。\n「かっこいいとこ、見せちゃうわよ！」",
+    "first_cut": 3,
+    "gacha_perform_bg_position": 7173,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 23,
+        "position_y": 625,
+        "width": 1000
+      },
+      {
+        "position_x": 18,
+        "position_y": 1008,
+        "width": 1000
+      }
+    ],
+    "id": 30240,
+    "illustrator_id": 46,
+    "item_limit_break_enabled": true,
+    "large_still_path_hash": "746945897911341212",
+    "memoria_small_still_cut_position": 1,
+    "name": "お母さんに任せて！",
+    "narrow_still_path_hash": "18097167053144498",
+    "rarity": 3,
+    "roles": [1],
+    "second_cut": 4,
+    "small_still_path_hash": "189490843039652283",
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31088,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31020,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31078,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31138,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "6472219468065352933"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

@@ -18464,6 +18464,14 @@
     "transition": null
   },
   {
+    "id": 3072,
+    "transition": null
+  },
+  {
+    "id": 3073,
+    "transition": null
+  },
+  {
     "id": 3074,
     "transition": null
   },
@@ -18730,5 +18738,25 @@
       "focused_on": 45203,
       "transition": 33
     }
+  },
+  {
+    "id": 3129,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 47001,
+      "transition": 33
+    }
+  },
+  {
+    "id": 3130,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 204130004,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3131,
+    "transition": null
   }
 ]

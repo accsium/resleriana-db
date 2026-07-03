@@ -15786,6 +15786,90 @@
     "timeline_path_hash": "8367820809120812108"
   },
   {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "2464089883814404580",
+    "id": 1237,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "立ち2",
+    "priority": 20211,
+    "start_at": null,
+    "still_path_hash": "3852012168914053433",
+    "timeline_path_hash": "3282884807554616669"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "3907749918503723365",
+    "id": 1238,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "気合",
+    "priority": 20212,
+    "start_at": null,
+    "still_path_hash": "7988540137722008391",
+    "timeline_path_hash": "3960042970509508668"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "892285506518878292",
+    "id": 1239,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "笑う",
+    "priority": 20213,
+    "start_at": null,
+    "still_path_hash": "7648274610660001197",
+    "timeline_path_hash": "892601455783197763"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7285068936614833465",
+    "id": 1240,
+    "is_receivable": false,
+    "key_tasks": [
+      {
+        "condition_id": 3129,
+        "count": 3,
+        "name": "★4.5で解放されます"
+      }
+    ],
+    "name": "指パッチン",
+    "priority": 20214,
+    "start_at": null,
+    "still_path_hash": "5618635946536966523",
+    "timeline_path_hash": "915193360271162177"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "4471585550897736109",
+    "id": 1241,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "ユニークシーン",
+    "priority": 20215,
+    "start_at": null,
+    "still_path_hash": "6027096023173847224",
+    "timeline_path_hash": "6032573655960216862"
+  },
+  {
+    "character_id": 47001,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7060532647839108693",
+    "id": 1242,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "エクストラモーション",
+    "priority": 20216,
+    "start_at": null,
+    "still_path_hash": "5409370344526016898",
+    "timeline_path_hash": "5761845679459197562"
+  },
+  {
     "character_id": null,
     "character_skin_id": 99942,
     "icon_still_path_hash": 0,

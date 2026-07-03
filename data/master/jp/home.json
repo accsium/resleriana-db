@@ -4419,6 +4419,18 @@
     "bgm_path_hash": 0,
     "description": "",
     "icon_still_path_hash": 0,
+    "id": 1411101,
+    "is_changeable_home": false,
+    "is_receivable": false,
+    "name": "",
+    "still_path_hash": 0,
+    "thumbnail_path_hash": 0,
+    "timeline_asset_path_hash": "4742940540522627496"
+  },
+  {
+    "bgm_path_hash": 0,
+    "description": "",
+    "icon_still_path_hash": 0,
     "id": 2132201,
     "is_changeable_home": false,
     "is_receivable": false,
@@ -4773,6 +4785,18 @@
     "name": "イラスト5",
     "still_path_hash": "2994666828617261374",
     "thumbnail_path_hash": "5518567103702902012",
+    "timeline_asset_path_hash": 0
+  },
+  {
+    "bgm_path_hash": "1464274137015235746",
+    "description": "獲得することでホーム画面に設定できる。",
+    "icon_still_path_hash": "8071453580322870199",
+    "id": 210021101,
+    "is_changeable_home": true,
+    "is_receivable": true,
+    "name": "イラスト8",
+    "still_path_hash": "8107639092897232534",
+    "thumbnail_path_hash": "185770449534900380",
     "timeline_asset_path_hash": 0
   }
 ]

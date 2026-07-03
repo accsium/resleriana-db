@@ -158720,6 +158720,918 @@
     "character_id": null,
     "costs": [
       {
+        "id": 559,
+        "quantity": 16,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 867,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "ドラグーンメイル",
+    "priority": 23,
+    "recipe_plan_id": 105,
+    "requirements": [
+      {
+        "condition_id": 916,
+        "count": 1,
+        "name": "メインストーリー13-52をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1274,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1275,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [114, 183, 147],
+    "support_color_ids": [4, 3, 5],
+    "tracking_id": "af_synthesis_recipe_867"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 557,
+        "quantity": 16,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 868,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "竜鱗のチャーム",
+    "priority": 24,
+    "recipe_plan_id": 105,
+    "requirements": [
+      {
+        "condition_id": 916,
+        "count": 1,
+        "name": "メインストーリー13-52をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1276,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1277,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [89, 210, 156],
+    "support_color_ids": [5, 1, 4],
+    "tracking_id": "af_synthesis_recipe_868"
+  },
+  {
+    "character_id": 47001,
+    "costs": [
+      {
+        "id": 47001,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 1449,
+        "quantity": 16,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 869,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "フルギダ",
+    "priority": 85,
+    "recipe_plan_id": 82,
+    "requirements": [
+      {
+        "condition_id": 3129,
+        "count": 4,
+        "name": "メーヴェ【The Flash Adventurer】を★5に覚醒しよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1273,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 6
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [72, 210, 206],
+    "support_color_ids": [4, 2, 1],
+    "tracking_id": "af_synthesis_recipe_869"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 1449,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 870,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "シェルバニブレッド",
+    "priority": 2,
+    "recipe_plan_id": 120,
+    "requirements": [
+      {
+        "condition_id": 3131,
+        "count": 1,
+        "name": "メインストーリー31-37をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1028,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1029,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [21, 202, 158],
+    "support_color_ids": [3, 4, 5],
+    "tracking_id": "af_synthesis_recipe_870"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 1449,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 871,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 1,
+    "name": "古の獣の護符",
+    "priority": 2,
+    "recipe_plan_id": 120,
+    "requirements": [
+      {
+        "condition_id": 3131,
+        "count": 1,
+        "name": "メインストーリー31-37をクリアしよう"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 1030,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 1031,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 14
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 108,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 111,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 114,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 117,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 120,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 109,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 112,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 115,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 118,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 121,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 110,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 113,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 116,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 119,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      },
+      {
+        "is_target": false,
+        "resource": {
+          "id": 122,
+          "quantity": 3,
+          "resource_params": null,
+          "type": 5
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [39, 91, 210],
+    "support_color_ids": [2, 5, 3],
+    "tracking_id": "af_synthesis_recipe_871"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
         "id": 1320,
         "quantity": 1,
         "resource_params": null,
@@ -159021,5 +159933,44 @@
     "support_character_ids": [185, 186, 62, 22, 79],
     "support_color_ids": [],
     "tracking_id": "af_synthesis_recipe_10044"
+  },
+  {
+    "character_id": null,
+    "costs": [
+      {
+        "id": 1446,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ],
+    "id": 10045,
+    "learning_reward_set_id": 10000,
+    "mana_cost": 20,
+    "name": "デスウニ",
+    "priority": 1040,
+    "recipe_plan_id": 116,
+    "requirements": [
+      {
+        "condition_id": 101,
+        "count": 210,
+        "name": "メモリアを210種類入手した"
+      }
+    ],
+    "rewards": [
+      {
+        "is_target": true,
+        "resource": {
+          "id": 10,
+          "quantity": 1,
+          "resource_params": null,
+          "type": 25
+        }
+      }
+    ],
+    "start_at": "2026-07-03T03:00:00.000Z",
+    "support_character_ids": [161, 43, 44, 83, 45],
+    "support_color_ids": [],
+    "tracking_id": "af_synthesis_recipe_10045"
   }
 ]
