@@ -50919,5 +50919,42 @@
       }
     ],
     "still_path_hash": "1191715353079595380"
+  },
+  {
+    "ability_ids": [301360],
+    "attack_attribute_combat_power_bonus": {
+      "fire": 100,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "attack_attributes": [5],
+    "description": "自身がヘルト【九偉人 No.1】であり攻撃対象が小ブレイクまたはブレイク時、対象に「受ける攻撃の貫通力+{0}」を1回行動終了するまで付与<br>※複数のゲージを同時に0にしても発動は1回",
+    "easy_synthesis_trait_lottery_id": 12,
+    "id": 1278,
+    "large_still_path_hash": "6904997915464623537",
+    "name": "万象ヲ統ス英傑ノ槍",
+    "quality_group_id": 17,
+    "rarity": 3,
+    "role_combat_power_bonus": {
+      "attacker": 0,
+      "breaker": 100,
+      "defender": 0,
+      "supporter": 0
+    },
+    "roles": [2],
+    "slot_type": 1,
+    "small_still_path_hash": "2000346066863595634",
+    "status_buffs": [
+      {
+        "change_method": 1,
+        "status_type": 4,
+        "value": 200
+      }
+    ],
+    "still_path_hash": "3631835982733059488"
   }
 ]

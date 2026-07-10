@@ -2644,5 +2644,19 @@
     "priority": 1008,
     "start_at": "2026-07-03T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "2746505918387197671",
+    "base_image_path_hash": "7933125506272239970",
+    "elapsed_days": null,
+    "end_at": "2026-07-26T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 193,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "8132996094351044165",
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FES 開催記念 LOGIN BONUS",
+    "priority": 1009,
+    "start_at": "2026-07-13T03:00:00.000Z",
+    "type": 2
   }
 ]

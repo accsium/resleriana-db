@@ -775,5 +775,26 @@
     },
     "start_at": "2026-06-29T03:00:00.000Z",
     "still_set": null
+  },
+  {
+    "acquisition_movie_path_hash": "109412548690277819",
+    "base_character_id": 439,
+    "character_id": null,
+    "description": "ザスキアの見た目を変更することのできる衣装。\n※同じ衣装へ同時に変更できるキャラは1キャラのみです。",
+    "duplicated_reward_set_id": 3340001,
+    "id": 99947,
+    "model_path_hash": "4133374622192791467",
+    "name": "導きの手のひら",
+    "rarity": 3,
+    "reject_character_ids": [],
+    "resource_still_set": {
+      "large_narrow_still_path_hash": "352657283544727735",
+      "large_still_path_hash": "2016981974265815113",
+      "narrow_still_path_hash": "1668915340645481899",
+      "rarity": null,
+      "still_path_hash": "3628130916430439847"
+    },
+    "start_at": "2026-07-10T03:00:00.000Z",
+    "still_set": null
   }
 ]

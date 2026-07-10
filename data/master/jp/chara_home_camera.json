@@ -16905,5 +16905,89 @@
     "priority": 1000011,
     "start_at": null,
     "timeline_path_hash": "4731772577761171499"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99947,
+    "id": 1242,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "photo_background_id": null,
+    "priority": 1000012,
+    "start_at": null,
+    "timeline_path_hash": "2767854125508709443"
+  },
+  {
+    "character_id": 47101,
+    "character_skin_id": null,
+    "id": 1246,
+    "key_tasks": [],
+    "name": "立ち2",
+    "photo_background_id": null,
+    "priority": 10483,
+    "start_at": null,
+    "timeline_path_hash": "5187642666755126634"
+  },
+  {
+    "character_id": 47101,
+    "character_skin_id": null,
+    "id": 1247,
+    "key_tasks": [],
+    "name": "お願い",
+    "photo_background_id": null,
+    "priority": 10484,
+    "start_at": null,
+    "timeline_path_hash": "3940167547253596524"
+  },
+  {
+    "character_id": 47101,
+    "character_skin_id": null,
+    "id": 1248,
+    "key_tasks": [
+      {
+        "condition_id": 3145,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "腕組み",
+    "photo_background_id": null,
+    "priority": 10485,
+    "start_at": null,
+    "timeline_path_hash": "8009801137818899630"
+  },
+  {
+    "character_id": 47101,
+    "character_skin_id": null,
+    "id": 1249,
+    "key_tasks": [
+      {
+        "condition_id": 3138,
+        "count": 3,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "考える",
+    "photo_background_id": null,
+    "priority": 10486,
+    "start_at": null,
+    "timeline_path_hash": "5020762320199064660"
+  },
+  {
+    "character_id": 47101,
+    "character_skin_id": null,
+    "id": 1250,
+    "key_tasks": [
+      {
+        "condition_id": 3146,
+        "count": 1,
+        "name": "特定のモーションを入手すると解放されます"
+      }
+    ],
+    "name": "ユニークシーン",
+    "photo_background_id": null,
+    "priority": 10487,
+    "start_at": null,
+    "timeline_path_hash": "2560374930672379090"
   }
 ]

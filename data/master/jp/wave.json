@@ -14708,6 +14708,26 @@
     "stage_id": 98020110
   },
   {
+    "bgm_path_hash": "1800213624259455402",
+    "enemies": [
+      {
+        "id": 10039011,
+        "level": 82
+      },
+      {
+        "id": 10008018,
+        "level": 82
+      },
+      {
+        "id": 10004013,
+        "level": 82
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012511,
+    "stage_id": 97069301
+  },
+  {
     "bgm_path_hash": "9168469247524395181",
     "enemies": [
       {
@@ -14738,6 +14758,46 @@
     "field_effect_id": null,
     "id": 110012541,
     "stage_id": 93497901
+  },
+  {
+    "bgm_path_hash": "1800213624259455402",
+    "enemies": [
+      {
+        "id": 10225002,
+        "level": 82
+      },
+      {
+        "id": 10169016,
+        "level": 82
+      },
+      {
+        "id": 10099000,
+        "level": 82
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012551,
+    "stage_id": 97069301
+  },
+  {
+    "bgm_path_hash": "1800213624259455402",
+    "enemies": [
+      {
+        "id": 10225003,
+        "level": 102
+      },
+      {
+        "id": 10169017,
+        "level": 102
+      },
+      {
+        "id": 10099010,
+        "level": 102
+      }
+    ],
+    "field_effect_id": null,
+    "id": 110012571,
+    "stage_id": 97069301
   },
   {
     "bgm_path_hash": "9168469247524395181",

@@ -19294,6 +19294,105 @@
     "voice_actor_id": 97
   },
   {
+    "ability_ids": [1990561, 1990562],
+    "acquisition_movie_path_hash": "5306991660306514252",
+    "acquisition_text": "俺が目覚めたからにはそのような生ぬるい\n「管理ごっこ」は終わりだ",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【九偉人 No.1】",
+    "attack_attributes": [5],
+    "base_character_id": 471,
+    "battle_tool_trait_ids": [50, 18],
+    "board_ability1_ids": [1990460, 1990435, 1990410],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003902, 14003902, 14003902, 14003903, 14003904, 14003905, 14003906],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 947101,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "パルメ族により創られたホムンクルスで、「九偉人」の１番目。\n誰の言うことも聞かない危険な存在のため、ゼロと共に長い間眠らされていた。\n自らを「英雄」と称し、気の向くまま、自由奔放に振る舞う。\nだが同族意識は強く、兄弟たちに対する面倒見はいい。",
+    "equipment_tool_trait_ids": [115],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 471012,
+    "extra_skill_ids": [],
+    "fullname": "ヘルト",
+    "growboard_id": 471011,
+    "id": 47101,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 62,
+      "defense": 56,
+      "hp": 161,
+      "magic": 74,
+      "mental": 66,
+      "speed": 256
+    },
+    "is_alchemist": false,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980252,
+          "combat_power_coefficient": 4000,
+          "condition_ids": [62]
+        }
+      ],
+      "description": "「冥き追憶」は「先駆け」と「スキル威力+50%」",
+      "name": "原点にして頂点"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "1300312624310610838",
+    "motion_type": 1,
+    "name": "ヘルト",
+    "neo_growboard_id": 471013,
+    "normal1_skill_ids": [11003892, 11003893, 11003894, 11003895, 11003896],
+    "normal2_skill_ids": [12003897, 12003898, 12003899, 12003900, 12003901],
+    "original_title_id": 27,
+    "overlay_name": "Held",
+    "personality": 2,
+    "profile_voice_text": "俺はアウグストの命令など聞かん。\nなぜなら英雄だからだ",
+    "resistance": {
+      "fire": 5,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 0,
+      "wind": 0
+    },
+    "result_timeline_hash": "7567829666780152478",
+    "role": 2,
+    "series_id": 10,
+    "sort_name": "ヘルト",
+    "start_at": "2026-07-13T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "2612826540783425345",
+        "large_still_path_hash": "7586598502394642562",
+        "narrow_still_path_hash": "8567300287939805821",
+        "rarity": null,
+        "still_path_hash": "8474576122523799073"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500597, 500591, 500585, 500579, 500573, 500567, 500561, 500555],
+    "support_color_id": 5,
+    "tag_ids": [37, 38, 16, 22],
+    "trait_color_id": 1,
+    "voice_actor_id": 96
+  },
+  {
     "ability_ids": [1990334, 1990335],
     "acquisition_movie_path_hash": "5056142763676476749",
     "acquisition_text": "私の錬金術の力はきっと役に立つ。\nだから、一緒に連れて行ってくれない？",

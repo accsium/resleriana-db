@@ -18234,6 +18234,75 @@
     "still_path_hash": "6472219468065352933"
   },
   {
+    "ability_ids": [4991383, 4991384, 4991385, 4991386, 4991387],
+    "attack_attributes": [],
+    "background_offset": {
+      "offset_x": 0,
+      "offset_y": 0,
+      "scale": 1
+    },
+    "description": "「いこう、リヒャルト兄さん」\n「ああ。油断はするなよ、クレオ」\n交差した刃の先、敵を見据える二人。彼らの息の合った剣戟は、風を起こし、周囲を巻き込んでいく。その姿は、まるで舞っているようだったと、二人の兄オルペウスは語った。",
+    "first_cut": 3,
+    "gacha_perform_bg_position": 6269,
+    "gacha_perform_cut_in_position": [
+      {
+        "position_x": 23,
+        "position_y": 606,
+        "width": 1000
+      },
+      {
+        "position_x": 18,
+        "position_y": 856,
+        "width": 1000
+      }
+    ],
+    "id": 30241,
+    "illustrator_id": 95,
+    "item_limit_break_enabled": false,
+    "large_still_path_hash": "1842147426214658591",
+    "memoria_small_still_cut_position": 1,
+    "name": "剣のワルツ",
+    "narrow_still_path_hash": "6028008861642827144",
+    "rarity": 3,
+    "roles": [],
+    "second_cut": 2,
+    "small_still_path_hash": "2327861501704551767",
+    "start_at": "2026-07-10T03:00:00.000Z",
+    "status_buffs": [
+      {
+        "growth_id": 31048,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 1
+      },
+      {
+        "growth_id": 31037,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 2
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 3
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 4
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 5
+      },
+      {
+        "growth_id": 31068,
+        "initial_values": [0, 0, 0, 0, 0],
+        "type": 6
+      }
+    ],
+    "still_path_hash": "431367207950421179"
+  },
+  {
     "ability_ids": [4990758, 4990759, 4990760, 4990761, 4990762],
     "attack_attributes": [],
     "background_offset": {

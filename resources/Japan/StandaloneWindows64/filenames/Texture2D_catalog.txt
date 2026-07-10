@@ -39,6 +39,8 @@
 00168_gacha_tickt_piece
 00169_gacha_tickt_LEGEND
 00169_gacha_tickt_piece
+00170_gacha_tickt_LEGEND
+00170_gacha_tickt_piece
 010_00_010_homeicon_event_st_00
 010_00_010_label_ribbonlabel_blue
 010_00_010_label_ribbonlabel_pink
@@ -648,6 +650,7 @@
 090_00_gacha_movie_2354_01
 090_00_gacha_movie_2355_01
 090_00_gacha_movie_2356_01
+090_00_gacha_movie_2357_01
 090_trial_battle_image_30902_01
 200_00_tutorial_help_image_05_01
 200_00_tutorial_help_image_05_02
@@ -2672,6 +2675,18 @@
 20260702_04_00333_misson_banner
 20260702_08_00779_pack_P_BLD_NPC24
 20260702_Mowen_WeaponPack
+20260709_01_00170_gacha_tickt_M
+20260709_01_00170_gacha_tickt_S
+20260709_01_00170_gacha_tickt_SS
+20260709_01_dress_jewel_Saskia_M
+20260709_01_dress_jewel_Saskia_S
+20260709_01_dress_jewel_Saskia_SS
+20260709_03_00193_loginbonus_banner
+20260709_03_00193_loginbonus_title
+20260709_04_00340_misson_banner
+20260709_04_Costume_Saskia_mission_banner
+20260709_08_00780_pack_P_BLD_VILLAIN_M
+20260709_Held_WeaponPack
 2027_gacha_banner_s
 2027_gacha_top
 2094_gacha_banner_s
@@ -2757,6 +2772,8 @@
 2355_gacha_remind
 2356_gacha_banner_s
 2356_gacha_remind
+2357_gacha_banner_s
+2357_gacha_remind
 2391_gacha_banner_s
 3050_gacha_banner_s
 3050_gacha_remind
@@ -2948,6 +2965,8 @@ CharaHome_EVE_LAUGH_01_P_BLD_NPC24
 CharaHome_EVE_LAUGH_01_P_BLD_NPC24_square
 CharaHome_EVE_LAUGH_01_square
 CharaHome_EVE_MA_ARMS_WAIT_00
+CharaHome_EVE_MA_ARMS_WAIT_00_P_BLD_VILLAIN_M
+CharaHome_EVE_MA_ARMS_WAIT_00_P_BLD_VILLAIN_M_square
 CharaHome_EVE_MA_ARMS_WAIT_00_square
 CharaHome_EVE_MA_COMMAND_00
 CharaHome_EVE_MA_COMMAND_00_P_BLD_VILLAIN_A_01
@@ -3058,6 +3077,8 @@ CharaHome_UNIQUE_BLD_NPC22_00
 CharaHome_UNIQUE_BLD_NPC22_00_square
 CharaHome_UNIQUE_BLD_NPC24_00
 CharaHome_UNIQUE_BLD_NPC24_00_square
+CharaHome_UNIQUE_BLD_NPC3_V_00
+CharaHome_UNIQUE_BLD_NPC3_V_00_square
 CharaHome_UNIQUE_BLD_NPC4_04_00
 CharaHome_UNIQUE_BLD_NPC4_04_00_square
 CharaHome_UNIQUE_BLD_VILLAIN_A_01_00
@@ -3076,6 +3097,8 @@ CharaHome_UNIQUE_BLD_VILLAIN_H_00
 CharaHome_UNIQUE_BLD_VILLAIN_H_00_square
 CharaHome_UNIQUE_BLD_VILLAIN_J_00
 CharaHome_UNIQUE_BLD_VILLAIN_J_00_square
+CharaHome_UNIQUE_BLD_VILLAIN_M_00
+CharaHome_UNIQUE_BLD_VILLAIN_M_00_square
 CharaHome_UNIQUE_BLD_VILLAIN_N_00
 CharaHome_UNIQUE_BLD_VILLAIN_N_00_square
 CharaHome_UNIQUE_BM_RIAS_00
@@ -3098,6 +3121,8 @@ CharaHome_UNIQUE_MOT_BLD_NPC4_04_00
 CharaHome_UNIQUE_MOT_BLD_NPC4_04_00_square
 CharaHome_UNIQUE_MOT_BLD_VILLAIN_H_00
 CharaHome_UNIQUE_MOT_BLD_VILLAIN_H_00_square
+CharaHome_UNIQUE_MOT_BLD_VILLAIN_M_00
+CharaHome_UNIQUE_MOT_BLD_VILLAIN_M_00_square
 CharaHome_UNIQUE_MOT_BLD_VILLAIN_N_00
 CharaHome_UNIQUE_MOT_BLD_VILLAIN_N_00_square
 CharaHome_WAIT_00
@@ -3127,6 +3152,9 @@ Costume_Plachta_gacha_logo
 Costume_Reisa_gacha_banner
 Costume_Reisa_gacha_banner_s
 Costume_Reisa_gacha_logo
+Costume_Saskia_gacha_banner
+Costume_Saskia_gacha_banner_s
+Costume_Saskia_gacha_logo
 Costume_Shallistera_gacha_banner
 Costume_Shallistera_gacha_banner_s
 Costume_Shallistera_gacha_logo
@@ -3191,6 +3219,7 @@ ICON_ANOMALY_SLEEP
 ICON_ANOMALY_STUN
 ICON_ANOMALY_TAUNT
 ICON_ANOMALY_VILLAIN_C_PC
+ICON_ANOMALY_VILLAIN_M
 ICON_ATTACK_BUFF_BATTLE_KARI
 ICON_ATTACK_ITEM
 ICON_BATTLE
@@ -5021,6 +5050,10 @@ Ingredient_0808_M
 Ingredient_0808_S
 Ingredient_0809_M
 Ingredient_0809_S
+Ingredient_0810_M
+Ingredient_0810_S
+Ingredient_0811_M
+Ingredient_0811_S
 Ingredient_0812_M
 Ingredient_0812_S
 Ingredient_0813_M
@@ -5168,6 +5201,7 @@ STL_CHAPTER_OUTLINE_28
 STL_CHAPTER_OUTLINE_29
 STL_CHAPTER_OUTLINE_3
 STL_CHAPTER_OUTLINE_30
+STL_CHAPTER_OUTLINE_31
 STL_CHAPTER_OUTLINE_4
 STL_CHAPTER_OUTLINE_5
 STL_CHAPTER_OUTLINE_6
@@ -6365,6 +6399,10 @@ STL_MEM_02_00232
 STL_MEM_02_00232_M
 STL_MEM_02_00232_long
 STL_MEM_02_00232_square
+STL_MEM_02_00233
+STL_MEM_02_00233_M
+STL_MEM_02_00233_long
+STL_MEM_02_00233_square
 STL_MEM_02_00234
 STL_MEM_02_00234_M
 STL_MEM_02_00234_long
@@ -8027,6 +8065,8 @@ STL_P_BLD_VILLAIN_L_FACE_M
 STL_P_BLD_VILLAIN_L_FACE_S
 STL_P_BLD_VILLAIN_M_FACE_M
 STL_P_BLD_VILLAIN_M_FACE_S
+STL_P_BLD_VILLAIN_M_long
+STL_P_BLD_VILLAIN_M_long_L
 STL_P_BLD_VILLAIN_N_FACE_M
 STL_P_BLD_VILLAIN_N_FACE_S
 STL_P_BLD_VILLAIN_N_long
@@ -9037,6 +9077,17 @@ STL_RECOLLECTION_31_027
 STL_RECOLLECTION_31_028
 STL_RECOLLECTION_31_029
 STL_RECOLLECTION_31_030
+STL_RECOLLECTION_31_031
+STL_RECOLLECTION_31_032
+STL_RECOLLECTION_31_033
+STL_RECOLLECTION_31_034
+STL_RECOLLECTION_31_035
+STL_RECOLLECTION_31_036
+STL_RECOLLECTION_31_037
+STL_RECOLLECTION_31_038
+STL_RECOLLECTION_31_039_00
+STL_RECOLLECTION_31_039_01
+STL_RECOLLECTION_31_040
 STL_RECOLLECTION_C0_1
 STL_RECOLLECTION_C0_10
 STL_RECOLLECTION_C0_11
@@ -9490,6 +9541,9 @@ STL_RECOLLECTION_illustrationHome_00_005_thumbnail
 STL_RECOLLECTION_illustrationHome_00_008_main
 STL_RECOLLECTION_illustrationHome_00_008_square
 STL_RECOLLECTION_illustrationHome_00_008_thumbnail
+STL_RECOLLECTION_illustrationHome_00_009_main
+STL_RECOLLECTION_illustrationHome_00_009_square
+STL_RECOLLECTION_illustrationHome_00_009_thumbnail
 STL_SCORE_20231016_1_1
 STL_SCORE_20231016_1_2
 STL_SCORE_20231016_1_3
@@ -10298,6 +10352,7 @@ Skill_P_VILLAIN_I_V_burst
 Skill_P_VILLAIN_I_burst
 Skill_P_VILLAIN_J_V_burst
 Skill_P_VILLAIN_J_burst
+Skill_P_VILLAIN_M_V_burst
 Skill_P_VILLAIN_N_V_burst
 Skill_attack_buff_magic_all
 Skill_attack_buff_magic_single
@@ -13548,6 +13603,9 @@ equipment_tool_0711_S
 equipment_tool_0712
 equipment_tool_0712_M
 equipment_tool_0712_S
+equipment_tool_0713
+equipment_tool_0713_M
+equipment_tool_0713_S
 frame_001
 item_Valuables_001_M
 item_Valuables_001_S

@@ -18758,5 +18758,33 @@
   {
     "id": 3131,
     "transition": null
+  },
+  {
+    "id": 3132,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 204130007,
+      "transition": 31
+    }
+  },
+  {
+    "id": 3133,
+    "transition": null
+  },
+  {
+    "id": 3138,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 47101,
+      "transition": 33
+    }
+  },
+  {
+    "id": 3145,
+    "transition": null
+  },
+  {
+    "id": 3146,
+    "transition": null
   }
 ]

@@ -19396,6 +19396,131 @@
     "medal_quantity": 5
   },
   {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [47101],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24132,
+    "gacha_rate_set_name": "【STEP1】冥き追憶 救星の英雄 ヘルト LEGEND FES[有償限定]",
+    "id": 917,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [47101],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24133,
+    "gacha_rate_set_name": "【STEP2】冥き追憶 救星の英雄 ヘルト LEGEND FES[有償限定]",
+    "id": 918,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [47101],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率2倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24134,
+    "gacha_rate_set_name": "【STEP3】冥き追憶 救星の英雄 ヘルト LEGEND FES[有償限定]",
+    "id": 919,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 3,
+    "additional_pieces": [
+      {
+        "character_ids": [47101],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 1500,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "",
+    "draw_count": 10,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 24135,
+    "gacha_rate_set_name": "【STEP4】冥き追憶 救星の英雄 ヘルト LEGEND FES[有償限定]",
+    "id": 920,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
+    "additional_medal": 5,
+    "additional_pieces": [
+      {
+        "character_ids": [47101],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "cost": {
+      "id": 1,
+      "quantity": 2000,
+      "resource_params": null,
+      "type": 2
+    },
+    "description": "PU確率3倍!",
+    "draw_count": 10,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 24136,
+    "gacha_rate_set_name": "【STEP5】冥き追憶 救星の英雄 ヘルト LEGEND FES[有償限定]",
+    "id": 921,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 5
+  },
+  {
     "additional_medal": 0,
     "additional_pieces": [],
     "cost": {
@@ -20854,6 +20979,139 @@
     "gacha_rate_set_id": 31000107,
     "gacha_rate_set_name": "【STEP7】アルビーナ 渚の案内人 衣装調合",
     "id": 10112,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000111,
+    "gacha_rate_set_name": "【STEP1】ザスキア 導きの手のひら 衣装調合",
+    "id": 10113,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 1,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000112,
+    "gacha_rate_set_name": "【STEP2】ザスキア 導きの手のひら 衣装調合",
+    "id": 10114,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 2,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 2,
+    "gacha_rate_set_id": 31000113,
+    "gacha_rate_set_name": "【STEP3】ザスキア 導きの手のひら 衣装調合",
+    "id": 10115,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 4,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確率UP!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000114,
+    "gacha_rate_set_name": "【STEP4】ザスキア 導きの手のひら 衣装調合",
+    "id": 10116,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000115,
+    "gacha_rate_set_name": "【STEP5】ザスキア 導きの手のひら 衣装調合",
+    "id": 10117,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "SSR以上確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000116,
+    "gacha_rate_set_name": "【STEP6】ザスキア 導きの手のひら 衣装調合",
+    "id": 10118,
+    "is_always_display": true,
+    "is_wish_list": false,
+    "medal_quantity": 0
+  },
+  {
+    "additional_medal": 0,
+    "additional_pieces": [],
+    "cost": {
+      "id": 1453,
+      "quantity": 7,
+      "resource_params": null,
+      "type": 5
+    },
+    "description": "衣装確定!",
+    "draw_count": 1,
+    "gacha_button_type": 3,
+    "gacha_rate_set_id": 31000117,
+    "gacha_rate_set_name": "【STEP7】ザスキア 導きの手のひら 衣装調合",
+    "id": 10119,
     "is_always_display": true,
     "is_wish_list": false,
     "medal_quantity": 0

@@ -12499,6 +12499,127 @@
     "town_talk_scenes": []
   },
   {
+    "id": 1126,
+    "key_quest_id": 101033038,
+    "name": "ゼロ",
+    "priority": 31,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "8022597107520837389",
+    "talk_event_id": 101033038,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1127,
+    "key_quest_id": 101033039,
+    "name": "ゴゥとリーベ",
+    "priority": 32,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "8421058195814385681",
+    "talk_event_id": 101033039,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1128,
+    "key_quest_id": 101033040,
+    "name": "ヤドヴィガとキューン",
+    "priority": 33,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "2950117995674642511",
+    "talk_event_id": 101033040,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1129,
+    "key_quest_id": 101033041,
+    "name": "イェルカとシトリン",
+    "priority": 34,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "3380522875512313682",
+    "talk_event_id": 101033041,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1130,
+    "key_quest_id": 101033042,
+    "name": "ヘルトとの思い出",
+    "priority": 35,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "8270703231265044240",
+    "talk_event_id": 101033042,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1131,
+    "key_quest_id": 101033043,
+    "name": "九偉人会作戦会議",
+    "priority": 36,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "7588308753821853714",
+    "talk_event_id": 101033043,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1132,
+    "key_quest_id": 101033046,
+    "name": "調理開始よ！",
+    "priority": 37,
+    "recollection_episode_id": 32,
+    "scene_type": 2,
+    "still_path_hash": "3846744763840448588",
+    "talk_event_id": 101033046,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1133,
+    "key_quest_id": 101033047,
+    "name": "敗北の底",
+    "priority": 38,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "7312368657033336364",
+    "talk_event_id": 101033047,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1134,
+    "key_quest_id": 101033048,
+    "name": "そんなの、嫌だ",
+    "priority": 39,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "4246816598565246824",
+    "talk_event_id": 101033048,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1135,
+    "key_quest_id": 101033049,
+    "name": "大切なお兄ちゃん",
+    "priority": 40,
+    "recollection_episode_id": 32,
+    "scene_type": 2,
+    "still_path_hash": "7404707589678888762",
+    "talk_event_id": 101033049,
+    "town_talk_scenes": []
+  },
+  {
+    "id": 1136,
+    "key_quest_id": 101033050,
+    "name": "俺がやるべきこと",
+    "priority": 41,
+    "recollection_episode_id": 32,
+    "scene_type": 1,
+    "still_path_hash": "8845615818018513276",
+    "talk_event_id": 101033050,
+    "town_talk_scenes": []
+  },
+  {
     "id": 10000,
     "key_quest_id": null,
     "name": "ほうき星の導き",

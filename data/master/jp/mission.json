@@ -10292,22 +10292,26 @@
     "guide_mission_tab_id": null,
     "id": 150080,
     "label": null,
-    "name": "後日追加されるミッションをお待ちください！",
+    "name": "スコアバトル31-4VeryHardをクリアしよう",
     "name_when_count_one": "",
     "navigation_task_url_id": null,
     "prev_mission_id": null,
     "priority": 8,
     "reset_cycle": null,
-    "start_at": null,
+    "start_at": "2026-07-10T03:00:00.000Z",
     "steps": [
       {
-        "count": 100,
+        "count": 1,
         "reward_set_id": 30232,
         "start_at": null
       }
     ],
     "total_task_condition_id": null,
-    "transition": null
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 204130008,
+      "transition": 31
+    }
   },
   {
     "category": 5,
@@ -23214,6 +23218,33 @@
       }
     ],
     "total_task_condition_id": 2878,
+    "transition": null
+  },
+  {
+    "category": 4,
+    "end_at": null,
+    "event_tab_id": null,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 300184,
+    "label": null,
+    "name": "メインストーリー31-50をクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 7152,
+    "reset_cycle": null,
+    "start_at": "2026-07-10T03:00:00.000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 30016,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3133,
     "transition": null
   },
   {
@@ -86280,6 +86311,623 @@
     ],
     "total_task_condition_id": 3130,
     "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 337,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3372008,
+    "label": null,
+    "name": "スコアバトル31-4Normalをクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 3,
+    "reset_cycle": null,
+    "start_at": "2026-07-10T03:00:00.000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 3372008,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3132,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 337,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3372009,
+    "label": null,
+    "name": "メインストーリー31-50をクリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 2,
+    "reset_cycle": null,
+    "start_at": "2026-07-10T03:00:00.000Z",
+    "steps": [
+      {
+        "count": 1,
+        "reward_set_id": 3372009,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": 3133,
+    "transition": null
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402001,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 16,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 10,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 20,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 30,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 40,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 50,
+        "reward_set_id": 3402002,
+        "start_at": null
+      },
+      {
+        "count": 60,
+        "reward_set_id": 3402003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402002,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 15,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 70,
+        "reward_set_id": 3402008,
+        "start_at": null
+      },
+      {
+        "count": 80,
+        "reward_set_id": 3402003,
+        "start_at": null
+      },
+      {
+        "count": 90,
+        "reward_set_id": 3402003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402003,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 14,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 100,
+        "reward_set_id": 2242008,
+        "start_at": null
+      },
+      {
+        "count": 110,
+        "reward_set_id": 3402003,
+        "start_at": null
+      },
+      {
+        "count": 120,
+        "reward_set_id": 3402003,
+        "start_at": null
+      },
+      {
+        "count": 130,
+        "reward_set_id": 3402004,
+        "start_at": null
+      },
+      {
+        "count": 140,
+        "reward_set_id": 3402004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402004,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 13,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 150,
+        "reward_set_id": 2242009,
+        "start_at": null
+      },
+      {
+        "count": 160,
+        "reward_set_id": 3402005,
+        "start_at": null
+      },
+      {
+        "count": 170,
+        "reward_set_id": 3402005,
+        "start_at": null
+      },
+      {
+        "count": 180,
+        "reward_set_id": 3402006,
+        "start_at": null
+      },
+      {
+        "count": 190,
+        "reward_set_id": 3402006,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402005,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 12,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 200,
+        "reward_set_id": 3402007,
+        "start_at": null
+      },
+      {
+        "count": 210,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 220,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 230,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 240,
+        "reward_set_id": 3402001,
+        "start_at": null
+      },
+      {
+        "count": 250,
+        "reward_set_id": 3402002,
+        "start_at": null
+      },
+      {
+        "count": 260,
+        "reward_set_id": 3402002,
+        "start_at": null
+      },
+      {
+        "count": 270,
+        "reward_set_id": 3402002,
+        "start_at": null
+      },
+      {
+        "count": 280,
+        "reward_set_id": 3402002,
+        "start_at": null
+      },
+      {
+        "count": 290,
+        "reward_set_id": 3402002,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402006,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 11,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 300,
+        "reward_set_id": 2242008,
+        "start_at": null
+      },
+      {
+        "count": 310,
+        "reward_set_id": 3402003,
+        "start_at": null
+      },
+      {
+        "count": 320,
+        "reward_set_id": 3402003,
+        "start_at": null
+      },
+      {
+        "count": 330,
+        "reward_set_id": 3402004,
+        "start_at": null
+      },
+      {
+        "count": 340,
+        "reward_set_id": 3402004,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402007,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 10,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 350,
+        "reward_set_id": 2242009,
+        "start_at": null
+      },
+      {
+        "count": 360,
+        "reward_set_id": 3402005,
+        "start_at": null
+      },
+      {
+        "count": 370,
+        "reward_set_id": 3402005,
+        "start_at": null
+      },
+      {
+        "count": 380,
+        "reward_set_id": 3402006,
+        "start_at": null
+      },
+      {
+        "count": 390,
+        "reward_set_id": 3402006,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 340,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3402008,
+    "label": null,
+    "name": "冥き追憶 救星の英雄 ヘルト LEGEND FESを{}回引こう\n※有償限定も含む",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 9,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 400,
+        "reward_set_id": 3402007,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 4
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 341,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3412001,
+    "label": null,
+    "name": "素材クエストを{}回クリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 1,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 20,
+        "reward_set_id": 3412001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 16
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 341,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3412002,
+    "label": null,
+    "name": "素材クエストを{}回クリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 2,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 40,
+        "reward_set_id": 3412001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 16
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 341,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3412003,
+    "label": null,
+    "name": "素材クエストを{}回クリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 3,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 60,
+        "reward_set_id": 3412001,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 16
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 341,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3412004,
+    "label": null,
+    "name": "素材クエストを{}回クリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 4,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 80,
+        "reward_set_id": 3412002,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 16
+    }
+  },
+  {
+    "category": 3,
+    "end_at": null,
+    "event_tab_id": 341,
+    "guide_mission_home_label": null,
+    "guide_mission_pickup_reward": null,
+    "guide_mission_step_id": null,
+    "guide_mission_tab_id": null,
+    "id": 3412005,
+    "label": null,
+    "name": "素材クエストを{}回クリアしよう",
+    "name_when_count_one": "",
+    "navigation_task_url_id": null,
+    "prev_mission_id": null,
+    "priority": 5,
+    "reset_cycle": null,
+    "start_at": null,
+    "steps": [
+      {
+        "count": 100,
+        "reward_set_id": 3412003,
+        "start_at": null
+      }
+    ],
+    "total_task_condition_id": null,
+    "transition": {
+      "equipment_slot_type": null,
+      "focused_on": 1,
+      "transition": 16
+    }
   },
   {
     "category": 3,

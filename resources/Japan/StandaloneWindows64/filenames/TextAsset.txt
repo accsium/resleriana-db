@@ -2192,6 +2192,17 @@ TalkEvent_31_027ID
 TalkEvent_31_028ID
 TalkEvent_31_029ID
 TalkEvent_31_030ID
+TalkEvent_31_031ID
+TalkEvent_31_032ID
+TalkEvent_31_033ID
+TalkEvent_31_034ID
+TalkEvent_31_035ID
+TalkEvent_31_036ID
+TalkEvent_31_037ID
+TalkEvent_31_038ID
+TalkEvent_31_039_00ID
+TalkEvent_31_039_01ID
+TalkEvent_31_040ID
 TimelineCameraRouteTemplate
 TimelineCameraTemplate
 TimelineDirectionalLightTemplate

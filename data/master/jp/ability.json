@@ -18371,6 +18371,20 @@
   },
   {
     "ability_category_type": null,
+    "description": "自身がヘルト【九偉人 No.1】であり攻撃対象が小ブレイクまたはブレイク時、対象に「受ける攻撃の貫通力+{0}」を1回行動終了するまで付与<br>※複数のゲージを同時に0にしても発動は1回",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 6001306,
+        "limit_count": null,
+        "value": 15000
+      }
+    ],
+    "id": 301360,
+    "name": "万象ヲ統ス英傑ノ槍"
+  },
+  {
+    "ability_category_type": null,
     "description": "得意属性が火属性の時、スキルダメージ+{0}％",
     "effects": [
       {
@@ -33791,6 +33805,26 @@
   },
   {
     "ability_category_type": null,
+    "description": "「冥き追憶」は「先駆け」と「スキル威力+50%」",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72500203,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72500099,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1980252,
+    "name": "原点にして頂点"
+  },
+  {
+    "ability_category_type": null,
     "description": "味方全員の物攻+{0}%",
     "effects": [
       {
@@ -44172,6 +44206,82 @@
     ],
     "id": 1990560,
     "name": "撃滅する冥暗"
+  },
+  {
+    "ability_category_type": null,
+    "description": "自身のバーストスキルをゲージ化<br>※バーストゲージは3周分ストック可能<br><br>攻撃対象が小ブレイクまたはブレイク時、自身のバーストゲージを{0}％増加し、対象に「受ける物理攻撃ダメージ+{1}％」と「受ける魔法攻撃ダメージ+{2}％」を2回攻撃を受けるまで付与<br>※複数のゲージを同時に0にしても発動は1回",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001759,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001760,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001761,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001452,
+        "limit_count": null,
+        "value": 30000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001511,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990561,
+    "name": "九偉人の力-Ⅰ-"
+  },
+  {
+    "ability_category_type": null,
+    "description": "「冥き追憶」タグを持つキャラ数に応じ、自身が与えるマイナス効果量+10～{0}％と味方全員の物攻・魔攻+20～{1}％(1～5人で多いほど増加)<br><br>「冥き追憶」の味方全員は1回目のターン開始時、自身のパネルをバーストパネルに変換(空パネルの時は生成)",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 72001762,
+        "limit_count": null,
+        "value": 5000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001763,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001764,
+        "limit_count": null,
+        "value": 10000
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001765,
+        "limit_count": null,
+        "value": 100
+      },
+      {
+        "ability_timing_value": null,
+        "id": 72001766,
+        "limit_count": null,
+        "value": 0
+      }
+    ],
+    "id": 1990562,
+    "name": "支配する冥暗"
   },
   {
     "ability_category_type": null,
@@ -66322,6 +66432,76 @@
     ],
     "id": 4991382,
     "name": "想力「お母さんに任せて！」"
+  },
+  {
+    "ability_category_type": null,
+    "description": "バトル開始時、アトリエ砲ゲージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000401,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991383,
+    "name": "アトリエ砲チャージテンポⅢ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "バトル開始時、アトリエ砲ゲージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000401,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991384,
+    "name": "アトリエ砲チャージテンポⅢ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "バトル開始時、アトリエ砲ゲージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000401,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991385,
+    "name": "アトリエ砲チャージテンポⅢ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "バトル開始時、アトリエ砲ゲージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000401,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991386,
+    "name": "アトリエ砲チャージテンポⅢ"
+  },
+  {
+    "ability_category_type": null,
+    "description": "バトル開始時、アトリエ砲ゲージ+{0}％",
+    "effects": [
+      {
+        "ability_timing_value": null,
+        "id": 95000401,
+        "limit_count": null,
+        "value": 5000
+      }
+    ],
+    "id": 4991387,
+    "name": "アトリエ砲チャージテンポⅢ"
   },
   {
     "ability_category_type": null,

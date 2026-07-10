@@ -4431,6 +4431,18 @@
     "bgm_path_hash": 0,
     "description": "",
     "icon_still_path_hash": 0,
+    "id": 1412101,
+    "is_changeable_home": true,
+    "is_receivable": false,
+    "name": "31章",
+    "still_path_hash": "3979118696326708230",
+    "thumbnail_path_hash": "3979118696326708230",
+    "timeline_asset_path_hash": "9112135514616765808"
+  },
+  {
+    "bgm_path_hash": 0,
+    "description": "",
+    "icon_still_path_hash": 0,
     "id": 2132201,
     "is_changeable_home": false,
     "is_receivable": false,
@@ -4797,6 +4809,18 @@
     "name": "イラスト8",
     "still_path_hash": "8107639092897232534",
     "thumbnail_path_hash": "185770449534900380",
+    "timeline_asset_path_hash": 0
+  },
+  {
+    "bgm_path_hash": "6478878067126759903",
+    "description": "獲得することでホーム画面に設定できる。",
+    "icon_still_path_hash": "7191861853980393782",
+    "id": 210022101,
+    "is_changeable_home": true,
+    "is_receivable": true,
+    "name": "イラスト9",
+    "still_path_hash": "2550057275174802084",
+    "thumbnail_path_hash": "944038952597232285",
     "timeline_asset_path_hash": 0
   }
 ]
