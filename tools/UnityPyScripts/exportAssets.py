@@ -73,7 +73,7 @@ def unpack_assets(bundle_name: str):
                     dest = dest + ".webp"
                     # Other webp options: https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html#webp
                     # "exact" will be removed later
-                    data.image.save(dest, 'webp', **{ 'exact': True }) # lossy
+                    data.image.save(dest, 'webp', lossless=True)
 
             filenames.append(data.name)
 
