@@ -31,7 +31,7 @@ def unpack_all_assets(source_folder : str):
             # iterate over internal objects
             for obj in env.objects:
                 # process specific object types
-                if obj.type.name in ["Texture2D"]:
+                if obj.type.name in ["Texture2D", "Sprite"]:
 
                     if obj.container in container_map:
                         # print(container_map[obj.container])

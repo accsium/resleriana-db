@@ -68,14 +68,15 @@ function generateContainerToPathHash(container_json, bundle_folder, output_json)
 function exportAssets(
     bundle_names,
     bundle_folder,
-    asset_type, 
+    asset_type,
     {
         output_folder=undefined,
         filename_list=undefined,
         image_format=undefined,
         regex=undefined,
         bundlename_list=undefined,
-        processes=undefined
+        processes=undefined,
+        skip_existing=undefined
     } = {}
 ) {
     const exePath = path.resolve(__dirname, `./UnityPyScripts/exportAssets.py`);
@@ -98,6 +99,7 @@ function exportAssets(
     if (regex) args.push('--regex', regex);
     if (bundlename_list) args.push('--bundlename_list', bundlename_list);
     if (processes) args.push('--processes', processes);
+    if (skip_existing) args.push('--skip-existing');
 
     execSync(`python`, args, { stdio: 'inherit' });
 }

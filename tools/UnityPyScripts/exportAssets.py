@@ -20,6 +20,7 @@ parser.add_argument("-b", "--bundlename_list", type=str, help="Path to write the
 parser.add_argument("-f", "--image_format", type=str, help="Format of images to output in. Either png or webp. Defaults to webp.")
 parser.add_argument("-r", "--regex", type=str, help="Regex to filter on file names.")
 parser.add_argument("-p", "--processes", type=int, help="Number of processes to use for multiprocessing. Use 1 to disable multiprocessing.")
+parser.add_argument("-s", "--skip-existing", action="store_true", help="Skip exporting files that already exist in the output folder.")
 args = parser.parse_args()
 
 counter = None
@@ -68,14 +69,17 @@ def unpack_assets(bundle_name: str):
 
                 if args.image_format == "png":
                     dest = dest + ".png"
-                    data.image.save(dest, 'png') # idk if this is lossy or not
                 else:
                     dest = dest + ".webp"
-                    # Other webp options: https://pillow.readthedocs.io/en/stable/handbook/image-file-formats.html#webp
-                    # "exact" will be removed later
-                    data.image.save(dest, 'webp', lossless=True)
 
-            filenames.append(data.name)
+                if args.skip_existing and os.path.exists(dest):
+                    filenames.append(data.name)
+                    continue
+
+                if args.image_format == "png":
+                    data.image.save(dest, 'png')
+                else:
+                    data.image.save(dest, 'webp', lossless=True)
 
     logMultiCounter()
     return filenames
