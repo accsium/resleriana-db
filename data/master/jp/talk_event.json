@@ -13328,6 +13328,202 @@
     "start_asset_hash": 0
   },
   {
+    "id": 101034001,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "3742889193587521426",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034002,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "7185236820677851823",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034003,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "3481449130835517081",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034004,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "7764650697401401346",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034005,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "4805267172086161927",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034006,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1245311614007035441",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034007,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1918322640338916757",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034008,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1366716025904694596",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034009,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "4688262211064717686",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034010,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "5207026489670488475",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034012,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1991877846764598701",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034013,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "7619274348914279283",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034015,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "4204841422782490437",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034018,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "3570761770492441825",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034020,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "7091592375796715735",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034022,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1509689454785301847",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034023,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "5121999976203151713",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034024,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "5531409632147716805",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034025,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "2243921369682337523",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034027,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1793502795931588328",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034028,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1383926002414994754",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034029,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "4671130040067105140",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034030,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "4749294416420208972",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034031,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "1301367960387806586",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034032,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "8304930774875861514",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034033,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "2352721589007226428",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034034,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "3130555647357633946",
+    "start_asset_hash": 0
+  },
+  {
+    "id": 101034035,
+    "is_avant_title_move_continue": false,
+    "is_avant_title_move_from_home": true,
+    "main_asset_hash": "8689262953760563632",
+    "start_asset_hash": 0
+  },
+  {
     "id": 901001001,
     "is_avant_title_move_continue": false,
     "is_avant_title_move_from_home": true,

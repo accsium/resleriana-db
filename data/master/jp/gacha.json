@@ -22351,6 +22351,210 @@
   {
     "additional_pieces": [
       {
+        "character_ids": [47201],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": "6475133687004874862",
+    "bgm_path_hash": "3567234261700232409",
+    "bonuses_per_draw": [],
+    "description": "キューンが新登場＆PickUP！\n2026/08/02 11:59まで開催",
+    "end_at": "2026-08-02T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 1,
+            "id": 10001,
+            "ticket_description": null
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 2,
+            "id": 10002,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 24141,
+    "gacha_rate_set_name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2414,
+    "image_path_hash": "6185356060805932429",
+    "is_disp_home_banner": true,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES",
+    "picked_up_memoria_ids": [30242],
+    "priority": 590,
+    "shop_id": 5,
+    "small_banner_label": null,
+    "small_banner_path_hash": "196404343779333949",
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": 1462,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [47201],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "3567234261700232409",
+    "bonuses_per_draw": [],
+    "description": "有償星導石で1日1回限定！PU確率が2倍！\n2026/07/31 11:59まで開催",
+    "end_at": "2026-07-31T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "PU確率2倍!\n残り1回!",
+            "gacha_button_type": 3,
+            "id": 24151,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 24151,
+    "gacha_rate_set_name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES[1日1回限定・有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 2415,
+    "image_path_hash": "6185356060805932429",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES[1日1回限定・有償限定]",
+    "picked_up_memoria_ids": [30242],
+    "priority": 591,
+    "shop_id": 5,
+    "small_banner_label": "1日1回限定！",
+    "small_banner_path_hash": "196404343779333949",
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "3567234261700232409",
+    "bonuses_per_draw": [],
+    "description": "有償星導石でガチャを50回引くと追加のガチャが出現！\n2026/08/02 11:59まで開催",
+    "end_at": "2026-08-02T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 1,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [922, 923, 924, 925, 926],
+    "gacha_type": 2,
+    "id": 2416,
+    "image_path_hash": "6185356060805932429",
+    "is_disp_home_banner": false,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 592,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "196404343779333949",
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1210205877442536509",
+    "bonuses_per_draw": [],
+    "description": "STEP2とSTEP5は1回無料\n選択した★3キャラが確定！\n2026/08/03 11:59まで開催",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 1,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [946, 947, 948, 949, 950],
+    "gacha_type": 2,
+    "id": 2443,
+    "image_path_hash": "8985084357666255736",
+    "is_disp_home_banner": true,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "果ての大陸到達記念 ★3キャラ選んで確定ガチャ",
+    "picked_up_memoria_ids": [],
+    "priority": 595,
+    "shop_id": null,
+    "small_banner_label": "選んで確定！",
+    "small_banner_path_hash": "90464708414549350",
+    "start_at": "2026-07-24T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 1,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 3,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
         "character_ids": [50101, 50301, 50401, 50501, 50601],
         "generic_piece_count": 50,
         "piece_count": 200
@@ -25691,6 +25895,142 @@
     "small_banner_label": "有償限定！",
     "small_banner_path_hash": "3297674458740771970",
     "start_at": "2026-07-07T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 2,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [46002, 46102, 46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "「冥き追憶」で登場したキャラ・メモリア\nが再PickUP！\n2026/08/03 11:59まで開催\n※本ガチャでピックアップされるキャラ・メモリア\nは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 1,
+            "id": 10001,
+            "ticket_description": null
+          }
+        ]
+      },
+      {
+        "gacha_buttons": [
+          {
+            "description": "",
+            "gacha_button_type": 2,
+            "id": 10002,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 30701,
+    "gacha_rate_set_name": "冥き追憶 シーズン2キャラ復刻ガチャ",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 3070,
+    "image_path_hash": "6951650808829344091",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": {
+      "pickup_character_deck": null,
+      "pickup_character_ids": [46202, 46102, 46002],
+      "pickup_character_skin_ids": [],
+      "pickup_memoria_ids": [30230, 30221],
+      "select_count": 1
+    },
+    "movie_path_hashes": [],
+    "name": "冥き追憶 シーズン2キャラ復刻ガチャ",
+    "picked_up_memoria_ids": [30221, 30230],
+    "priority": 130,
+    "shop_id": 5,
+    "small_banner_label": null,
+    "small_banner_path_hash": "1387595091294699331",
+    "start_at": "2026-07-20T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": 1486,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 2,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
+        "character_ids": [46002, 46102, 46202],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1915067688521612763",
+    "bonuses_per_draw": [],
+    "description": "15回限り！「冥き追憶」で登場したキャラ・メモリア\nが再PickUP！\nメダル8枚獲得！2026/08/03 11:59まで開催\n※本ガチャでピックアップされるキャラ・メモリア\nは期間限定となります。\n　詳細はお知らせをご確認下さい。",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "残り{}回!",
+            "gacha_button_type": 2,
+            "id": 30711,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 30701,
+    "gacha_rate_set_name": "冥き追憶 シーズン2キャラ復刻ガチャ[有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 3071,
+    "image_path_hash": "6951650808829344091",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": null,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": {
+      "pickup_character_deck": null,
+      "pickup_character_ids": [46202, 46102, 46002],
+      "pickup_character_skin_ids": [],
+      "pickup_memoria_ids": [30230, 30221],
+      "select_count": 1
+    },
+    "movie_path_hashes": [],
+    "name": "冥き追憶 シーズン2キャラ復刻ガチャ[有償限定]",
+    "picked_up_memoria_ids": [30221, 30230],
+    "priority": 131,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "1387595091294699331",
+    "start_at": "2026-07-20T03:00:00.000Z",
     "start_dash_hours": null,
     "step_up_display_type": null,
     "step_up_loop_count": null,
@@ -30929,6 +31269,70 @@
   {
     "additional_pieces": [
       {
+        "character_ids": [47201],
+        "generic_piece_count": 50,
+        "piece_count": 100
+      }
+    ],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "3567234261700232409",
+    "bonuses_per_draw": [
+      {
+        "id": 47201,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 8
+      }
+    ],
+    "description": "5回限り！PU確率が2倍！\nメダル16枚獲得！2026/08/02 11:59まで開催",
+    "end_at": "2026-08-02T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [
+      {
+        "gacha_buttons": [
+          {
+            "description": "おまけつき！\n残り{}回!",
+            "gacha_button_type": 2,
+            "id": 10005,
+            "ticket_description": null
+          }
+        ]
+      }
+    ],
+    "gacha_category": 1,
+    "gacha_rate_set_id": 2416017,
+    "gacha_rate_set_name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES[有償限定]",
+    "gacha_step_up_button_ids": [],
+    "gacha_type": 2,
+    "id": 241601,
+    "image_path_hash": "6185356060805932429",
+    "is_disp_home_banner": false,
+    "is_step_up": false,
+    "key_gacha_id": 2416,
+    "logo_path_hash": null,
+    "medal_id": 131,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "九偉人伝 純粋無垢の完全体 キューン LEGEND FES[有償限定]",
+    "picked_up_memoria_ids": [],
+    "priority": 592,
+    "shop_id": 5,
+    "small_banner_label": "有償限定！",
+    "small_banner_path_hash": "196404343779333949",
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": null,
+    "step_up_loop_count": null,
+    "step_up_loop_description": "",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [
+      {
         "character_ids": [43106, 43108],
         "generic_piece_count": 50,
         "piece_count": 100
@@ -31978,6 +32382,126 @@
     "small_banner_label": null,
     "small_banner_path_hash": "3371115316335383853",
     "start_at": "2026-07-10T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1338982274572964165",
+    "bonuses_per_draw": [],
+    "description": "【STEP7で新衣装が確定！】\n\n千歳の新衣装が登場！\nSTEPを進めるごとに新衣装の出現確率アップ！\n2026/08/03 11:59まで開催\n",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 3,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [10120, 10121, 10122, 10123, 10124, 10125, 10126],
+    "gacha_type": 2,
+    "id": 3100012,
+    "image_path_hash": "9156895385718148152",
+    "is_disp_home_banner": true,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": "7017149525386844137",
+    "medal_id": null,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "千歳 巫女色ハイビスカス 衣装調合",
+    "picked_up_memoria_ids": [],
+    "priority": 10012,
+    "shop_id": 5000,
+    "small_banner_label": null,
+    "small_banner_path_hash": "7888865315735966923",
+    "start_at": "2026-07-20T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1338982274572964165",
+    "bonuses_per_draw": [],
+    "description": "【STEP7で新衣装が確定！】\n\n鏑矢の新衣装が登場！\nSTEPを進めるごとに新衣装の出現確率アップ！\n2026/08/03 11:59まで開催\n",
+    "end_at": "2026-08-03T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 3,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [10127, 10128, 10129, 10130, 10131, 10132, 10133],
+    "gacha_type": 2,
+    "id": 3100013,
+    "image_path_hash": "7703522425228924680",
+    "is_disp_home_banner": true,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": "4655890628861685455",
+    "medal_id": null,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "鏑矢 波乗り領主 衣装調合",
+    "picked_up_memoria_ids": [],
+    "priority": 10013,
+    "shop_id": 5000,
+    "small_banner_label": null,
+    "small_banner_path_hash": "3826726983052371256",
+    "start_at": "2026-07-20T03:00:00.000Z",
+    "start_dash_hours": null,
+    "step_up_display_type": 1,
+    "step_up_loop_count": 1,
+    "step_up_loop_description": "残り{}周",
+    "ticket_id": null,
+    "wish_list_character_count": 0,
+    "wish_list_character_skin_count": 0,
+    "wish_list_gacha_type": 1,
+    "wish_list_memoria_count": 0
+  },
+  {
+    "additional_pieces": [],
+    "banner_path_hash": 0,
+    "bgm_path_hash": "1338982274572964165",
+    "bonuses_per_draw": [],
+    "description": "【STEP7で新衣装が確定！】\n\nウィルベルの新衣装が登場！\nSTEPを進めるごとに新衣装の出現確率アップ！\n2026/08/07 11:59まで開催\n※本衣装を着たウィルベルは、全てウィルベル【Witch in the dark】と同じキャラモデルのサイズになります。\n",
+    "end_at": "2026-08-07T03:00:00.000Z",
+    "gacha_battle_ids": [],
+    "gacha_button_groups": [],
+    "gacha_category": 3,
+    "gacha_rate_set_id": null,
+    "gacha_rate_set_name": null,
+    "gacha_step_up_button_ids": [10134, 10135, 10136, 10137, 10138, 10139, 10140],
+    "gacha_type": 2,
+    "id": 3100014,
+    "image_path_hash": "3073700622352374940",
+    "is_disp_home_banner": true,
+    "is_step_up": true,
+    "key_gacha_id": null,
+    "logo_path_hash": "3543919184201422212",
+    "medal_id": null,
+    "mixed_wish_list": null,
+    "movie_path_hashes": [],
+    "name": "ウィルベル 魔法使いの服 衣装調合",
+    "picked_up_memoria_ids": [],
+    "priority": 10014,
+    "shop_id": 5000,
+    "small_banner_label": null,
+    "small_banner_path_hash": "139570532949683531",
+    "start_at": "2026-07-24T03:00:00.000Z",
     "start_dash_hours": null,
     "step_up_display_type": 1,
     "step_up_loop_count": 1,

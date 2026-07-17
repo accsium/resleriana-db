@@ -7798,5 +7798,44 @@
         "text": "異邦人……ふっ。\n存外興味深い存在じゃないか"
       }
     ]
+  },
+  {
+    "character_id": 47201,
+    "exclude_end_quest_id": null,
+    "exclude_start_quest_id": null,
+    "id": 203,
+    "key_quest_id": null,
+    "voice_list": [
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 1,
+        "text": "錬金術、錬金術♪\n調合するなら手伝うよ！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 2,
+        "text": "ここ、快適だし、錬金術の本も\nいっぱいあるし、最高だなぁ……！"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 3,
+        "text": "兄貴も姉貴も……兄弟には普通の人が\nいない気がする……性格的に"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 4,
+        "text": "怖いのは嫌だなぁ……\nぷににでもなって、のんびり隠れてたい……"
+      },
+      {
+        "end_at": null,
+        "start_at": null,
+        "system_voice_type": 5,
+        "text": "素材の採取って楽しいよねぇ。\n誰か誘ってくれないかなぁ……"
+      }
+    ]
   }
 ]

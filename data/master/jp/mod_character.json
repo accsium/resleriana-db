@@ -998,5 +998,10 @@
     "character_id": 47101,
     "condition_tags": [],
     "id": 200
+  },
+  {
+    "character_id": 47201,
+    "condition_tags": [6],
+    "id": 201
   }
 ]

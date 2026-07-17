@@ -15935,6 +15935,45 @@
     "timeline_path_hash": "3805882452737106930"
   },
   {
+    "character_id": null,
+    "character_skin_id": 99948,
+    "icon_still_path_hash": 0,
+    "id": 1248,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100013,
+    "start_at": null,
+    "still_path_hash": 0,
+    "timeline_path_hash": "7666272696063566816"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99949,
+    "icon_still_path_hash": 0,
+    "id": 1249,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100014,
+    "start_at": null,
+    "still_path_hash": 0,
+    "timeline_path_hash": "8486533282096473796"
+  },
+  {
+    "character_id": null,
+    "character_skin_id": 99950,
+    "icon_still_path_hash": 0,
+    "id": 1250,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "コスチューム①ユニークシーン",
+    "priority": 100015,
+    "start_at": null,
+    "still_path_hash": 0,
+    "timeline_path_hash": "2299992405237436169"
+  },
+  {
     "character_id": 47101,
     "character_skin_id": null,
     "icon_still_path_hash": "2464089883814404580",
@@ -16017,5 +16056,89 @@
     "start_at": null,
     "still_path_hash": "188966674556099467",
     "timeline_path_hash": "5810941061123306715"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "2464089883814404580",
+    "id": 1257,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "立ち2",
+    "priority": 20223,
+    "start_at": null,
+    "still_path_hash": "3852012168914053433",
+    "timeline_path_hash": "3282884807554616669"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "3064578712337695371",
+    "id": 1258,
+    "is_receivable": false,
+    "key_tasks": [],
+    "name": "怒る",
+    "priority": 20224,
+    "start_at": null,
+    "still_path_hash": "4295739177963127762",
+    "timeline_path_hash": "2981273629379934914"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "1444634599821661208",
+    "id": 1259,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "考える3",
+    "priority": 20225,
+    "start_at": null,
+    "still_path_hash": "7778569649410511622",
+    "timeline_path_hash": "8481606555509824820"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7846463756210387285",
+    "id": 1260,
+    "is_receivable": false,
+    "key_tasks": [
+      {
+        "condition_id": 3139,
+        "count": 3,
+        "name": "★4.5で解放されます"
+      }
+    ],
+    "name": "祈る",
+    "priority": 20226,
+    "start_at": null,
+    "still_path_hash": "6658642233879386916",
+    "timeline_path_hash": "3234054172193545195"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7281902102701304666",
+    "id": 1261,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "ユニークシーン",
+    "priority": 20227,
+    "start_at": null,
+    "still_path_hash": "6939007845444162907",
+    "timeline_path_hash": "5605798101529050985"
+  },
+  {
+    "character_id": 47201,
+    "character_skin_id": null,
+    "icon_still_path_hash": "7273214321512210917",
+    "id": 1262,
+    "is_receivable": true,
+    "key_tasks": [],
+    "name": "エクストラモーション",
+    "priority": 20228,
+    "start_at": null,
+    "still_path_hash": "2872789001536092981",
+    "timeline_path_hash": "8282842756934596746"
   }
 ]

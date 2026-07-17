@@ -1595,12 +1595,40 @@
     "start_at": "2026-07-06T03:00:00.000Z"
   },
   {
+    "background_image_path_hash": "4649852196642890625",
+    "banner_path_hash": "8745501838090353157",
+    "bgm_path_hash": "2850667061821964487",
+    "damage_contest_id": 3,
+    "episode_id": 12,
+    "id": 61,
+    "logo_path_hash": "5531385243140836757",
+    "patterns": [
+      {
+        "ids": [100025],
+        "is_direct_opened": false,
+        "type": 1
+      },
+      {
+        "ids": [41],
+        "is_direct_opened": false,
+        "type": 4
+      },
+      {
+        "ids": [347],
+        "is_direct_opened": false,
+        "type": 2
+      }
+    ],
+    "priority": 60,
+    "start_at": "2026-07-20T03:00:00.000Z"
+  },
+  {
     "background_image_path_hash": 0,
     "banner_path_hash": 0,
     "bgm_path_hash": 0,
     "damage_contest_id": 3,
-    "episode_id": 12,
-    "id": 61,
+    "episode_id": 15,
+    "id": 62,
     "logo_path_hash": 0,
     "patterns": [
       {
@@ -1609,7 +1637,7 @@
         "type": 1
       }
     ],
-    "priority": 60,
-    "start_at": "2026-07-20T03:00:00.000Z"
+    "priority": 61,
+    "start_at": "2026-08-03T03:00:00.000Z"
   }
 ]

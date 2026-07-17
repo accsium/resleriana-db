@@ -5820,6 +5820,36 @@
     "text": "ほぅ……特別な贈りものらしい。\n有用に使ってやれよ"
   },
   {
+    "character_id": 47201,
+    "id": 47201001,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 8,
+    "text": "ねぇ、何かもらったみたいだよ"
+  },
+  {
+    "character_id": 47201,
+    "id": 47201002,
+    "is_regular": true,
+    "is_regular_milestone": false,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 9,
+    "text": "これ、役に立つものだよね？\n嬉しいなぁ……"
+  },
+  {
+    "character_id": 47201,
+    "id": 47201003,
+    "is_regular": true,
+    "is_regular_milestone": true,
+    "motion_path_hash": "4919949339469567906",
+    "navigation_character_id": null,
+    "system_voice_type": 10,
+    "text": "今だけの贈りものだって。特別感あるなぁ"
+  },
+  {
     "character_id": 50101,
     "id": 50101001,
     "is_regular": true,

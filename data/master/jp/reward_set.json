@@ -30620,6 +30620,343 @@
     ]
   },
   {
+    "id": 3366,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 131,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3367,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 47201,
+        "quantity": 100,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3368,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 47201,
+        "quantity": 100,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3369,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3370,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3371,
+    "rewards": [
+      {
+        "id": 1459,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3372,
+    "rewards": [
+      {
+        "id": 1459,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3373,
+    "rewards": [
+      {
+        "id": 1459,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3374,
+    "rewards": [
+      {
+        "id": 1459,
+        "quantity": 7,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3375,
+    "rewards": [
+      {
+        "id": 1460,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3376,
+    "rewards": [
+      {
+        "id": 1460,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3377,
+    "rewards": [
+      {
+        "id": 1460,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3378,
+    "rewards": [
+      {
+        "id": 1460,
+        "quantity": 7,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3379,
+    "rewards": [
+      {
+        "id": 1461,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3380,
+    "rewards": [
+      {
+        "id": 1461,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3381,
+    "rewards": [
+      {
+        "id": 1461,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3382,
+    "rewards": [
+      {
+        "id": 1461,
+        "quantity": 7,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3383,
+    "rewards": [
+      {
+        "id": 1279,
+        "quantity": 1,
+        "resource_params": {
+          "level": null,
+          "rank": null,
+          "skin": null,
+          "traits": [
+            {
+              "id": 2,
+              "rank": 4
+            },
+            {
+              "id": 60,
+              "rank": 4
+            }
+          ]
+        },
+        "type": 6
+      },
+      {
+        "id": 47201,
+        "quantity": 230,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 135,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3384,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 30,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3385,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3386,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3387,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 4
+      }
+    ]
+  },
+  {
+    "id": 3388,
+    "rewards": [
+      {
+        "id": 30242,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 17
+      }
+    ]
+  },
+  {
+    "id": 3392,
+    "rewards": [
+      {
+        "id": 1259,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 24
+      }
+    ]
+  },
+  {
+    "id": 3393,
+    "rewards": [
+      {
+        "id": 1261,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 24
+      },
+      {
+        "id": 1262,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 24
+      },
+      {
+        "id": 47201,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 8
+      },
+      {
+        "id": 135,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
     "id": 3396,
     "rewards": [
       {
@@ -30654,6 +30991,17 @@
       {
         "id": 135,
         "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3470,
+    "rewards": [
+      {
+        "id": 1486,
+        "quantity": 10,
         "resource_params": null,
         "type": 5
       }
@@ -38877,6 +39225,149 @@
       },
       {
         "id": 1452,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20409,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2210,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20410,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2215,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20411,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2220,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20412,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20413,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2220,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20414,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2225,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 20415,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
         "quantity": 10,
         "resource_params": null,
         "type": 5
@@ -114349,6 +114840,766 @@
     ]
   },
   {
+    "id": 22524,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22525,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22526,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 6,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22527,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 7,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22528,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2500,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22529,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3810,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22530,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3810,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22531,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3810,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22532,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3810,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 6,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22533,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3810,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1455,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1456,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 382,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 385,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22534,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22535,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22536,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 6,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22537,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 7,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22538,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 2510,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22539,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3820,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 2,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22540,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3820,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22541,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3820,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 4,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22542,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3820,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 6,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 22543,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 3820,
+        "resource_params": null,
+        "type": 3
+      },
+      {
+        "id": 1457,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 1458,
+        "quantity": 8,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 384,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 386,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 383,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      },
+      {
+        "id": 123,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
     "id": 29003,
     "rewards": [
       {
@@ -121336,6 +122587,50 @@
         "quantity": 10,
         "resource_params": null,
         "type": 5
+      }
+    ]
+  },
+  {
+    "id": 50257,
+    "rewards": [
+      {
+        "id": 1462,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 50258,
+    "rewards": [
+      {
+        "id": 1436,
+        "quantity": 5,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 50259,
+    "rewards": [
+      {
+        "id": 1435,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 50265,
+    "rewards": [
+      {
+        "id": 30243,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 17
       }
     ]
   },
@@ -140748,6 +142043,281 @@
         "quantity": 1,
         "resource_params": null,
         "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3422001,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422002,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 15,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422003,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422004,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 25,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422005,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 30,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422006,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 40,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422007,
+    "rewards": [
+      {
+        "id": 47201,
+        "quantity": 100,
+        "resource_params": null,
+        "type": 8
+      }
+    ]
+  },
+  {
+    "id": 3422008,
+    "rewards": [
+      {
+        "id": 210023101,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 21
+      }
+    ]
+  },
+  {
+    "id": 3432001,
+    "rewards": [
+      {
+        "id": 1410,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3432002,
+    "rewards": [
+      {
+        "id": 1412,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3432003,
+    "rewards": [
+      {
+        "id": 1459,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3442001,
+    "rewards": [
+      {
+        "id": 1411,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3442002,
+    "rewards": [
+      {
+        "id": 1411,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3442003,
+    "rewards": [
+      {
+        "id": 1460,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3452001,
+    "rewards": [
+      {
+        "id": 1411,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3452002,
+    "rewards": [
+      {
+        "id": 1411,
+        "quantity": 3,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3452003,
+    "rewards": [
+      {
+        "id": 1461,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462001,
+    "rewards": [
+      {
+        "id": 896,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462002,
+    "rewards": [
+      {
+        "id": 897,
+        "quantity": 50,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462003,
+    "rewards": [
+      {
+        "id": 898,
+        "quantity": 20,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462004,
+    "rewards": [
+      {
+        "id": 899,
+        "quantity": 10,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462005,
+    "rewards": [
+      {
+        "id": 1268,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462006,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 100,
+        "resource_params": null,
+        "type": 1
+      }
+    ]
+  },
+  {
+    "id": 3462007,
+    "rewards": [
+      {
+        "id": 1268,
+        "quantity": 1,
+        "resource_params": null,
+        "type": 5
+      }
+    ]
+  },
+  {
+    "id": 3462008,
+    "rewards": [
+      {
+        "id": 1,
+        "quantity": 100,
+        "resource_params": null,
+        "type": 1
       }
     ]
   },

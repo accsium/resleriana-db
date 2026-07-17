@@ -2658,5 +2658,33 @@
     "priority": 1009,
     "start_at": "2026-07-13T03:00:00.000Z",
     "type": 2
+  },
+  {
+    "background_image_path_hash": "1842962045697801061",
+    "base_image_path_hash": "3302452094471963549",
+    "elapsed_days": null,
+    "end_at": "2026-08-01T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 194,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "7680776167180770317",
+    "name": "メイン32章前編追加記念 LOGIN BONUS",
+    "priority": 1010,
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "type": 2
+  },
+  {
+    "background_image_path_hash": "281268194224986247",
+    "base_image_path_hash": "1620884666667375460",
+    "elapsed_days": null,
+    "end_at": "2026-08-11T03:00:00.000Z",
+    "fixed_texts": [],
+    "id": 198,
+    "login_bonus_text_ids": [],
+    "logo_image_path_hash": "1615644583713483607",
+    "name": "『カリアのアトリエ』発売決定記念！LOGIN BONUS",
+    "priority": 1100,
+    "start_at": "2026-07-28T03:00:00.000Z",
+    "type": 2
   }
 ]

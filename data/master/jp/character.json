@@ -3623,7 +3623,7 @@
     "normal1_skill_ids": [11000661, 11000662, 11000663, 11000664, 11000665],
     "normal2_skill_ids": [12000666, 12000667, 12000668, 12000669, 12000670],
     "original_title_id": 14,
-    "overlay_name": "Wilbell Voll Erslied",
+    "overlay_name": "Wilbell Voll=ErsLied",
     "personality": 3,
     "profile_voice_text": "あ！　あたしが魔法使いだってこと、\n周りには言いふらさないでよね！",
     "resistance": {
@@ -3722,7 +3722,7 @@
     "normal1_skill_ids": [11001489, 11001490, 11001491, 11001492, 11001493],
     "normal2_skill_ids": [12001494, 12001495, 12001496, 12001497, 12001498],
     "original_title_id": 16,
-    "overlay_name": "Wilbell Voll Erslied",
+    "overlay_name": "Wilbell Voll=ErsLied",
     "personality": 3,
     "profile_voice_text": "普段から魔法使いという正体を隠して生活\nしてるんだもの。潜入くらいお手のものよ！",
     "resistance": {
@@ -19391,6 +19391,105 @@
     "tag_ids": [37, 38, 16, 22],
     "trait_color_id": 1,
     "voice_actor_id": 96
+  },
+  {
+    "ability_ids": [1990563, 1990564],
+    "acquisition_movie_path_hash": "7240548724066279988",
+    "acquisition_text": "末っ子だからって、負けないよ！\n私なりに精一杯、頑張るから……！",
+    "active1_skill_id": null,
+    "active2_skill_id": null,
+    "active3_skill_id": null,
+    "all_skill_evolved_ability_ids": [],
+    "another_name": "【Lethal Arsenal】",
+    "attack_attributes": [1],
+    "base_character_id": 472,
+    "battle_tool_trait_ids": [50, 52],
+    "board_ability1_ids": [1990463, 1990438, 1990413],
+    "board_ability2_ids": [],
+    "board_ability3_ids": [],
+    "burst_skill_ids": [14003917, 14003917, 14003917, 14003918, 14003919, 14003920, 14003921],
+    "can_use_battle_tool_mix": false,
+    "change": null,
+    "character_growth_id": 947201,
+    "character_size_id": 2,
+    "default_skin_id": null,
+    "description": "パルメ族により創られたホムンクルスで、「九偉人」の９番目。\n他の九偉人と共に、パルメ族の命令で「管理」を行う。\n身体の一部を武器に変化させて戦えるが、その力の使い道には思い悩むことも多い。\n調合の手伝いは大好きで、放っておくとそればかりやっている。",
+    "equipment_tool_trait_ids": [101],
+    "evolved_burst_skill_ids": [],
+    "evolved_normal1_skill_ids": [],
+    "evolved_normal2_skill_ids": [],
+    "ex_growboard_id": 472012,
+    "extra_skill_ids": [14003922, 14003923],
+    "fullname": "キューン",
+    "growboard_id": 472011,
+    "id": 47201,
+    "initial_rarity": 3,
+    "initial_status": {
+      "attack": 80,
+      "defense": 50,
+      "hp": 190,
+      "magic": 62,
+      "mental": 55,
+      "speed": 270
+    },
+    "is_alchemist": true,
+    "leader_skill": {
+      "abilities": [
+        {
+          "ability_id": 1980253,
+          "combat_power_coefficient": 4000,
+          "condition_ids": [33]
+        }
+      ],
+      "description": "「お菓子」は「物攻・魔攻・物防・魔防+35%」",
+      "name": "普通に憧れる末っ子"
+    },
+    "max_rarity": 7,
+    "model_path_hash": "913274709521753211",
+    "motion_type": 2,
+    "name": "キューン",
+    "neo_growboard_id": 472013,
+    "normal1_skill_ids": [11003907, 11003908, 11003909, 11003910, 11003911],
+    "normal2_skill_ids": [12003912, 12003913, 12003914, 12003915, 12003916],
+    "original_title_id": 27,
+    "overlay_name": "Quinn",
+    "personality": 1,
+    "profile_voice_text": "九偉人の末っ子で、能力てんこ盛りって\n言われても……私、ただの女の子だよ……？",
+    "resistance": {
+      "fire": 0,
+      "ice": 0,
+      "impact": 0,
+      "lightning": 0,
+      "piercing": 0,
+      "slashing": 5,
+      "wind": 0
+    },
+    "result_timeline_hash": "7268775543681580805",
+    "role": 1,
+    "series_id": 10,
+    "sort_name": "キューン",
+    "start_at": "2026-07-17T03:00:00.000Z",
+    "still_sets": [
+      {
+        "large_narrow_still_path_hash": "4003611978467100098",
+        "large_still_path_hash": "8828237384914194945",
+        "narrow_still_path_hash": "2666882359542244939",
+        "rarity": null,
+        "still_path_hash": "7374237645965483172"
+      },
+      {
+        "large_narrow_still_path_hash": 0,
+        "large_still_path_hash": 0,
+        "narrow_still_path_hash": 0,
+        "rarity": null,
+        "still_path_hash": 0
+      }
+    ],
+    "support_ability_ids": [500777, 500776, 500775, 500774, 500773, 500772, 500771, 500770],
+    "support_color_id": 3,
+    "tag_ids": [37, 17],
+    "trait_color_id": 2,
+    "voice_actor_id": 98
   },
   {
     "ability_ids": [1990334, 1990335],
