@@ -934,5 +934,18 @@
       "recipe": [],
       "event": []
     }
+  },
+  {
+    "id": 72,
+    "masterdata_version": "1784080548_R10ASrKgioc0ieze",
+    "log_update_time": "Fri, 17 Jul 2026 06:44:51 GMT",
+    "changes": {
+      "gacha": [2411, 2412, 2413, 2414, 2415, 2416, 241301, 241601],
+      "character": [47101, 47201],
+      "memoria": [30242],
+      "item": [1455, 1456, 1459, 1460, 1461, 1462, 1486],
+      "recipe": [872, 873],
+      "event": []
+    }
   }
 ]
